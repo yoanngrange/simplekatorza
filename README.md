@@ -1,4 +1,4 @@
-# Katorza — Programme minimaliste
+# SimpleKatorza
 
 App web statique responsive qui affiche la programmation du cinéma Katorza
 (Nantes) en se concentrant sur l'essentiel : titre, réalisateur, durée, affiche,
@@ -104,3 +104,5 @@ scraper échoue (le job GitHub Actions fail visiblement dans l'onglet Actions).
 Toutes les couleurs et polices sont en variables CSS en tête de `index.html`
 (section `<style>`). Les paramètres du scraper (URL source, dossier posters)
 sont en constantes en haut de `scraper.py`.
+
+[![pages-build-deployment](https://github.com/yoanngrange/simplekatorza/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/yoanngrange/simplekatorza/actions/workflows/pages/pages-build-deployment)
