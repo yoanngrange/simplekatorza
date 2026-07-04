@@ -1,0 +1,130 @@
+   if (withBlink) {
+          setTimeout(() => {
+            afterNextPaint(function(e) {
+              e.classList.add("in");
+            }, el);
+          }, 50);
+        }
+      });
+    }
+  }
+
+  function handleOtherMovies(currentElem) {
+    var elems = [];
+    var dayselecs = document.querySelectorAll(".daysselecjs.active");
+    // remainingSelecs = dayselecs.length;
+
+    dayselecs.forEach(function(el) {
+      if (el.dataset.day !== currentElem.dataset.day) {
+        elems.push(el);
+      }
+    });
+
+    var total = elems.length;
+    while (elems.length) {
+      afterNextPaint(dayselec, elems.pop(), currentElem.dataset.day);
+    }
+  }
+
+  const showScreenings = function(elem) {
+    elem.classList.add("active", "in");
+    currentDaySelected = elem.dataset.day;
+    dayselec(elem, elem.dataset.day, true);
+    afterNextPaint(handleOtherMovies, elem);
+  }
+</script>
+        <div id="resultats-vil" class="resultats-ville position-relative">
+          <ul>
+                                      <li itemscope itemtype="https://schema.org/ScreeningEvent" data-movie-slug="jim-queen">
+    <span id="jim-queen-NL" class="NL-scroll"></span>
+
+    <div class="nouvel-interface">
+              <meta itemprop="name" content="Jim Queen">
+        <span class="d-none" itemprop="location" itemscope itemtype="https://schema.org/MovieTheater">
+                      <meta itemprop="name" content="Katorza">
+                                <meta itemprop="screenCount" content="6">
+          
+                      <meta itemprop="address" content="3 rue Corneille, 44000 Nantes - Nantes">
+                  </span>
+      
+      <div class="fiche-film" itemprop="workPresented" itemscope itemtype="https://schema.org/Movie">
+        <div class="img-film">
+                                          <a itemprop="url" href="https://www.cinefil.com/film/jim-queen">
+              <img itemprop="image"                 alt="Affiche du film : Jim Queen"
+                src="https://images3.cinefil.com/movies/1381866.webp?class=posterlg">
+            </a>
+                  </div>
+
+        <div class="fiche-infos">
+          <h3 itemprop="name"><a href="https://www.cinefil.com/film/jim-queen">Jim Queen</a></h3>
+                      <meta itemprop="datePublished" content="2026-06-17">
+                    <div class="note">
+                                    <div class="duree duree-lg">
+                                            <meta itemprop="duration" content="PT85M">
+                <span>2026<span class="smallsep">|</span></span>
+                1h25min  
+                <span>
+                                      <span class="smallsep">|</span>
+                    <a href="https://www.cinefil.com/genres-de-films/animation/tous-les-films"><span
+                        itemprop="genre">Animation</span></a>
+                                  </span>
+                          </div>
+
+            
+
+          </div>
+                                <p class="realisateurpos"> De
+                              <span itemprop="director" itemscope itemtype="https://schema.org/Person"><a itemprop="url"
+                    href="https://www.cinefil.com/star/nicolas-athane"><strong
+                      itemprop="name">  Nicolas Athané</strong></a>, </span>
+                              <span itemprop="director" itemscope itemtype="https://schema.org/Person"><a itemprop="url"
+                    href="https://www.cinefil.com/star/marco-nguyen"><strong
+                      itemprop="name">  Marco Nguyen</strong></a></span>
+                          </p>
+          
+                      <div class="actorpos screenings"> Avec
+                              <span itemprop="director" itemscope itemtype="https://schema.org/Person"><a itemprop="url"
+                    href="https://www.cinefil.com/star/alex-ramires"><strong
+                      itemprop="name">  Alex Ramirès</strong></a>,                 </span>
+                              <span itemprop="director" itemscope itemtype="https://schema.org/Person"><a itemprop="url"
+                    href="https://www.cinefil.com/star/jeremy-gillet"><strong
+                      itemprop="name">  Jéremy Gillet</strong></a>,                 </span>
+                              <span itemprop="director" itemscope itemtype="https://schema.org/Person"><a itemprop="url"
+                    href="https://www.cinefil.com/star/shirley-souagnon"><strong
+                      itemprop="name">  Shirley Souagnon</strong></a>                </span>
+                          </div>
+          
+          
+
+
+                                <div class="container-button"
+               itemprop="trailer" itemscope itemtype="https://schema.org/VideoObject" >
+              <button type="button" class="modal-trigger btn btn-c" data-movie-title="Jim Queen"
+                data-movie-link="https://www.cinefil.com/film/jim-queen" data-bs-toggle="modal"
+                data-bs-target="#single-modal" data-video="{&quot;video_id&quot;:17734,&quot;video_url&quot;:&quot;vid_6a004df10964c&quot;,&quot;video_mymetype&quot;:&quot;video\/mp4&quot;,&quot;video_poster&quot;:&quot;&quot;,&quot;video_descurl&quot;:&quot;https%3A%2F%2Fwww.cinefil.com%2Ffilm%2Fjim-queen%2Fapercu&quot;}">
+                <meta itemprop="thumbnailUrl"
+                  content="https://images3.cinefil.com/movies/1401648.webp?class=videoschema">
+                <meta itemprop="name" content="Jim Queen">
+                <meta itemprop="description" content="Bande-annonce officielle [VF]">
+                <meta itemprop="uploadDate" content="2026-05-10T09:20:49.000000Z">
+                <meta itemprop="contentUrl" content="https://videos2.cinefil.com/vid_6a004df10964c.mp4">
+                <i class="bi bi-play-circle c-green"></i>
+                Bande-Annonce
+              </button>
+            </div>
+          
+                            </div>
+
+        <div class="Synopsis-infos" itemprop="description">
+          Jim, icône sexy de la scène gay parisienne, voit sa vie basculer lorsqu’il contracte l’Hétérose, un étrange virus qui transforme les hommes gays en hétérosexuels !  Il perd alors sa couronne et voit tout le monde lui tourner le dos à l’exception de son dernier follower, Lucien, un jeune Twink dans le placard. Ensemble, ils vont devoir parcourir les quatre coins de la capitale à la recherche d’un mystérieux remède capable de guérir Jim et de sauver la communauté LGBTQIA+ d’extinction.
+        </div>
+
+        <div class="horaires">
+          <div class="position-nav jours-seances">
+            <div class="boutons-programmation">
+                                                            <button id="2026-07-041"
+                  data-parent=".resultats-ville" data-day="Samedi"
+                  data-date="2026-07-04" data-fulldate="samedi 4 juillet" class="dayselector daysselecjs Samedi active in"
+                  onclick="showScreenings(this); return false;"
+                  aria-label="changement de date (Samedi 04)">
+  

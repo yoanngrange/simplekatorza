@@ -1,0 +1,838 @@
+{
+  "cinema": {
+    "name": "Katorza",
+    "city": "Nantes",
+    "address": "3 rue Corneille, 44000 Nantes",
+    "billetterie_url": "https://www.katorza.fr/katorza/alaffiche/katorza"
+  },
+  "source": "https://www.cinefil.com/cinema/le-katorza-nantes/programmation",
+  "scraped_at": "2026-07-04T18:35:07+02:00",
+  "films": [
+    {
+      "title": "Bouchra",
+      "year": 2026,
+      "duration_min": 83,
+      "genre": "Animation",
+      "directors": [
+        "Orian Barki",
+        "Meriem Bennani"
+      ],
+      "cast": [
+        "Meriem Bennani",
+        "Orian Barki",
+        "Fayçal Azizi"
+      ],
+      "synopsis": "",
+      "poster_url": "posters/1381860.webp",
+      "detail_url": "https://www.cinefil.com/film/bouchra",
+      "seances": [
+        {
+          "date": "2026-07-04",
+          "time": "18:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "22:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "14:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "18:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "16:35",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Les Dents de la mer",
+      "year": 1976,
+      "duration_min": 124,
+      "genre": "Horreur",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Roy Scheider",
+        "Robert Shaw",
+        "Richard Dreyfuss"
+      ],
+      "synopsis": "",
+      "poster_url": "posters/426238.webp",
+      "detail_url": "https://www.cinefil.com/film/les-dents-de-la-mer",
+      "seances": [
+        {
+          "date": "2026-07-05",
+          "time": "18:15",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Disclosure Day",
+      "year": 2026,
+      "duration_min": 142,
+      "genre": "Science-Fiction",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Emily Blunt",
+        "Josh O'Connor",
+        "Colin Firth"
+      ],
+      "synopsis": "",
+      "poster_url": "posters/1326014.webp",
+      "detail_url": "https://www.cinefil.com/film/disclosure-day",
+      "seances": [
+        {
+          "date": "2026-07-04",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "20:25",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Eruption",
+      "year": 2026,
+      "duration_min": 71,
+      "genre": "Drame",
+      "directors": [
+        "Pete Ohs"
+      ],
+      "cast": [
+        "Charli XCX",
+        "Lena Góra",
+        "Will Madden"
+      ],
+      "synopsis": "",
+      "poster_url": "posters/1365279.webp",
+      "detail_url": "https://www.cinefil.com/film/eruption-2026",
+      "seances": [
+        {
+          "date": "2026-07-04",
+          "time": "18:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "22:20",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "18:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "19:00",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Ghost Elephants",
+      "year": 2026,
+      "duration_min": 99,
+      "genre": "Documentaire",
+      "directors": [
+        "Werner Herzog"
+      ],
+      "cast": [
+        "Werner Herzog",
+        "Steve Boyes",
+        "Kerllen Costa"
+      ],
+      "synopsis": "",
+      "poster_url": "posters/1381886.webp",
+      "detail_url": "https://www.cinefil.com/film/ghost-elephants",
+      "seances": [
+        {
+          "date": "2026-07-04",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "18:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "18:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "14:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "18:30",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "In Waves",
+      "year": 2026,
+      "duration_min": 90,
+      "genre": "Animation",
+      "directors": [
+        "Phuong Mai Nguyen"
+      ],
+      "cast": [
+        "Rio Vega",
+        "Lyna Khoudri",
+        "Paul Kircher"
+      ],
+      "synopsis": "",
+      "poster_url": "posters/1387136.webp",
+      "detail_url": "https://www.cinefil.com/film/in-waves",
+      "seances": [
+        {
+          "date": "2026-07-04",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "16:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "20:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "22:20",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "16:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "16:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "20:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "16:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "20:35",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Jim Queen",
+      "year": 2026,
+      "duration_min": 85,
+      "genre": "Animation",
+      "directors": [
+        "Nicolas Athané",
+        "Marco Nguyen"
+      ],
+      "cast": [
+        "Alex Ramirès",
+        "Jéremy Gillet",
+        "Shirley Souagnon"
+      ],
+      "synopsis": "",
+      "poster_url": "posters/1381866.webp",
+      "detail_url": "https://www.cinefil.com/film/jim-queen",
+      "seances": [
+        {
+          "date": "2026-07-04",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "20:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "22:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "16:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "18:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "16:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "20:45",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Maspalomas",
+      "year": 2026,
+      "duration_min": 115,
+      "genre": "Drame",
+      "directors": [
+        "Aitor Arregi",
+        "José Mari Goenaga"
+      ],
+      "cast": [
+        "José Ramón Soroiz",
+        "Nagore Aranburu",
+        "Kandido Uranga"
+      ],
+      "synopsis": "",
+      "poster_url": "posters/1420213.webp",
+      "detail_url": "https://www.cinefil.com/film/maspalomas",
+      "seances": [
+        {
+          "date": "2026-07-04",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "20:35",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "20:55",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Les Moomins sur la Riviera",
+      "year": 2015,
+      "duration_min": 80,
+      "genre": "Animation",
+      "directors": [
+        "Xavier Picard"
+      ],
+      "cast": [
+        "Kris Gummerus",
+        "Maria Sid",
+        "Mats Långbacka"
+      ],
+      "synopsis": "Les Moomins décident de partir en vacances loin de leur chère vallée et débarquent sur la Côte d'Azur, alors que la saison estivale bat son plein. Ils s'adaptent tant bien que mal, avec beaucoup de quiproquos, à cet univers rempli de comtes, de vedettes de cinéma et de palaces luxueux où les baignoires ressemblent à des piscines. Mais quand Moominpapa se lie d'amitié avec un aristocrate et se fait appeler «de Moomin», c'en est trop pour Moominmama. Elle s'installe sur la plage en attendant que sa famille redescende sur Terre...",
+      "poster_url": "posters/1048092.webp",
+      "detail_url": "https://www.cinefil.com/film/les-moomins-sur-la-riviera",
+      "seances": [
+        {
+          "date": "2026-07-04",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "14:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "14:15",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Notre histoire - Chroniques du Caire",
+      "year": 2026,
+      "duration_min": 101,
+      "genre": "Drame",
+      "directors": [
+        "Abu Bakr Shawky"
+      ],
+      "cast": [
+        "Amir El-Masry",
+        "Valerie Pachner",
+        "Karim Kassem"
+      ],
+      "synopsis": "",
+      "poster_url": "posters/1403147.webp",
+      "detail_url": "https://www.cinefil.com/film/notre-histoire-chroniques-du-caire",
+      "seances": [
+        {
+          "date": "2026-07-04",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "16:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "16:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "20:30",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "L'Objet du délit",
+      "year": 2026,
+      "duration_min": 134,
+      "genre": "Comédie",
+      "directors": [
+        "Agnès Jaoui"
+      ],
+      "cast": [
+        "Daniel Auteuil",
+        "Eye Haidara",
+        "Agnès Jaoui"
+      ],
+      "synopsis": "",
+      "poster_url": "posters/1365226.webp",
+      "detail_url": "https://www.cinefil.com/film/lobjet-du-delit",
+      "seances": [
+        {
+          "date": "2026-07-04",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "13:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "16:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "13:55",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Regarde la mer",
+      "year": 1996,
+      "duration_min": 52,
+      "genre": "Drame",
+      "directors": [
+        "François Ozon"
+      ],
+      "cast": [
+        "Sasha Hails",
+        "Marina De Van",
+        "Paul Raoux"
+      ],
+      "synopsis": "En l'absence de son mari, Sasha passe ses vacances avec sa fille de 10 mois. Tatiana, une routarde étrange et peu bavarde, demande à s'installer dans son jardin. Afin de rompre la monotonie des vacances, Sasha entame le dialogue. Peu à peu, Tatiana investit les lieux, se rapprochant de plus en plus du bébé et de sa mère...",
+      "poster_url": "posters/746226.webp",
+      "detail_url": "https://www.cinefil.com/film/regarde-la-mer",
+      "seances": [
+        {
+          "date": "2026-07-07",
+          "time": "19:00",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Shana",
+      "year": 2026,
+      "duration_min": 80,
+      "genre": "Drame",
+      "directors": [
+        "Lila Pinell"
+      ],
+      "cast": [
+        "Eva Huault",
+        "Noémie Lvovsky",
+        "Sékouba Doucouré"
+      ],
+      "synopsis": "",
+      "poster_url": "posters/1383358.webp",
+      "detail_url": "https://www.cinefil.com/film/shana",
+      "seances": [
+        {
+          "date": "2026-07-04",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "18:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "18:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "18:45",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Le Tombeau des Lucioles",
+      "year": 1996,
+      "duration_min": 85,
+      "genre": "Animation",
+      "directors": [
+        "Isao Takahata"
+      ],
+      "cast": [
+        "Tsutomu Tatsumi",
+        "Ayano Shiraishi",
+        "Yoshiko Shinohara"
+      ],
+      "synopsis": "Japon, été 1945. Les B-29 américains ont rasé Kobé. Seita et Setsuko, orphelins et livrés à eux-mêmes, tentent de survivre dans un bunker désaffecté qu'illumine la présence de milliers de lucioles. Mais la famine, la maladie, l'indifférence et l'égoïsme des autres les condamneront à partir pour un monde meilleur.",
+      "poster_url": "posters/1134706.webp",
+      "detail_url": "https://www.cinefil.com/film/le-tombeau-des-lucioles",
+      "seances": [
+        {
+          "date": "2026-07-04",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "18:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "16:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "18:35",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "16:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "18:55",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Ulysse",
+      "year": 2026,
+      "duration_min": 97,
+      "genre": "Drame",
+      "directors": [
+        "Laetitia Masson"
+      ],
+      "cast": [
+        "Elodie Bouchez",
+        "Stanislas Merhar",
+        "Romane Bohringer"
+      ],
+      "synopsis": "",
+      "poster_url": "posters/1367498.webp",
+      "detail_url": "https://www.cinefil.com/film/ulysse-1955",
+      "seances": [
+        {
+          "date": "2026-07-04",
+          "time": "16:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "16:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "18:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "15:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "16:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "18:15",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Le Vertige",
+      "year": 2026,
+      "duration_min": 67,
+      "genre": "Animation",
+      "directors": [
+        "Quentin Dupieux"
+      ],
+      "cast": [
+        "Alain Chabat",
+        "Jonathan Cohen",
+        "Anaïs Demoustier"
+      ],
+      "synopsis": "",
+      "poster_url": "posters/1376522.webp",
+      "detail_url": "https://www.cinefil.com/film/le-vertige",
+      "seances": [
+        {
+          "date": "2026-07-04",
+          "time": "16:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "18:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "20:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "20:45",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "La Vénus électrique",
+      "year": 2026,
+      "duration_min": 122,
+      "genre": "Comédie",
+      "directors": [
+        "Pierre Salvadori"
+      ],
+      "cast": [
+        "Pio Marmaï",
+        "Anaïs Demoustier",
+        "Gilles Lellouche"
+      ],
+      "synopsis": "",
+      "poster_url": "posters/1376432.webp",
+      "detail_url": "https://www.cinefil.com/film/la-venus-electrique",
+      "seances": [
+        {
+          "date": "2026-07-04",
+          "time": "13:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "13:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-07",
+          "time": "13:55",
+          "version": "VF"
+        }
+      ]
+    }
+  ]
+}
