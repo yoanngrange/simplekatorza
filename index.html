@@ -2,11 +2,21 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Katorza — Programme</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>simpleKatorza — Programme du cinéma Katorza à Nantes</title>
+<meta name="description" content="Programmation de la semaine du cinéma Katorza à Nantes, en plus rapide et plus simple.">
+
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0F0E0C">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="simpleKatorza">
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Alatsi&family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root {
     --bg:            #0F0E0C;
@@ -17,75 +27,71 @@
     --text:          #F2EDE3;
     --text-muted:    #8A8478;
     --text-dim:      #5D584F;
-    --accent:        #E8B54A;   /* amber, marquee */
-    --accent-soft:   #E8B54A22;
-    --urgent:        #E85A3C;   /* imminent, «dans moins d'une heure» */
+    --accent:        #FEE304;   /* yellow — Katorza cat eye */
+    --accent-soft:   #FEE30422;
+    --urgent:        #E85A3C;
     --urgent-soft:   #E85A3C22;
-    --vo:            #B5C29B;   /* soft green for VO tag */
-    --vf:            #C9BDA8;   /* warm muted for VF tag */
+    --vo:            #B5C29B;
+    --vf:            #C9BDA8;
 
-    --font-display: 'Fraunces', 'Georgia', serif;
-    --font-body:    'Inter', system-ui, -apple-system, sans-serif;
-    --font-mono:    'IBM Plex Mono', 'Menlo', 'Monaco', monospace;
+    --font-display:   'Alatsi', 'Arial Black', sans-serif;
+    --font-editorial: 'Fraunces', 'Georgia', serif;
+    --font-body:      'Inter', system-ui, -apple-system, sans-serif;
+    --font-mono:      'IBM Plex Mono', 'Menlo', 'Monaco', monospace;
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
 
   html, body { background: var(--bg); color: var(--text); font-family: var(--font-body); font-size: 15px; line-height: 1.5; -webkit-font-smoothing: antialiased; }
-  body { min-height: 100vh; }
+  body { min-height: 100vh; min-height: 100dvh; }
 
   a { color: inherit; text-decoration: none; }
 
   /* --- Header --- */
   header.masthead {
-    padding: 32px 24px 20px;
+    padding: 40px 24px 24px;
     max-width: 1180px;
     margin: 0 auto;
     border-bottom: 1px solid var(--border);
   }
-  .brand-row {
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 16px;
-  }
-  .brand {
+  h1.brand {
     font-family: var(--font-display);
-    font-weight: 500;
-    font-size: clamp(48px, 9vw, 96px);
-    letter-spacing: -0.03em;
-    line-height: 0.9;
-    font-variation-settings: 'opsz' 144, 'SOFT' 100;
-  }
-  .brand em {
-    font-style: italic;
     font-weight: 400;
+    line-height: 0.95;
+    letter-spacing: 0.005em;
+    margin: 0;
+  }
+  .brand-simple {
+    display: block;
     color: var(--accent);
+    font-size: clamp(18px, 3.4vw, 32px);
+    letter-spacing: 0.18em;
+    margin-bottom: 0.08em;
+    padding-left: 0.15em;
   }
-  .subtitle {
-    font-family: var(--font-mono);
-    font-size: 12px;
-    color: var(--text-muted);
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-    max-width: 320px;
-    text-align: right;
-    line-height: 1.5;
+  .brand-katorza {
+    display: block;
+    font-size: clamp(56px, 12vw, 120px);
+    letter-spacing: 0.005em;
+    white-space: nowrap;
   }
-  .subtitle .live-dot {
+  .brand-kat { color: var(--text); }
+  .brand-rza { color: var(--accent); }
+  .brand-o {
     display: inline-block;
-    width: 7px;
-    height: 7px;
-    border-radius: 50%;
-    background: var(--accent);
-    margin-right: 6px;
-    vertical-align: middle;
-    animation: pulse 2.4s ease-in-out infinite;
+    position: relative;
+    vertical-align: baseline;
   }
-  @keyframes pulse {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.35; }
+  .brand-o-letter {
+    visibility: hidden;
+  }
+  .brand-cat {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 0.7em;
+    height: 0.7em;
   }
 
   /* --- Tabs --- */
@@ -135,14 +141,14 @@
   main {
     max-width: 1180px;
     margin: 0 auto;
-    padding: 24px 24px 80px;
+    padding: 24px 24px 40px;
   }
 
   .empty {
     text-align: center;
     padding: 80px 20px;
     color: var(--text-muted);
-    font-family: var(--font-display);
+    font-family: var(--font-editorial);
     font-style: italic;
     font-size: 20px;
   }
@@ -186,7 +192,7 @@
     inset: 0;
     display: grid;
     place-items: center;
-    font-family: var(--font-display);
+    font-family: var(--font-editorial);
     font-size: 40px;
     color: var(--text-dim);
   }
@@ -194,7 +200,7 @@
   .film-body { display: flex; flex-direction: column; gap: 14px; }
 
   .film-title {
-    font-family: var(--font-display);
+    font-family: var(--font-editorial);
     font-weight: 500;
     font-size: clamp(22px, 3vw, 30px);
     letter-spacing: -0.015em;
@@ -261,7 +267,7 @@
     color: var(--text-muted);
     font-weight: 500;
   }
-  .day-header.is-today .day-num { color: var(--accent); }
+  .day-header.is-today .day-num,
   .day-header.is-today .day-label { color: var(--accent); }
 
   .seance {
@@ -296,14 +302,12 @@
   .seance .v.vo { background: var(--vo); }
   .seance .v.vf { background: var(--vf); }
 
-  /* passée */
   .seance.past {
     opacity: 0.32;
     cursor: default;
   }
   .seance.past:hover { background: var(--bg-elev); border-color: var(--border); }
 
-  /* imminente (< 1h) */
   .seance.imminent {
     border-color: var(--urgent);
     background: var(--urgent-soft);
@@ -335,7 +339,7 @@
     text-align: center;
   }
 
-  /* --- View «Dans moins d'une heure» --- */
+  /* --- Vue urgent --- */
   .urgent-list { display: flex; flex-direction: column; gap: 12px; }
   .urgent-row {
     display: grid;
@@ -372,7 +376,7 @@
   }
   .urgent-row .info { min-width: 0; }
   .urgent-row .info .t {
-    font-family: var(--font-display);
+    font-family: var(--font-editorial);
     font-weight: 500;
     font-size: 18px;
     line-height: 1.2;
@@ -409,24 +413,64 @@
     margin-top: 2px;
   }
 
-  /* --- Footer --- */
-  footer {
-    max-width: 1180px;
+  /* --- Footer / mentions --- */
+  footer.about {
+    max-width: 780px;
     margin: 0 auto;
-    padding: 32px 24px 40px;
+    padding: 40px 24px 60px;
+    color: var(--text-muted);
+    font-size: 13px;
+    line-height: 1.65;
     border-top: 1px solid var(--border);
-    font-family: var(--font-mono);
-    font-size: 11px;
-    color: var(--text-dim);
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 12px;
   }
-  footer a { color: var(--text-muted); }
-  footer a:hover { color: var(--accent); }
+
+  /* --- PWA install prompt --- */
+  #install-prompt {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 14px 16px;
+    background: var(--bg-elev-2);
+    border: 1px solid var(--accent);
+    border-radius: 8px;
+    display: none;
+    align-items: center;
+    gap: 12px;
+    z-index: 100;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+    font-size: 13px;
+  }
+  #install-prompt.visible { display: flex; }
+  #install-prompt .icon {
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+  }
+  #install-prompt .msg {
+    flex: 1;
+    line-height: 1.35;
+  }
+  #install-prompt .msg strong { display: block; color: var(--text); }
+  #install-prompt button {
+    background: var(--accent);
+    color: var(--bg);
+    border: 0;
+    border-radius: 3px;
+    padding: 8px 12px;
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  #install-prompt button.dismiss {
+    background: transparent;
+    color: var(--text-muted);
+    padding: 8px 6px;
+    font-weight: 400;
+  }
 
   /* --- Responsive --- */
   @media (max-width: 780px) {
@@ -460,17 +504,14 @@
   }
 
   @media (max-width: 480px) {
-    header.masthead { padding: 24px 16px 16px; }
+    header.masthead { padding: 28px 16px 16px; }
     nav.tabs { padding: 16px 16px 0; }
-    main { padding: 16px 16px 60px; }
-    footer { padding: 24px 16px 32px; }
-    .brand { font-size: clamp(40px, 14vw, 64px); }
-    .subtitle { font-size: 10px; }
+    main { padding: 16px 16px 40px; }
+    footer.about { padding: 32px 16px 48px; }
     .film { grid-template-columns: 72px 1fr; gap: 12px; }
   }
 
   @media (prefers-reduced-motion: reduce) {
-    .subtitle .live-dot,
     .seance.imminent { animation: none; }
   }
 </style>
@@ -478,14 +519,17 @@
 <body>
 
 <header class="masthead">
-  <div class="brand-row">
-    <div class="brand">Kat<em>orza</em></div>
-    <div class="subtitle">
-      <span class="live-dot"></span>
-      <span id="now-label"></span><br>
-      Programmation de la semaine
-    </div>
-  </div>
+  <h1 class="brand">
+    <span class="brand-simple">SIMPLE</span>
+    <span class="brand-katorza"><span class="brand-kat">KAT</span><span class="brand-o"><span class="brand-o-letter">O</span><svg class="brand-cat" viewBox="0 0 57 57" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <path d="M57 28.5C57 44.2401 44.2401 57 28.5 57C12.7599 57 0 44.2401 0 28.5C0 12.7599 12.7599 0 28.5 0C44.2401 0 57 12.7599 57 28.5Z" fill="#FEE304"/>
+      <path d="M32.4268 18.5978C34.1075 15.5543 38.3813 11.7799 39.9522 12.3693C41.6919 13.0225 41.194 15.2644 41.084 18.589C41.1676 19.6416 40.5873 22.6958 39.8262 24.6125C40.9835 26.5998 41.6465 28.9107 41.6465 31.3761C41.6465 33.8525 40.9765 36.172 39.8096 38.1652C42.6129 42.1596 44 46.4312 44 52.4205C44 52.4205 37.4199 57.0003 28.5 57C19.58 57 12 52 12 52C12 46.011 13.7604 42.1596 16.5635 38.1652C15.3968 36.1721 14.7276 33.8523 14.7276 31.3761C14.7276 28.8649 15.4159 26.514 16.6133 24.5021C15.8737 22.5805 15.3194 19.6215 15.4014 18.589C15.2914 15.2644 14.7926 13.0225 16.5323 12.3693C18.0978 11.7818 22.3466 15.5294 24.0391 18.5675C25.3457 18.1447 26.7401 17.9162 28.1875 17.9162C29.6687 17.9162 31.0939 18.1558 32.4268 18.5978Z" fill="black"/>
+      <path d="M25.6972 27.0434C25.6972 25.8356 23.5469 25.8319 22.1863 26.2239C21.7693 26.344 21.3646 26.6675 21.5279 27.0696C21.8306 27.8152 23.0463 28.8103 23.9303 28.8103C25.1082 28.8103 25.6972 28.8103 25.6972 27.0434Z" fill="#FEE304"/>
+      <path d="M24.2099 27.3432C24.2099 27.897 23.9855 28.3459 23.7086 28.3459C23.4317 28.3459 23.2072 27.897 23.2072 27.3432C23.2072 26.7894 23.7465 25.8121 23.7086 26.5587C23.7465 25.8121 24.2099 26.7894 24.2099 27.3432Z" fill="black"/>
+      <path d="M30.8791 27.0434C30.8791 25.8356 33.0294 25.8319 34.3901 26.2239C34.8071 26.344 35.2117 26.6675 35.0484 27.0696C34.7457 27.8152 33.53 28.8103 32.646 28.8103C31.4681 28.8103 30.8791 28.8103 30.8791 27.0434Z" fill="#FEE304"/>
+      <path d="M32.3664 27.3432C32.3664 27.897 32.5909 28.3459 32.8678 28.3459C33.1447 28.3459 33.3691 27.897 33.3691 27.3432C33.3691 26.7894 32.8298 25.8121 32.8678 26.5587C32.8298 25.8121 32.3664 26.7894 32.3664 27.3432Z" fill="black"/>
+    </svg></span><span class="brand-rza">RZA</span></span>
+  </h1>
 </header>
 
 <nav class="tabs" role="tablist">
@@ -502,28 +546,32 @@
   <section id="view-urgent" role="tabpanel" hidden></section>
 </main>
 
-<footer>
-  <div>
-    <a id="cinema-link" href="#" target="_blank" rel="noopener">Katorza · 3 rue Corneille, Nantes</a>
-  </div>
-  <div>
-    Source : <a id="source-link" href="#" target="_blank" rel="noopener">cinefil.com</a>
-    · <span id="scraped-at">–</span>
-  </div>
+<footer class="about">
+  <p>SimpleKatorza a pour objectif d'offrir une expérience plus rapide et plus simple que le site web du cinéma Katorza à Nantes. Il vous permet de voir la programmation de la semaine mais aussi de voir les films qui commencent dans moins d'une heure. Il n'a pas d'objectif financier et n'est pas lié au cinéma Katorza de quelconque façon. Il est mis à jour tous les mercredis matin à 09:00. Il décline toute responsabilité en cas d'erreur sur la programmation.</p>
 </footer>
+
+<div id="install-prompt" role="dialog" aria-label="Installer l'application">
+  <img class="icon" src="icon-192.png" alt="">
+  <div class="msg">
+    <strong>Installer simpleKatorza</strong>
+    Ajouter à votre écran d'accueil
+  </div>
+  <button id="install-btn" type="button">Installer</button>
+  <button class="dismiss" id="install-dismiss" type="button" aria-label="Fermer">×</button>
+</div>
 
 <script>
 (function () {
   'use strict';
 
   const JOURS_COURT = ['Dim', 'Lun', 'Mar', 'Mer', 'Jeu', 'Ven', 'Sam'];
-  const JOURS_LONG  = ['Dimanche', 'Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi', 'Samedi'];
 
   const state = {
     data: null,
-    weekDates: [],       // 7 Date objects starting today
+    weekDates: [],
     view: 'programme',
     now: new Date(),
+    showSynopsis: true,
   };
 
   // ---------- Utils ----------
@@ -535,10 +583,9 @@
     return h ? `${h}h${String(m).padStart(2, '0')}` : `${m}min`;
   }
 
-  function seanceDate(seance) {
-    // "2026-07-04" + "20:30" → Date
-    const [y, mo, d] = seance.date.split('-').map(Number);
-    const [h, mi] = seance.time.split(':').map(Number);
+  function seanceDate(s) {
+    const [y, mo, d] = s.date.split('-').map(Number);
+    const [h, mi] = s.time.split(':').map(Number);
     return new Date(y, mo - 1, d, h, mi, 0, 0);
   }
 
@@ -548,26 +595,14 @@
       && a.getDate() === b.getDate();
   }
 
-  function fmtNow(d) {
-    const day = JOURS_LONG[d.getDay()];
-    const num = d.getDate();
-    const mo = ['janv.', 'févr.', 'mars', 'avr.', 'mai', 'juin', 'juil.', 'août', 'sept.', 'oct.', 'nov.', 'déc.'][d.getMonth()];
-    const t = String(d.getHours()).padStart(2,'0') + ':' + String(d.getMinutes()).padStart(2,'0');
-    return `${day} ${num} ${mo} · ${t}`;
-  }
-
   function computeWeekDates(baseDate, films) {
-    // Prend la plus petite date de séance ≥ aujourd'hui, ou aujourd'hui, comme point de départ
     const today = new Date(baseDate.getFullYear(), baseDate.getMonth(), baseDate.getDate());
     let start = today;
-    // Vérifie qu'on a bien des séances sur la semaine à partir d'aujourd'hui
-    // Sinon, cale sur la première date de séance disponible
     const allDates = films
       .flatMap(f => f.seances.map(s => s.date))
       .sort();
     if (allDates.length) {
-      const firstIso = allDates[0];
-      const [y, mo, d] = firstIso.split('-').map(Number);
+      const [y, mo, d] = allDates[0].split('-').map(Number);
       const first = new Date(y, mo - 1, d);
       if (first > today) start = first;
     }
@@ -578,8 +613,8 @@
     });
   }
 
-  function seanceStatus(seance, now) {
-    const dt = seanceDate(seance);
+  function seanceStatus(s, now) {
+    const dt = seanceDate(s);
     const diffMs = dt - now;
     if (diffMs < 0) return { key: 'past', diffMs };
     if (diffMs <= 60 * 60 * 1000) return { key: 'imminent', diffMs };
@@ -595,11 +630,15 @@
     return rm ? `${h}h${String(rm).padStart(2,'0')}` : `${h}h`;
   }
 
-  function katorzaBilletterieUrl(film) {
-    // Le lien direct VAD par séance n'est pas fiable à générer sans scraper
-    // katorza.fr. On envoie donc vers la fiche générale du cinéma, qui liste
-    // les créneaux avec leurs liens VAD réels.
-    return state.data?.cinema?.billetterie_url || '#';
+  function withUtm(url) {
+    if (!url || url === '#' || url.startsWith('mailto:')) return url;
+    if (url.includes('utm_source=')) return url;
+    const sep = url.includes('?') ? '&' : '?';
+    return `${url}${sep}utm_source=simplekatorzacom`;
+  }
+
+  function katorzaBilletterieUrl() {
+    return withUtm(state.data?.cinema?.billetterie_url || '#');
   }
 
   // ---------- Rendu ----------
@@ -611,7 +650,6 @@
       container.innerHTML = `<div class="empty">Pas de séance cette semaine<small>Programmation vide</small></div>`;
       return;
     }
-
     container.innerHTML = films.map(renderFilmCard).join('');
   }
 
@@ -624,20 +662,14 @@
     if (film.year) meta.push(`<span>${film.year}</span>`);
     if (film.duration_min) meta.push(`<span>${fmtDuration(film.duration_min)}</span>`);
     if (film.genre) meta.push(`<span>${escapeHtml(film.genre)}</span>`);
-    if (film.directors && film.directors.length) {
+    if (film.directors?.length) {
       meta.push(`<span class="director">${film.directors.map(escapeHtml).join(', ')}</span>`);
     }
 
-    // Grille séances
     const seancesByDate = {};
-    for (const d of state.weekDates) {
-      const iso = toIsoDate(d);
-      seancesByDate[iso] = [];
-    }
+    for (const d of state.weekDates) seancesByDate[toIsoDate(d)] = [];
     for (const s of film.seances) {
-      if (seancesByDate[s.date] !== undefined) {
-        seancesByDate[s.date].push(s);
-      }
+      if (seancesByDate[s.date] !== undefined) seancesByDate[s.date].push(s);
     }
     for (const iso in seancesByDate) {
       seancesByDate[iso].sort((a, b) => a.time.localeCompare(b.time));
@@ -654,7 +686,7 @@
       if (!seances.length) {
         return `<div class="day">${header}<div class="no-seance">—</div></div>`;
       }
-      const items = seances.map(s => renderSeance(s, film)).join('');
+      const items = seances.map(s => renderSeance(s)).join('');
       return `<div class="day">${header}${items}</div>`;
     }).join('');
 
@@ -664,22 +696,21 @@
         <div class="film-body">
           <h2 class="film-title"><a href="${film.detail_url || '#'}" target="_blank" rel="noopener">${escapeHtml(film.title)}</a></h2>
           <div class="film-meta">${meta.join('')}</div>
-          ${film.synopsis ? `<p class="film-synopsis">${escapeHtml(film.synopsis)}</p>` : ''}
+          ${state.showSynopsis && film.synopsis ? `<p class="film-synopsis">${escapeHtml(film.synopsis)}</p>` : ''}
           <div class="seances">${daysHtml}</div>
         </div>
       </article>
     `;
   }
 
-  function renderSeance(s, film) {
+  function renderSeance(s) {
     const status = seanceStatus(s, state.now);
     const v = s.version ? `<span class="v ${s.version.toLowerCase()}">${s.version}</span>` : '';
     const cls = `seance ${status.key}`;
     if (status.key === 'past') {
       return `<div class="${cls}"><span class="time">${s.time}</span>${v}</div>`;
     }
-    const href = katorzaBilletterieUrl(film);
-    return `<a class="${cls}" href="${href}" target="_blank" rel="noopener" title="Réserver sur katorza.fr">
+    return `<a class="${cls}" href="${katorzaBilletterieUrl()}" target="_blank" rel="noopener" title="Réserver sur katorza.fr">
       <span class="time">${s.time}</span>${v}
     </a>`;
   }
@@ -690,9 +721,7 @@
     for (const film of state.data.films) {
       for (const s of film.seances) {
         const status = seanceStatus(s, state.now);
-        if (status.key === 'imminent') {
-          items.push({ film, seance: s, diffMs: status.diffMs });
-        }
+        if (status.key === 'imminent') items.push({ film, seance: s, diffMs: status.diffMs });
       }
     }
     items.sort((a, b) => a.diffMs - b.diffMs);
@@ -709,7 +738,7 @@
         if (film.genre) meta.push(film.genre);
         if (film.directors?.length) meta.push(film.directors.join(', '));
         const v = seance.version ? `<span class="v">${seance.version}</span>` : '';
-        return `<a class="urgent-row" href="${katorzaBilletterieUrl(film)}" target="_blank" rel="noopener">
+        return `<a class="urgent-row" href="${katorzaBilletterieUrl()}" target="_blank" rel="noopener">
           <div class="countdown">${fmtCountdown(diffMs)}<small>Départ</small></div>
           <div class="info">
             <div class="t">${escapeHtml(film.title)}</div>
@@ -730,10 +759,6 @@
       }
     }
     document.getElementById('count-urgent').textContent = urgent;
-  }
-
-  function updateNowLabel() {
-    document.getElementById('now-label').textContent = fmtNow(state.now);
   }
 
   // ---------- Helpers ----------
@@ -769,6 +794,40 @@
     });
   });
 
+  // ---------- PWA install prompt ----------
+
+  let deferredInstallPrompt = null;
+  const promptEl = document.getElementById('install-prompt');
+  const btnEl = document.getElementById('install-btn');
+  const dismissEl = document.getElementById('install-dismiss');
+  const DISMISS_KEY = 'sk-install-dismissed';
+
+  window.addEventListener('beforeinstallprompt', (e) => {
+    e.preventDefault();
+    deferredInstallPrompt = e;
+    if (localStorage.getItem(DISMISS_KEY) !== '1') {
+      promptEl.classList.add('visible');
+    }
+  });
+
+  btnEl.addEventListener('click', async () => {
+    if (!deferredInstallPrompt) return;
+    deferredInstallPrompt.prompt();
+    await deferredInstallPrompt.userChoice;
+    deferredInstallPrompt = null;
+    promptEl.classList.remove('visible');
+  });
+
+  dismissEl.addEventListener('click', () => {
+    promptEl.classList.remove('visible');
+    try { localStorage.setItem(DISMISS_KEY, '1'); } catch {}
+  });
+
+  window.addEventListener('appinstalled', () => {
+    promptEl.classList.remove('visible');
+    deferredInstallPrompt = null;
+  });
+
   // ---------- Boot ----------
 
   async function load() {
@@ -781,45 +840,38 @@
       document.getElementById('view-programme').innerHTML = `
         <div class="empty">
           Impossible de charger programme.json
-          <small>${escapeHtml(err.message)} · lance <code>python3 -m http.server</code> dans le dossier</small>
+          <small>${escapeHtml(err.message)}</small>
         </div>`;
       return;
     }
     state.data = data;
     state.now = new Date();
     state.weekDates = computeWeekDates(state.now, data.films);
+    state.showSynopsis = data.films.length > 0
+      && data.films.every(f => f.synopsis && f.synopsis.trim().length > 0);
 
-    // Footer
-    if (data.cinema?.billetterie_url) {
-      const link = document.getElementById('cinema-link');
-      link.href = data.cinema.billetterie_url;
-    }
-    if (data.source) {
-      const s = document.getElementById('source-link');
-      s.href = data.source;
-    }
-    if (data.scraped_at) {
-      const d = new Date(data.scraped_at);
-      document.getElementById('scraped-at').textContent = 'MAJ ' + fmtNow(d);
-    }
-
-    updateNowLabel();
     updateCounts();
     renderProgramme();
     renderUrgent();
   }
 
-  // Rafraichit l'horloge + statut des séances chaque minute
   setInterval(() => {
     if (!state.data) return;
     state.now = new Date();
-    updateNowLabel();
     updateCounts();
     renderProgramme();
     renderUrgent();
   }, 60_000);
 
   load();
+
+  // ---------- Service Worker ----------
+
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('sw.js').catch(() => {});
+    });
+  }
 })();
 </script>
 </body>

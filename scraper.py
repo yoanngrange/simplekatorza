@@ -300,6 +300,24 @@ def parse_film(li: Tag) -> Optional[Film]:
 # Entrée
 # ---------------------------------------------------------------------------
 
+def fetch_synopsis_from_detail(detail_url: str) -> str:
+    """
+    Fallback : va chercher le synopsis sur la fiche film individuelle si absent
+    de la page programmation. Utilisé au cas par cas.
+    """
+    if not detail_url:
+        return ""
+    try:
+        resp = requests.get(detail_url, headers=HEADERS, timeout=20)
+        resp.raise_for_status()
+        resp.encoding = resp.apparent_encoding or "utf-8"
+        soup = BeautifulSoup(resp.text, "html.parser")
+        el = soup.select_one('[itemprop="description"], .Synopsis-infos, .synopsis')
+        return clean_text(el) if el else ""
+    except requests.RequestException:
+        return ""
+
+
 def main() -> int:
     html = fetch_page(SOURCE_URL)
     soup = BeautifulSoup(html, "html.parser")
@@ -315,14 +333,15 @@ def main() -> int:
         except Exception as exc:  # noqa: BLE001
             print(f"  ⚠︎ parse error : {exc}", file=sys.stderr)
 
-    def sort_key(f: Film) -> str:
-        t = f.title.lower()
-        for prefix in ("le ", "la ", "les ", "l'", "un ", "une ", "des "):
-            if t.startswith(prefix):
-                return t[len(prefix):]
-        return t
+    # Fallback synopsis : on va chercher sur la fiche film pour ceux qui n'en ont pas
+    for f in films:
+        if not f.synopsis and f.detail_url:
+            f.synopsis = fetch_synopsis_from_detail(f.detail_url)
+            if f.synopsis:
+                print(f"  + synopsis récupéré depuis la fiche : {f.title}", file=sys.stderr)
 
-    films.sort(key=sort_key)
+    # Tri alphabétique strict (articles Le/La/Les/L' pris en compte)
+    films.sort(key=lambda f: f.title.lower())
 
     output = {
         "cinema": {
