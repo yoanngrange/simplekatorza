@@ -129,7 +129,12 @@ def fetch_page(url: str) -> str:
     print(f"→ Fetch {url}", file=sys.stderr)
     resp = requests.get(url, headers=HEADERS, timeout=30)
     resp.raise_for_status()
-    resp.encoding = resp.apparent_encoding or "utf-8"
+    # NE PAS utiliser resp.apparent_encoding : cette détection devine
+    # l'encodage à partir des octets et peut se tromper sur du texte riche en
+    # accents, corrompant le décodage et cassant le parsing HTML en aval.
+    # On fait confiance au header Content-Type que le serveur envoie
+    # explicitement (charset=utf-8) — `requests` le respecte déjà nativement
+    # via `resp.text`, donc aucune réassignation n'est nécessaire ici.
     return resp.text
 
 
@@ -323,7 +328,6 @@ def fetch_synopsis_from_detail(detail_url: str) -> str:
     try:
         resp = requests.get(detail_url, headers=HEADERS, timeout=20)
         resp.raise_for_status()
-        resp.encoding = resp.apparent_encoding or "utf-8"
         soup = BeautifulSoup(resp.text, "html.parser")
         el = soup.select_one('[itemprop="description"], .Synopsis-infos, .synopsis')
         return clean_text(el) if el else ""
@@ -355,6 +359,23 @@ def main() -> int:
 
     # Tri alphabétique strict (articles Le/La/Les/L' pris en compte)
     films.sort(key=lambda f: f.title.lower())
+
+    # Garde-fou critique : ne jamais écrire/committer une programmation vide.
+    # Un 0 films est presque toujours le signe d'un scraping cassé (structure
+    # cinefil changée, page temporairement vide pendant leur changeover du
+    # mercredi, blocage anti-bot renvoyant du HTML sans contenu, etc.) — jamais
+    # un vrai "aucun film cette semaine" pour un cinéma actif. On préfère
+    # planter bruyamment plutôt qu'écraser un programme.json valide.
+    MIN_FILMS_EXPECTED = 5
+    if len(films) < MIN_FILMS_EXPECTED:
+        print(
+            f"✗ Seulement {len(films)} film(s) trouvé(s) (minimum attendu : "
+            f"{MIN_FILMS_EXPECTED}). Probable échec de scraping (structure "
+            f"cinefil changée, page vide, blocage). Abandon SANS écrire "
+            f"programme.json pour ne pas écraser les données existantes.",
+            file=sys.stderr,
+        )
+        return 1
 
     output = {
         "cinema": {
