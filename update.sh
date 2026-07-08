@@ -10,6 +10,11 @@
 
 set -euo pipefail
 
+# cron s'exécute avec un environnement minimal qui ne connaît pas forcément
+# les chemins Homebrew (git, python3...). On les ajoute explicitement pour
+# que ce script fonctionne aussi bien lancé à la main que depuis cron.
+export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:$PATH"
+
 # Se place dans le dossier du script, quel que soit l'endroit d'où cron l'appelle
 cd "$(dirname "${BASH_SOURCE[0]}")"
 

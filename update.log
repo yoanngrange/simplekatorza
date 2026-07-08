@@ -11,3 +11,59 @@ To https://github.com/yoanngrange/simplekatorza.git
    dded1c3..1ce8918  main -> main
 ✓ Poussé sur GitHub
 === Terminé ===
+
+=== 2026-07-08 10:11:09 ===
+→ Scraping…
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+→ 0 bloc(s) film détecté(s)
+✗ Seulement 0 film(s) trouvé(s) (minimum attendu : 5). Probable échec de scraping (structure cinefil changée, page vide, blocage). Abandon SANS écrire programme.json pour ne pas écraser les données existantes.
+
+=== 2026-07-08 10:12:55 ===
+→ Scraping…
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+→ 18 bloc(s) film détecté(s)
+  ↓ 1413659.webp (14 KB)
+  ↓ 1413658.webp (29 KB)
+  ↓ 1418305.webp (24 KB)
+  ↓ 1009715.webp (27 KB)
+  ↓ 1381937.webp (18 KB)
+  ↓ 1381930.webp (17 KB)
+  ↓ 184319.webp (13 KB)
+  ↓ 316333.webp (28 KB)
+  ↓ 334426.webp (14 KB)
+  + synopsis récupéré depuis la fiche : Jim Queen
+  + synopsis récupéré depuis la fiche : In Waves
+  + synopsis récupéré depuis la fiche : La chaleur
+  + synopsis récupéré depuis la fiche : Seule la vie
+  + synopsis récupéré depuis la fiche : L'écologie des sentiments
+  + synopsis récupéré depuis la fiche : Disclosure Day
+  + synopsis récupéré depuis la fiche : Maspalomas
+  + synopsis récupéré depuis la fiche : Le Vertige
+  + synopsis récupéré depuis la fiche : Ghost Elephants
+  + synopsis récupéré depuis la fiche : Le Chant de la Mer
+  + synopsis récupéré depuis la fiche : Entre ciel et terre
+  + synopsis récupéré depuis la fiche : Notre histoire - Chroniques du Caire
+  + synopsis récupéré depuis la fiche : Kill Bill: The Whole Bloody Affair
+  + synopsis récupéré depuis la fiche : Shana
+✓ 18 film(s), 156 séance(s), 18/18 affiche(s) → /Users/yoann/Gits/simplekatorza/programme.json
+  · Battle royale (2001, 114min, Action) — 2 séance(s)
+  · Disclosure Day (2026, 142min, Science-Fiction) — 10 séance(s)
+  · Entre ciel et terre (2026, 30min, None) — 7 séance(s)
+  · … (15 autres)
+→ 18 film(s) dans programme.json
+→ Changements détectés, commit + push
+[main b914b50] MAJ programme 2026-07-08
+ 10 files changed, 1122 insertions(+), 2 deletions(-)
+ create mode 100644 posters/1009715.webp
+ create mode 100644 posters/1381930.webp
+ create mode 100644 posters/1381937.webp
+ create mode 100644 posters/1413658.webp
+ create mode 100644 posters/1413659.webp
+ create mode 100644 posters/1418305.webp
+ create mode 100644 posters/184319.webp
+ create mode 100644 posters/316333.webp
+ create mode 100644 posters/334426.webp
+To https://github.com/yoanngrange/simplekatorza.git
+   93cf8f0..b914b50  main -> main
+✓ Poussé sur GitHub
+=== Terminé ===
