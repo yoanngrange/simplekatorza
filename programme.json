@@ -6,6 +6,1126 @@
     "billetterie_url": "https://www.katorza.fr/katorza/alaffiche/katorza"
   },
   "source": "https://www.cinefil.com/cinema/le-katorza-nantes/programmation",
-  "scraped_at": "2026-07-08T09:59:21+02:00",
-  "films": []
+  "scraped_at": "2026-07-08T10:13:00+02:00",
+  "films": [
+    {
+      "title": "Battle royale",
+      "year": 2001,
+      "duration_min": 114,
+      "genre": "Action",
+      "directors": [
+        "Kinji Fukasaku",
+        "Kinji Fumakasu"
+      ],
+      "cast": [
+        "Tatsuya Fujiwara",
+        "Aki Maeda",
+        "Takeshi Kitano"
+      ],
+      "synopsis": "La loi ''Battle Royale'', dite loi ''BR'', a été ratifiée dans le but de cerner l'élite de la nation. Chaque année, une classe de 3ème année de collège est emmenée sur une île déserte. Les élèves sont armés et doivent s'entretuer jusqu'à ce qu'il n'en reste qu'un, dont on est sûr alors qu'il fera un adulte méritant. Allez les enfants, du courage !",
+      "poster_url": "posters/184319.webp",
+      "detail_url": "https://www.cinefil.com/film/battle-royale",
+      "seances": [
+        {
+          "date": "2026-07-12",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "18:15",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Disclosure Day",
+      "year": 2026,
+      "duration_min": 142,
+      "genre": "Science-Fiction",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Emily Blunt",
+        "Josh O'Connor",
+        "Colin Firth"
+      ],
+      "synopsis": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
+      "poster_url": "posters/1326014.webp",
+      "detail_url": "https://www.cinefil.com/film/disclosure-day",
+      "seances": [
+        {
+          "date": "2026-07-08",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "18:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "17:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "17:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "17:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "18:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "18:00",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Entre ciel et terre",
+      "year": 2026,
+      "duration_min": 30,
+      "genre": null,
+      "directors": [],
+      "cast": [],
+      "synopsis": "Un oisillon se lance dans les airs. Un petit chiot découvre la matière. Un enfant savoure une soupe cosmique. Une chouette au sommeil chaotique. Une souris veut voir le soleil. Et une autre renvoie les étoiles dans le ciel. Sept histoires vues de la Terre comme du Ciel.",
+      "poster_url": "posters/1381937.webp",
+      "detail_url": "https://www.cinefil.com/film/entre-ciel-et-terre-2023",
+      "seances": [
+        {
+          "date": "2026-07-08",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "16:15",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Ghost Elephants",
+      "year": 2026,
+      "duration_min": 99,
+      "genre": "Documentaire",
+      "directors": [
+        "Werner Herzog"
+      ],
+      "cast": [
+        "Werner Herzog",
+        "Steve Boyes",
+        "Kerllen Costa"
+      ],
+      "synopsis": "Une quête épique à la recherche d'un géant mythique. Sur les hauts plateaux angolais enveloppés de brume, trois maîtres pisteurs KhoiSan se lancent dans une quête spirituelle pour redécouvrir les légendaires « éléphants fantômes » de Lisima, des créatures que l'on croyait perdues à jamais, mais dont on se souvient grâce à la transe, aux rituels et à la mémoire ancestrale.",
+      "poster_url": "posters/1381886.webp",
+      "detail_url": "https://www.cinefil.com/film/ghost-elephants",
+      "seances": [
+        {
+          "date": "2026-07-08",
+          "time": "14:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "18:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "18:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "14:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "18:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "18:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "17:55",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "In Waves",
+      "year": 2026,
+      "duration_min": 90,
+      "genre": "Animation",
+      "directors": [
+        "Phuong Mai Nguyen"
+      ],
+      "cast": [
+        "Rio Vega",
+        "Lyna Khoudri",
+        "Paul Kircher"
+      ],
+      "synopsis": "À Los Angeles, AJ, lycéen discret, rencontre Kristen. Elle est passionnée de surf, lui de skateboard et de dessin. Ils tombent follement amoureux ; un avenir heureux se profile. Mais tout bascule lorsque Kristen tombe malade. Ensemble, ils se lancent dans un combat contre l’adversité, portés par la force de leur amour, leurs amis et leur passion désormais commune pour le surf et l’océan.",
+      "poster_url": "posters/1387136.webp",
+      "detail_url": "https://www.cinefil.com/film/in-waves",
+      "seances": [
+        {
+          "date": "2026-07-08",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-08",
+          "time": "18:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "16:20",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "18:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "22:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "20:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "22:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "18:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "20:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "18:35",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Jim Queen",
+      "year": 2026,
+      "duration_min": 85,
+      "genre": "Animation",
+      "directors": [
+        "Nicolas Athané",
+        "Marco Nguyen"
+      ],
+      "cast": [
+        "Alex Ramirès",
+        "Jéremy Gillet",
+        "Shirley Souagnon"
+      ],
+      "synopsis": "Un long métrage d'animation de dur à queer Jim, icône sexy de la scène gay parisienne, voit sa vie basculer lorsqu’il contracte l’Hétérose, un étrange virus qui transforme les hommes gays en hétérosexuels ! Il perd alors sa couronne et voit tout le monde lui tourner le dos à l’exception de son dernier follower, Lucien, un jeune Twink dans le placard. Ensemble, ils vont devoir parcourir les quatre coins de la capitale à la recherche d’un mystérieux remède capable de guérir Jim et de sauver la communauté LGBTQIA+ d’extinction.",
+      "poster_url": "posters/1381866.webp",
+      "detail_url": "https://www.cinefil.com/film/jim-queen",
+      "seances": [
+        {
+          "date": "2026-07-08",
+          "time": "16:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-08",
+          "time": "20:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "20:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "16:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "22:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "18:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "22:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "16:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "20:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "18:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "16:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "20:45",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Kill Bill: The Whole Bloody Affair",
+      "year": 2026,
+      "duration_min": 253,
+      "genre": "Action",
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "cast": [
+        "Uma Thurman",
+        "Lucy Liu",
+        "Vivica A. Fox"
+      ],
+      "synopsis": "Kill Bill : The Whole Bloody Affair est une édition complète des deux films d'action d'arts martiaux Kill Bill : Volume 1 et Kill Bill : Volume 2. Le film était à l'origine prévu pour être publié comme une seule partie. Toutefois, en raison de la durée du film plus de 4 heures, il a été divisé en deux parties.",
+      "poster_url": "posters/1381930.webp",
+      "detail_url": "https://www.cinefil.com/film/kill-bill-the-whole-bloody-affair",
+      "seances": [
+        {
+          "date": "2026-07-08",
+          "time": "18:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "19:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "18:45",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "L'écologie des sentiments",
+      "year": 2026,
+      "duration_min": 84,
+      "genre": "Drame",
+      "directors": [
+        "Alexandre Steiger"
+      ],
+      "cast": [
+        "Andranic Manet",
+        "Salomé Rose Stein",
+        "Denis Podalydès"
+      ],
+      "synopsis": "Lola, une jeune militante engagée dans la cause animale, se rend mystérieusement à Paris pendant le salon de l’agriculture. Alors qu’elle s’installe dans sa chambre d’hôtel où rien ne fonctionne, elle fait appel au garçon d’étage, Félix, un jeune homme fantasque qui fait une crise de panique sur son lit.",
+      "poster_url": "posters/1418305.webp",
+      "detail_url": "https://www.cinefil.com/film/l-ecologie-des-sentiments",
+      "seances": [
+        {
+          "date": "2026-07-08",
+          "time": "16:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-08",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "14:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "16:20",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "20:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "14:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "20:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "16:20",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "14:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "20:45",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "La chaleur",
+      "year": 2026,
+      "duration_min": 90,
+      "genre": "Drame",
+      "directors": [
+        "Stéphane Demoustier"
+      ],
+      "cast": [
+        "Hadrien Hussein",
+        "Tristan Richard",
+        "Martina La Manna"
+      ],
+      "synopsis": "Il fait anormalement chaud sur les plages des Landes et Marouane (17 ans) passe sa dernière journée au camping avec une angoisse : le corps qu’il a enseveli la veille sur la plage va-t-il apparaitre au grand jour ? Marouane se demande par ailleurs s’il n’est pas en train de tomber amoureux de la charmante Giulia.",
+      "poster_url": "posters/1413659.webp",
+      "detail_url": "https://www.cinefil.com/film/la-chaleur",
+      "seances": [
+        {
+          "date": "2026-07-08",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-08",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "16:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "20:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "20:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "22:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "20:30",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Le Chant de la Mer",
+      "year": 2014,
+      "duration_min": 93,
+      "genre": "Animation",
+      "directors": [
+        "Tomm Moore"
+      ],
+      "cast": [
+        "David Rawle",
+        "Brendan Gleeson",
+        "Lisa Hannigan"
+      ],
+      "synopsis": "Un véritable petit bijou de poésie. Ben et Maïna vivent avec leur père tout en haut d'un phare sur une petite île. Pour les protéger des dangers de la mer, leur grand-mère les emmène vivre à la ville. Ben découvre alors que sa petite soeur est une selkie, une fée de la mer dont le chant peut délivrer les êtres magiques du sort que leur a jeté la Sorcière aux hiboux. Au cours d'un fantastique voyage, Ben et Maïna vont devoir affronter peurs et dangers, et combattre la sorcière pour aider les êtres magiques à retrouver leur pouvoir.",
+      "poster_url": "posters/1009715.webp",
+      "detail_url": "https://www.cinefil.com/film/le-chant-de-la-mer-2",
+      "seances": [
+        {
+          "date": "2026-07-08",
+          "time": "14:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "14:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "14:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "14:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "14:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "14:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "14:30",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Le Tombeau des Lucioles",
+      "year": 1996,
+      "duration_min": 85,
+      "genre": "Animation",
+      "directors": [
+        "Isao Takahata"
+      ],
+      "cast": [
+        "Tsutomu Tatsumi",
+        "Ayano Shiraishi",
+        "Yoshiko Shinohara"
+      ],
+      "synopsis": "Japon, été 1945. Les B-29 américains ont rasé Kobé. Seita et Setsuko, orphelins et livrés à eux-mêmes, tentent de survivre dans un bunker désaffecté qu'illumine la présence de milliers de lucioles. Mais la famine, la maladie, l'indifférence et l'égoïsme des autres les condamneront à partir pour un monde meilleur.",
+      "poster_url": "posters/1134706.webp",
+      "detail_url": "https://www.cinefil.com/film/le-tombeau-des-lucioles",
+      "seances": [
+        {
+          "date": "2026-07-08",
+          "time": "17:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "16:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "18:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "22:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "16:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "18:35",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "16:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "18:10",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Le Vertige",
+      "year": 2026,
+      "duration_min": 67,
+      "genre": "Animation",
+      "directors": [
+        "Quentin Dupieux"
+      ],
+      "cast": [
+        "Alain Chabat",
+        "Jonathan Cohen",
+        "Anaïs Demoustier"
+      ],
+      "synopsis": "Jacques se rend chez son ami Bruno pour lui annoncer une nouvelle importante : l’humanité toute entière vit dans une simulation…",
+      "poster_url": "posters/1376522.webp",
+      "detail_url": "https://www.cinefil.com/film/le-vertige",
+      "seances": [
+        {
+          "date": "2026-07-08",
+          "time": "19:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "18:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "18:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "19:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "18:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "18:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "14:25",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Les plages d'Agnès",
+      "year": 2008,
+      "duration_min": 110,
+      "genre": "Documentaire",
+      "directors": [
+        "Agnès Varda"
+      ],
+      "cast": [
+        "Agnès Varda",
+        "André Lubrano",
+        "Blaise Fournier"
+      ],
+      "synopsis": "En revenant sur les plages qui ont marqué sa vie, Varda invente une forme d’autodocumentaire. Agnès se met en scène au milieu d’extraits de ses films, d’images et de reportages. Elle nous fait partager avec humour et émotion ses débuts de photographe de théâtre puis de cinéaste novatrice dans les années 50, sa vie avec Jacques Demy, son engagement féministe, ses voyages à Cuba, en Chine et aux USA, son parcours de productrice indépendante, sa vie de famille et son amour des plages. Une femme libre et curieuse !",
+      "poster_url": "posters/334426.webp",
+      "detail_url": "https://www.cinefil.com/film/les-plages-d-agnes",
+      "seances": [
+        {
+          "date": "2026-07-09",
+          "time": "18:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "18:30",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Mamma mia !",
+      "year": 2008,
+      "duration_min": 110,
+      "genre": "Comédie",
+      "directors": [
+        "Phyllida Lloyd"
+      ],
+      "cast": [
+        "Amanda Seyfried",
+        "Meryl Streep",
+        "Pierce Brosnan"
+      ],
+      "synopsis": "Une future mariée est à la recherche de son père dont sa mère ne veut pas révéler l'identité. C’est en 1999, sur la ravissante île grecque de Kalokairi que l’aventure romantique commence, dans un hôtel méditerranéen isolé, la villa Donna, tenu par Donna , sa fille Sophie et le fiancé de Sophie, Sky. Juste à temps pour son mariage prochain, Sophie poste nerveusement trois invitations destinées à trois hommes bien différents dont elle pense que l’un d’eux est son père. De trois points du globe, trois hommes s’apprêtent à retourner sur l’île –et vers la femme– qui les avait enchantées 20 ans auparavant.",
+      "poster_url": "posters/316333.webp",
+      "detail_url": "https://www.cinefil.com/film/mamma-mia-2",
+      "seances": [
+        {
+          "date": "2026-07-08",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "22:30",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Maspalomas",
+      "year": 2026,
+      "duration_min": 115,
+      "genre": "Drame",
+      "directors": [
+        "Aitor Arregi",
+        "José Mari Goenaga"
+      ],
+      "cast": [
+        "José Ramón Soroiz",
+        "Nagore Aranburu",
+        "Kandido Uranga"
+      ],
+      "synopsis": "Sous le soleil brûlant de Maspalomas, aux îles Canaries, Vicente savoure depuis vingt-cinq ans une retraite insouciante. Mais un accident l’arrache à son paradis. Rapatrié à Donostia, il est placé par sa fille dans une maison de repos où le temps semble figé et où ressurgissent les fantômes du passé. À nouveau contraint de masquer son identité, une seule idée l’obsède: s’évader… et retrouver la liberté de Maspalomas.",
+      "poster_url": "posters/1420213.webp",
+      "detail_url": "https://www.cinefil.com/film/maspalomas",
+      "seances": [
+        {
+          "date": "2026-07-08",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "18:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "20:25",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Notre histoire - Chroniques du Caire",
+      "year": 2026,
+      "duration_min": 101,
+      "genre": "Drame",
+      "directors": [
+        "Abu Bakr Shawky"
+      ],
+      "cast": [
+        "Amir El-Masry",
+        "Valerie Pachner",
+        "Karim Kassem"
+      ],
+      "synopsis": "Sous le règne du président Nasser, Le Caire était un lieu de chaos pittoresque, de suspicion et de méfiance, rempli de blagues mordantes et de rêves surfacturés. La poste ne livrait que des lettres de recrutement et de bourses d'études. Contre toute attente, Elizabeth, originaire de la capitale de la musique classique, envoie une lettre à Ahmed, un pianiste têtu. Sa famille adore le football. Personne ne veut d'un pianiste ou d'un écrivain dans la famille.",
+      "poster_url": "posters/1403147.webp",
+      "detail_url": "https://www.cinefil.com/film/notre-histoire-chroniques-du-caire",
+      "seances": [
+        {
+          "date": "2026-07-08",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "18:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "15:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "16:20",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Seule la vie",
+      "year": 2026,
+      "duration_min": 121,
+      "genre": "Drame",
+      "directors": [
+        "Adrian Goiginger"
+      ],
+      "cast": [
+        "Valerie Pachner",
+        "Robert Stadlober",
+        "Stefanie Reinsperger"
+      ],
+      "synopsis": "Barbara et sa compagne Heli sont des clowns professionnels qui vivent leur rêve : une vie alternative et joyeuse aux côtés de leurs deux enfants, riant de ce qui ne fonctionne pas. Mais un tragique accident de voiture enlève Heli et les enfants à Barbara, la laissant seule. Face à une douleur indicible, sa croyance en l'humour, l'espoir et l'humanité est mise à l'épreuve ultime. Sa façon particulière de voir le monde — à travers sa lumière et ses ombres — pourra-t-elle l'aider à retrouver le chemin de la vie ? Elle parie qu'elle rira à nouveau.",
+      "poster_url": "posters/1413658.webp",
+      "detail_url": "https://www.cinefil.com/film/seule-la-vie-2026",
+      "seances": [
+        {
+          "date": "2026-07-08",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-08",
+          "time": "18:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-09",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "16:35",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "20:35",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "20:15",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Shana",
+      "year": 2026,
+      "duration_min": 80,
+      "genre": "Drame",
+      "directors": [
+        "Lila Pinell"
+      ],
+      "cast": [
+        "Eva Huault",
+        "Noémie Lvovsky",
+        "Sékouba Doucouré"
+      ],
+      "synopsis": "Shana traverse les galères du quotidien avec une énergie débordante et le soutien de sa bande de copines. Lorsque sa grand-mère décède, elle hérite d’une bague censée protéger du mauvais œil. Shana a bien besoin de ce coup de pouce. D’autant qu’avec la sortie de prison de son compagnon toxique, les mésaventures s’accumulent !",
+      "poster_url": "posters/1383358.webp",
+      "detail_url": "https://www.cinefil.com/film/shana",
+      "seances": [
+        {
+          "date": "2026-07-09",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "16:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "16:05",
+          "version": "VF"
+        }
+      ]
+    }
+  ]
 }
