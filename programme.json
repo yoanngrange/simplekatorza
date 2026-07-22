@@ -6,7 +6,7 @@
     "billetterie_url": "https://www.katorza.fr/katorza/alaffiche/katorza"
   },
   "source": "https://www.cinefil.com/cinema/le-katorza-nantes/programmation",
-  "scraped_at": "2026-07-22T13:51:28+02:00",
+  "scraped_at": "2026-07-22T14:11:34+02:00",
   "films": [
     {
       "title": "Comète",
@@ -18,7 +18,28 @@
       "synopsis": "Alors qu’une comète traverse le ciel de Paris, des destins se croisent dans une ronde mystérieuse. Deux amis sillonnent la ville et font le point sur leur vie. Une jeune femme retrouve un père qu’elle n’attendait plus. Une autre vend de la drogue pour le compte de son frère. Ailleurs, deux êtres hantés par la mort se rencontrent. Pendant ce temps, des comédiens répètent une pièce qui fait étrangement écho à ces existences. Une fresque sur les rencontres inattendues et les hasards qui tissent nos vies.",
       "poster_url": "posters/1389576.webp",
       "detail_url": "https://www.cinefil.com/film/comete",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-07-23",
+          "time": "16:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "18:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "18:20",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "16:00",
+          "version": "VF"
+        }
+      ]
     },
     {
       "title": "De la Comédie-Française",
@@ -37,7 +58,113 @@
       "synopsis": "Dans 3 heures, Nina dévoile sa première mise en scène à la Comédie-Française. Mais dans l’agitation des dernières répétitions, rien ne se passe comme prévu : retards, coups de stress, problèmes techniques et problèmes d’égo secouent la troupe. Pourtant, Nina n’a pas d’autre choix que d’aller jusqu’au bout car s’il y a bien une règle d’or à la Comédie Française, c’est qu’on n’annule pas. Commence alors une course contre la montre pour sauver la représentation.",
       "poster_url": "posters/1413662.webp",
       "detail_url": "https://www.cinefil.com/film/de-la-comedie-francaise",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-07-22",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-22",
+          "time": "19:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-22",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "19:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "19:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "19:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "20:40",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "18:40",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "20:40",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "19:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "19:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "20:45",
+          "version": "VF"
+        }
+      ]
     },
     {
       "title": "In Waves",
@@ -55,7 +182,33 @@
       "synopsis": "À Los Angeles, AJ, lycéen discret, rencontre Kristen. Elle est passionnée de surf, lui de skateboard et de dessin. Ils tombent follement amoureux ; un avenir heureux se profile. Mais tout bascule lorsque Kristen tombe malade. Ensemble, ils se lancent dans un combat contre l’adversité, portés par la force de leur amour, leurs amis et leur passion désormais commune pour le surf et l’océan.",
       "poster_url": "posters/1387136.webp",
       "detail_url": "https://www.cinefil.com/film/in-waves",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-07-24",
+          "time": "18:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "15:50",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "18:20",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "15:50",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "18:10",
+          "version": "VF"
+        }
+      ]
     },
     {
       "title": "Jim Queen",
@@ -74,7 +227,63 @@
       "synopsis": "Un long métrage d'animation de dur à queer Jim, icône sexy de la scène gay parisienne, voit sa vie basculer lorsqu’il contracte l’Hétérose, un étrange virus qui transforme les hommes gays en hétérosexuels ! Il perd alors sa couronne et voit tout le monde lui tourner le dos à l’exception de son dernier follower, Lucien, un jeune Twink dans le placard. Ensemble, ils vont devoir parcourir les quatre coins de la capitale à la recherche d’un mystérieux remède capable de guérir Jim et de sauver la communauté LGBTQIA+ d’extinction.",
       "poster_url": "posters/1381866.webp",
       "detail_url": "https://www.cinefil.com/film/jim-queen",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-07-22",
+          "time": "18:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-22",
+          "time": "20:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "21:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "18:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "21:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "21:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "19:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "21:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "18:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "21:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "21:00",
+          "version": "VF"
+        }
+      ]
     },
     {
       "title": "Kill Bill: The Whole Bloody Affair",
@@ -92,7 +301,13 @@
       "synopsis": "Kill Bill : The Whole Bloody Affair est une édition complète des deux films d'action d'arts martiaux Kill Bill : Volume 1 et Kill Bill : Volume 2. Le film était à l'origine prévu pour être publié comme une seule partie. Toutefois, en raison de la durée du film plus de 4 heures, il a été divisé en deux parties.",
       "poster_url": "posters/1381930.webp",
       "detail_url": "https://www.cinefil.com/film/kill-bill-the-whole-bloody-affair",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-07-23",
+          "time": "19:00",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "L'Aventure rêvée",
@@ -110,7 +325,38 @@
       "synopsis": "À Svilengrad, une petite ville à la frontière bulgare, aux confins d'une Europe délaissée, Veska, archéologue, renoue avec Said, un ami d'enfance, dont la voiture vient d’être volée. En voulant l’aider, Veska glisse progressivement au coeur d'une société criminelle dont l’emprise règne sur la ville. Veska va devoir affronter ce monde à la fois trouble et dangereux.",
       "poster_url": "posters/1425558.webp",
       "detail_url": "https://www.cinefil.com/film/laventure-revee",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-07-22",
+          "time": "15:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "15:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "15:45",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "L'ile aux pirates",
@@ -128,7 +374,18 @@
       "synopsis": "Jamaique, 1668. Flibustiere aussi intrepide que seduisante, Morgan Adams a herite du bateau de son pere Harry le Noir, ainsi que du tiers d'une carte au tresor, les deux autres etant detenus par ses oncles, dont le terrible Dawg, l'assassin de Harry. Morgan se lance dans l'aventure du tresor, aidee du voleur et menteur William Shaw.",
       "poster_url": "posters/194199.webp",
       "detail_url": "https://www.cinefil.com/film/l-ile-aux-pirates",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-07-23",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "18:15",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "L'Odyssée",
@@ -146,7 +403,113 @@
       "synopsis": "Ulysse, le légendaire roi grec d'Ithaque, entreprend un long et périlleux voyage de retour après la guerre de Troie, au cours duquel il rencontre des créatures mythologiques comme le Cyclope Polyphème, les Sirènes et la déesse-sorcière Circé.",
       "poster_url": "posters/1381389.webp",
       "detail_url": "https://www.cinefil.com/film/l-odyssee-2026",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-07-22",
+          "time": "15:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-22",
+          "time": "17:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-22",
+          "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "15:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "17:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "15:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "17:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "15:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "17:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "20:50",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "15:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "17:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "15:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "17:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "15:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "17:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "20:05",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "La chaleur",
@@ -164,7 +527,28 @@
       "synopsis": "Il fait anormalement chaud sur les plages des Landes et Marouane (17 ans) passe sa dernière journée au camping avec une angoisse : le corps qu’il a enseveli la veille sur la plage va-t-il apparaitre au grand jour ? Marouane se demande par ailleurs s’il n’est pas en train de tomber amoureux de la charmante Giulia.",
       "poster_url": "posters/1413659.webp",
       "detail_url": "https://www.cinefil.com/film/la-chaleur",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-07-23",
+          "time": "15:50",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "16:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "15:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "18:45",
+          "version": "VF"
+        }
+      ]
     },
     {
       "title": "La Prophétie des grenouilles",
@@ -182,7 +566,23 @@
       "synopsis": "Au pied d'une colline sur laquelle est perchée une ferme coquette, le monde des grenouilles est en émoi : il n'y a plus de doute, un nouveau déluge s'annonce. Face à l'événement, les grenouilles conviennent, à titre exceptionnel, de communiquer et de cohabiter avec les humains. Ce qui n'est pas toujours facile.",
       "poster_url": "posters/1050013.webp",
       "detail_url": "https://www.cinefil.com/film/la-prophetie-des-grenouilles",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-07-23",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "16:15",
+          "version": "VF"
+        }
+      ]
     },
     {
       "title": "Non-Non dans l'espace",
@@ -196,7 +596,28 @@
       "synopsis": "Trois...Deux...Un...Partez ! Fin du compte à rebours, il est temps de planter le drapeau d’Underwood Springs sur la Lune ! Dans un nuage de fumée et d’étincelles, la fusée de Bigtooth quitte l’orbite terrestre. Flottant dans l'espace, No-No, Magaïveur et leurs amis ont à peine le temps d'admirer les paysages qu'une pluie de météores les détourne de leur trajectoire initiale et les envoie directement… vers une planète inconnue ! Leur rencontre avec Ribbit, une petite créature verte, va transformer cette aventure spatiale en une histoire d'amitié interplanétaire.",
       "poster_url": "posters/1158437.webp",
       "detail_url": "https://www.cinefil.com/film/non-non-dans-l-espace",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-07-22",
+          "time": "16:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "16:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "16:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "16:30",
+          "version": "VF"
+        }
+      ]
     },
     {
       "title": "Psycho beach party",
@@ -214,7 +635,13 @@
       "synopsis": "Eté 1962. Le soleil brille et une jeunesse insouciante s'éclate à Malibu Beach. L'ambiance festive est à peine gâchée par le meurtre d'une spectatrice de drive-in, au terme d'un flirt poussé. Pourtant, ce n'est qu'un début. Quelques meurtres plus loin, les soupçons s'orientent vers Chicklet, une surfeuse un peu schizo sur les bords...",
       "poster_url": "posters/216970.webp",
       "detail_url": "https://www.cinefil.com/film/psycho-beach-party-2",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-07-22",
+          "time": "21:00",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "Sous le ciel de Kyoto",
@@ -232,7 +659,68 @@
       "synopsis": "La romance entre un étudiant universitaire solitaire et celle qui semble être la fille de ses rêves est assombrie par l'arrivée soudaine d'un destin cruel.",
       "poster_url": "posters/1399957.webp",
       "detail_url": "https://www.cinefil.com/film/sous-le-ciel-de-kyoto",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-07-22",
+          "time": "15:50",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-22",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "18:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "18:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "15:50",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "20:40",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "15:50",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "20:30",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "Sur la route d'Omaha",
@@ -250,7 +738,68 @@
       "synopsis": "Après une tragédie familiale, Ella et Charlie, deux frères et sœurs, sont réveillés par leur père et emmenés dans un voyage à travers le pays, à la découverte d'un monde nouveau. Au fil de leur aventure, Ella commence à comprendre que les choses ne sont peut-être pas ce qu'elles semblent être.",
       "poster_url": "posters/1389575.webp",
       "detail_url": "https://www.cinefil.com/film/sur-la-route-domaha",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-07-22",
+          "time": "16:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-22",
+          "time": "18:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "20:40",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "15:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "16:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "18:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "20:45",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "The Endless Summer",
@@ -268,7 +817,18 @@
       "synopsis": "Robert August et Mike Hynson, deux jeunes surfeurs californiens, vont entreprendre un voyage bien particulier. Munis de leur planche de surf, ils vont se rendre en Afrique, en Australie, en Nouvelle-Zélande, à Tahiti puis Hawaï, à la recherche de la vague parfaite…",
       "poster_url": "posters/1123040.webp",
       "detail_url": "https://www.cinefil.com/film/the-endless-summer",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-07-26",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "18:30",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "The Last Viking",
@@ -286,7 +846,58 @@
       "synopsis": "Afin de récupérer son butin, un braqueur de banque doit aider son frère à surmonter ses traumatismes d'enfance.",
       "poster_url": "posters/1418306.webp",
       "detail_url": "https://www.cinefil.com/film/the-last-viking",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-07-22",
+          "time": "18:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-22",
+          "time": "20:40",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "17:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "16:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "20:50",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "18:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "20:20",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "18:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "16:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "20:40",
+          "version": "VO"
+        }
+      ]
     }
   ]
 }
