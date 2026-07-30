@@ -6,41 +6,8 @@
     "billetterie_url": "https://www.katorza.fr/katorza/alaffiche/katorza"
   },
   "source": "https://www.cinefil.com/cinema/le-katorza-nantes/programmation",
-  "scraped_at": "2026-07-22T14:11:34+02:00",
+  "scraped_at": "2026-07-30T17:59:19+02:00",
   "films": [
-    {
-      "title": "Comète",
-      "year": 2026,
-      "duration_min": 97,
-      "genre": null,
-      "directors": [],
-      "cast": [],
-      "synopsis": "Alors qu’une comète traverse le ciel de Paris, des destins se croisent dans une ronde mystérieuse. Deux amis sillonnent la ville et font le point sur leur vie. Une jeune femme retrouve un père qu’elle n’attendait plus. Une autre vend de la drogue pour le compte de son frère. Ailleurs, deux êtres hantés par la mort se rencontrent. Pendant ce temps, des comédiens répètent une pièce qui fait étrangement écho à ces existences. Une fresque sur les rencontres inattendues et les hasards qui tissent nos vies.",
-      "poster_url": "posters/1389576.webp",
-      "detail_url": "https://www.cinefil.com/film/comete",
-      "seances": [
-        {
-          "date": "2026-07-23",
-          "time": "16:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "18:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-25",
-          "time": "18:20",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-27",
-          "time": "16:00",
-          "version": "VF"
-        }
-      ]
-    },
     {
       "title": "De la Comédie-Française",
       "year": 2026,
@@ -60,153 +27,173 @@
       "detail_url": "https://www.cinefil.com/film/de-la-comedie-francaise",
       "seances": [
         {
-          "date": "2026-07-22",
+          "date": "2026-07-30",
           "time": "16:05",
           "version": "VF"
         },
         {
-          "date": "2026-07-22",
-          "time": "19:00",
+          "date": "2026-07-30",
+          "time": "18:20",
           "version": "VF"
         },
         {
-          "date": "2026-07-22",
-          "time": "20:45",
+          "date": "2026-07-30",
+          "time": "21:00",
           "version": "VF"
         },
         {
-          "date": "2026-07-23",
+          "date": "2026-07-31",
           "time": "16:05",
           "version": "VF"
         },
         {
-          "date": "2026-07-23",
+          "date": "2026-07-31",
+          "time": "18:20",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-31",
+          "time": "21:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "15:50",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-01",
           "time": "19:00",
           "version": "VF"
         },
         {
-          "date": "2026-07-23",
-          "time": "20:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "16:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "19:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "20:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-25",
-          "time": "16:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-25",
-          "time": "19:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-25",
+          "date": "2026-08-01",
           "time": "20:40",
           "version": "VF"
         },
         {
-          "date": "2026-07-26",
-          "time": "16:05",
+          "date": "2026-08-02",
+          "time": "15:50",
           "version": "VF"
         },
         {
-          "date": "2026-07-26",
-          "time": "18:40",
+          "date": "2026-08-02",
+          "time": "19:00",
           "version": "VF"
         },
         {
-          "date": "2026-07-26",
+          "date": "2026-08-02",
           "time": "20:40",
           "version": "VF"
         },
         {
-          "date": "2026-07-27",
-          "time": "16:05",
+          "date": "2026-08-03",
+          "time": "15:50",
           "version": "VF"
         },
         {
-          "date": "2026-07-27",
+          "date": "2026-08-03",
           "time": "19:00",
           "version": "VF"
         },
         {
-          "date": "2026-07-27",
-          "time": "20:45",
+          "date": "2026-08-03",
+          "time": "20:40",
           "version": "VF"
         },
         {
-          "date": "2026-07-28",
+          "date": "2026-08-04",
           "time": "16:05",
           "version": "VF"
         },
         {
-          "date": "2026-07-28",
+          "date": "2026-08-04",
           "time": "19:00",
           "version": "VF"
         },
         {
-          "date": "2026-07-28",
-          "time": "20:45",
+          "date": "2026-08-04",
+          "time": "21:00",
           "version": "VF"
         }
       ]
     },
     {
-      "title": "In Waves",
+      "title": "I Want Your Sex",
       "year": 2026,
-      "duration_min": 90,
-      "genre": "Animation",
+      "duration_min": 101,
+      "genre": "Drame",
       "directors": [
-        "Phuong Mai Nguyen"
+        "Gregg Araki"
       ],
       "cast": [
-        "Rio Vega",
-        "Lyna Khoudri",
-        "Paul Kircher"
+        "Olivia Wilde",
+        "Cooper Hoffman",
+        "Mason Gooding"
       ],
-      "synopsis": "À Los Angeles, AJ, lycéen discret, rencontre Kristen. Elle est passionnée de surf, lui de skateboard et de dessin. Ils tombent follement amoureux ; un avenir heureux se profile. Mais tout bascule lorsque Kristen tombe malade. Ensemble, ils se lancent dans un combat contre l’adversité, portés par la force de leur amour, leurs amis et leur passion désormais commune pour le surf et l’océan.",
-      "poster_url": "posters/1387136.webp",
-      "detail_url": "https://www.cinefil.com/film/in-waves",
+      "synopsis": "Lorsque le jeune et innocent Elliot décroche un emploi de rêve auprès d'Erika Tracy, artiste de renom, icône et provocatrice, ses fantasmes deviennent réalité : Erika fait de lui sa muse. Mais Elliot se retrouve vite dépassé par les événements, entraîné par Erika dans un voyage bien plus profond qu'il n'aurait jamais pu l'imaginer, un monde de sexe, d'obsession, de pouvoir, de trahison et de meurtre.",
+      "poster_url": "posters/1421032.webp",
+      "detail_url": "https://www.cinefil.com/film/i-want-your-sex",
       "seances": [
         {
-          "date": "2026-07-24",
-          "time": "18:35",
-          "version": "VF"
+          "date": "2026-07-30",
+          "time": "16:00",
+          "version": "VO"
         },
         {
-          "date": "2026-07-25",
-          "time": "15:50",
-          "version": "VF"
+          "date": "2026-07-30",
+          "time": "20:50",
+          "version": "VO"
         },
         {
-          "date": "2026-07-26",
-          "time": "18:20",
-          "version": "VF"
+          "date": "2026-07-31",
+          "time": "16:30",
+          "version": "VO"
         },
         {
-          "date": "2026-07-27",
-          "time": "15:50",
-          "version": "VF"
+          "date": "2026-07-31",
+          "time": "20:35",
+          "version": "VO"
         },
         {
-          "date": "2026-07-28",
-          "time": "18:10",
-          "version": "VF"
+          "date": "2026-08-01",
+          "time": "16:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "20:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-02",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-02",
+          "time": "20:50",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-03",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-03",
+          "time": "20:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "16:20",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "20:55",
+          "version": "VO"
         }
       ]
     },
@@ -229,161 +216,44 @@
       "detail_url": "https://www.cinefil.com/film/jim-queen",
       "seances": [
         {
-          "date": "2026-07-22",
-          "time": "18:15",
+          "date": "2026-07-30",
+          "time": "16:00",
           "version": "VF"
         },
         {
-          "date": "2026-07-22",
-          "time": "20:55",
+          "date": "2026-07-31",
+          "time": "18:30",
           "version": "VF"
         },
         {
-          "date": "2026-07-23",
+          "date": "2026-07-31",
+          "time": "22:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-01",
           "time": "21:00",
           "version": "VF"
         },
         {
-          "date": "2026-07-24",
-          "time": "18:15",
+          "date": "2026-08-01",
+          "time": "22:25",
           "version": "VF"
         },
         {
-          "date": "2026-07-24",
+          "date": "2026-08-02",
+          "time": "16:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-03",
           "time": "21:00",
           "version": "VF"
         },
         {
-          "date": "2026-07-25",
-          "time": "21:00",
+          "date": "2026-08-04",
+          "time": "16:00",
           "version": "VF"
-        },
-        {
-          "date": "2026-07-26",
-          "time": "19:10",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-26",
-          "time": "21:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-27",
-          "time": "18:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-27",
-          "time": "21:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-28",
-          "time": "21:00",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "Kill Bill: The Whole Bloody Affair",
-      "year": 2026,
-      "duration_min": 253,
-      "genre": "Action",
-      "directors": [
-        "Quentin Tarantino"
-      ],
-      "cast": [
-        "Uma Thurman",
-        "Lucy Liu",
-        "Vivica A. Fox"
-      ],
-      "synopsis": "Kill Bill : The Whole Bloody Affair est une édition complète des deux films d'action d'arts martiaux Kill Bill : Volume 1 et Kill Bill : Volume 2. Le film était à l'origine prévu pour être publié comme une seule partie. Toutefois, en raison de la durée du film plus de 4 heures, il a été divisé en deux parties.",
-      "poster_url": "posters/1381930.webp",
-      "detail_url": "https://www.cinefil.com/film/kill-bill-the-whole-bloody-affair",
-      "seances": [
-        {
-          "date": "2026-07-23",
-          "time": "19:00",
-          "version": "VO"
-        }
-      ]
-    },
-    {
-      "title": "L'Aventure rêvée",
-      "year": 2026,
-      "duration_min": 161,
-      "genre": "Drame",
-      "directors": [
-        "Valeska Grisebach"
-      ],
-      "cast": [
-        "Yana Radeva",
-        "Syuleyman Alilov Letifo",
-        "Stoicho Kostadinov"
-      ],
-      "synopsis": "À Svilengrad, une petite ville à la frontière bulgare, aux confins d'une Europe délaissée, Veska, archéologue, renoue avec Said, un ami d'enfance, dont la voiture vient d’être volée. En voulant l’aider, Veska glisse progressivement au coeur d'une société criminelle dont l’emprise règne sur la ville. Veska va devoir affronter ce monde à la fois trouble et dangereux.",
-      "poster_url": "posters/1425558.webp",
-      "detail_url": "https://www.cinefil.com/film/laventure-revee",
-      "seances": [
-        {
-          "date": "2026-07-22",
-          "time": "15:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-23",
-          "time": "20:25",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "15:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-25",
-          "time": "20:25",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-27",
-          "time": "20:25",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-28",
-          "time": "15:45",
-          "version": "VO"
-        }
-      ]
-    },
-    {
-      "title": "L'ile aux pirates",
-      "year": 1996,
-      "duration_min": 123,
-      "genre": "Aventure",
-      "directors": [
-        "Renny Harlin"
-      ],
-      "cast": [
-        "Geena Davis",
-        "Matthew Modine",
-        "Frank Langella"
-      ],
-      "synopsis": "Jamaique, 1668. Flibustiere aussi intrepide que seduisante, Morgan Adams a herite du bateau de son pere Harry le Noir, ainsi que du tiers d'une carte au tresor, les deux autres etant detenus par ses oncles, dont le terrible Dawg, l'assassin de Harry. Morgan se lance dans l'aventure du tresor, aidee du voleur et menteur William Shaw.",
-      "poster_url": "posters/194199.webp",
-      "detail_url": "https://www.cinefil.com/film/l-ile-aux-pirates",
-      "seances": [
-        {
-          "date": "2026-07-23",
-          "time": "18:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-27",
-          "time": "18:15",
-          "version": "VO"
         }
       ]
     },
@@ -391,8 +261,9 @@
       "title": "L'Odyssée",
       "year": 2026,
       "duration_min": 179,
-      "genre": "Drame",
+      "genre": "Aventure",
       "directors": [
+        "Fadhil Habibur",
         "Christopher Nolan"
       ],
       "cast": [
@@ -400,245 +271,407 @@
         "Tom Holland",
         "Anne Hathaway"
       ],
-      "synopsis": "Ulysse, le légendaire roi grec d'Ithaque, entreprend un long et périlleux voyage de retour après la guerre de Troie, au cours duquel il rencontre des créatures mythologiques comme le Cyclope Polyphème, les Sirènes et la déesse-sorcière Circé.",
+      "synopsis": "Défiez les dieux. Ulysse, le légendaire roi grec d'Ithaque, entreprend un long et périlleux voyage de retour après la guerre de Troie, au cours duquel il rencontre des créatures mythologiques comme le Cyclope Polyphème, les Sirènes et la déesse-sorcière Circé.",
       "poster_url": "posters/1381389.webp",
       "detail_url": "https://www.cinefil.com/film/l-odyssee-2026",
       "seances": [
         {
-          "date": "2026-07-22",
+          "date": "2026-07-30",
           "time": "15:45",
           "version": "VO"
         },
         {
-          "date": "2026-07-22",
+          "date": "2026-07-30",
           "time": "17:45",
           "version": "VO"
         },
         {
-          "date": "2026-07-22",
-          "time": "20:05",
+          "date": "2026-07-30",
+          "time": "20:00",
           "version": "VO"
         },
         {
-          "date": "2026-07-23",
+          "date": "2026-07-31",
           "time": "15:45",
           "version": "VO"
         },
         {
-          "date": "2026-07-23",
+          "date": "2026-07-31",
           "time": "17:45",
           "version": "VO"
         },
         {
-          "date": "2026-07-23",
-          "time": "20:05",
+          "date": "2026-07-31",
+          "time": "20:00",
           "version": "VO"
         },
         {
-          "date": "2026-07-24",
+          "date": "2026-08-01",
           "time": "15:45",
           "version": "VO"
         },
         {
-          "date": "2026-07-24",
-          "time": "17:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "20:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-25",
-          "time": "15:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-25",
+          "date": "2026-08-01",
           "time": "17:30",
           "version": "VO"
         },
         {
-          "date": "2026-07-25",
-          "time": "20:50",
+          "date": "2026-08-01",
+          "time": "20:45",
           "version": "VO"
         },
         {
-          "date": "2026-07-26",
+          "date": "2026-08-02",
           "time": "15:45",
           "version": "VO"
         },
         {
-          "date": "2026-07-26",
-          "time": "17:15",
+          "date": "2026-08-02",
+          "time": "17:30",
           "version": "VO"
         },
         {
-          "date": "2026-07-26",
+          "date": "2026-08-02",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-03",
+          "time": "15:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-03",
+          "time": "17:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-03",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "15:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "17:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "20:00",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Le Triangle d'or",
+      "year": 2026,
+      "duration_min": 100,
+      "genre": "Drame",
+      "directors": [
+        "Hélène Rosselet-Ruiz"
+      ],
+      "cast": [
+        "Malou Khebizi",
+        "Soundos Mosbah",
+        "Ziad Bakri"
+      ],
+      "synopsis": "Pour gagner sa vie, Laura accepte un emploi au service de Souria. Installée dans un hôtel particulier du triangle d’or par son amant, un riche prince saoudien, Souria vit dans l’attente de ses visites. Tandis que Laura doit s’adapter à cet univers de luxe démesuré et de surveillance constante, un lien fragile se tisse entre les deux femmes. Mais Laura pressent qu’un danger pèse sur Souria et que cette cage dorée pourrait bien se refermer sur elles deux.",
+      "poster_url": "posters/1425560.webp",
+      "detail_url": "https://www.cinefil.com/film/le-triangle-d-or-2026",
+      "seances": [
+        {
+          "date": "2026-07-30",
+          "time": "16:20",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-30",
           "time": "20:30",
           "version": "VO"
         },
         {
-          "date": "2026-07-27",
-          "time": "15:45",
+          "date": "2026-07-31",
+          "time": "18:15",
           "version": "VO"
         },
         {
-          "date": "2026-07-27",
-          "time": "17:45",
+          "date": "2026-07-31",
+          "time": "20:30",
           "version": "VO"
         },
         {
-          "date": "2026-07-27",
-          "time": "20:05",
+          "date": "2026-08-01",
+          "time": "16:10",
           "version": "VO"
         },
         {
-          "date": "2026-07-28",
-          "time": "15:45",
+          "date": "2026-08-01",
+          "time": "20:55",
           "version": "VO"
         },
         {
-          "date": "2026-07-28",
-          "time": "17:45",
+          "date": "2026-08-02",
+          "time": "20:30",
           "version": "VO"
         },
         {
-          "date": "2026-07-28",
-          "time": "20:05",
+          "date": "2026-08-03",
+          "time": "16:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-03",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "18:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "20:40",
           "version": "VO"
         }
       ]
     },
     {
-      "title": "La chaleur",
-      "year": 2026,
-      "duration_min": 90,
-      "genre": "Drame",
-      "directors": [
-        "Stéphane Demoustier"
-      ],
-      "cast": [
-        "Hadrien Hussein",
-        "Tristan Richard",
-        "Martina La Manna"
-      ],
-      "synopsis": "Il fait anormalement chaud sur les plages des Landes et Marouane (17 ans) passe sa dernière journée au camping avec une angoisse : le corps qu’il a enseveli la veille sur la plage va-t-il apparaitre au grand jour ? Marouane se demande par ailleurs s’il n’est pas en train de tomber amoureux de la charmante Giulia.",
-      "poster_url": "posters/1413659.webp",
-      "detail_url": "https://www.cinefil.com/film/la-chaleur",
-      "seances": [
-        {
-          "date": "2026-07-23",
-          "time": "15:50",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-25",
-          "time": "16:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-26",
-          "time": "15:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-28",
-          "time": "18:45",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "La Prophétie des grenouilles",
-      "year": 2003,
-      "duration_min": 90,
-      "genre": "Animation",
-      "directors": [
-        "Jacques-Rémy Girerd"
-      ],
-      "cast": [
-        "Coline Girerd",
-        "Michel Piccoli",
-        "Kevin Hervé"
-      ],
-      "synopsis": "Au pied d'une colline sur laquelle est perchée une ferme coquette, le monde des grenouilles est en émoi : il n'y a plus de doute, un nouveau déluge s'annonce. Face à l'événement, les grenouilles conviennent, à titre exceptionnel, de communiquer et de cohabiter avec les humains. Ce qui n'est pas toujours facile.",
-      "poster_url": "posters/1050013.webp",
-      "detail_url": "https://www.cinefil.com/film/la-prophetie-des-grenouilles",
-      "seances": [
-        {
-          "date": "2026-07-23",
-          "time": "16:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-25",
-          "time": "16:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-27",
-          "time": "16:15",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "Non-Non dans l'espace",
-      "year": 2024,
-      "duration_min": 26,
-      "genre": "Animation",
-      "directors": [
-        "Wassim Boutaleb Joutei"
-      ],
-      "cast": [],
-      "synopsis": "Trois...Deux...Un...Partez ! Fin du compte à rebours, il est temps de planter le drapeau d’Underwood Springs sur la Lune ! Dans un nuage de fumée et d’étincelles, la fusée de Bigtooth quitte l’orbite terrestre. Flottant dans l'espace, No-No, Magaïveur et leurs amis ont à peine le temps d'admirer les paysages qu'une pluie de météores les détourne de leur trajectoire initiale et les envoie directement… vers une planète inconnue ! Leur rencontre avec Ribbit, une petite créature verte, va transformer cette aventure spatiale en une histoire d'amitié interplanétaire.",
-      "poster_url": "posters/1158437.webp",
-      "detail_url": "https://www.cinefil.com/film/non-non-dans-l-espace",
-      "seances": [
-        {
-          "date": "2026-07-22",
-          "time": "16:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "16:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-26",
-          "time": "16:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-07-28",
-          "time": "16:30",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "Psycho beach party",
-      "year": 2001,
-      "duration_min": 95,
+      "title": "Les Dents de la mer",
+      "year": 1976,
+      "duration_min": 124,
       "genre": "Horreur",
       "directors": [
-        "Robert Lee King"
+        "Steven Spielberg"
       ],
       "cast": [
-        "Lauren Ambrose",
-        "Thomas Gibson",
-        "Nicholas Brendon"
+        "Roy Scheider",
+        "Robert Shaw",
+        "Richard Dreyfuss"
       ],
-      "synopsis": "Eté 1962. Le soleil brille et une jeunesse insouciante s'éclate à Malibu Beach. L'ambiance festive est à peine gâchée par le meurtre d'une spectatrice de drive-in, au terme d'un flirt poussé. Pourtant, ce n'est qu'un début. Quelques meurtres plus loin, les soupçons s'orientent vers Chicklet, une surfeuse un peu schizo sur les bords...",
-      "poster_url": "posters/216970.webp",
-      "detail_url": "https://www.cinefil.com/film/psycho-beach-party-2",
+      "synopsis": "Elle fut la première… Dans la station balnéaire d'Amityville, un requin géant frappe à plusieurs reprises. Soucieux d'une bonne saison touristique, le maire interdit au shérif Brody de fermer les plages. Une prime est offerte et le célèbre chasseur de requin Quint se lance avec Brody et l'ichtyologiste Hooper à la poursuite du monstre...",
+      "poster_url": "posters/426238.webp",
+      "detail_url": "https://www.cinefil.com/film/les-dents-de-la-mer",
       "seances": [
         {
-          "date": "2026-07-22",
-          "time": "21:00",
+          "date": "2026-07-30",
+          "time": "18:20",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "18:20",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Les matins merveilleux",
+      "year": 2026,
+      "duration_min": 87,
+      "genre": "Romance",
+      "directors": [
+        "Avril Besson"
+      ],
+      "cast": [
+        "India Hair",
+        "Raya Martigny",
+        "Eric Cantona"
+      ],
+      "synopsis": "À l’enterrement de sa grand-mère, Charlie, apprend qu’elle a déjà sa place réservée dans le caveau familial. En quête d’échappée, elle livrera elle-même la caisse de vinyles disco que sa grand-mère a léguée au caviste d’un village du sud de la France. Dans la station balnéaire désertée, les disques font ressurgir les souvenirs amers d’amours perdus. Ici, le temps a une autre valeur, on s’ennuie plus que l’on ne s’occupe. Charlie n’a d’yeux que pour Marina, la serveuse de la pizzeria. Rien ne prédestinait Charlie, maladroite et trop sincère, et Marina, tornade blessée, à se réparer ensemble. Mais parfois le destin réunit les sirènes égarées.",
+      "poster_url": "posters/1425561.webp",
+      "detail_url": "https://www.cinefil.com/film/les-matins-merveilleux",
+      "seances": [
+        {
+          "date": "2026-07-30",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-31",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-07-31",
+          "time": "20:40",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "20:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-02",
+          "time": "15:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-02",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-03",
+          "time": "18:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-03",
+          "time": "20:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "20:40",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Les Tourouges et les Toubleus",
+      "year": 2023,
+      "duration_min": 25,
+      "genre": "Animation",
+      "directors": [
+        "Daniel Snaddon",
+        "Samantha E Cutler"
+      ],
+      "cast": [
+        "Sally Hawkins",
+        "Bill Bailey",
+        "Ashna Rabheru"
+      ],
+      "synopsis": "Dans cette aventure intergalactique animée, les Smed rouges et les Smoos bleus doivent apprendre à surmonter leurs différences et travailler ensemble pour retrouver les jeunes Janet et Bill, qui se sont enfuis pour échapper aux rivalités de longue date de leurs familles.",
+      "poster_url": "posters/1148061.webp",
+      "detail_url": "https://www.cinefil.com/film/les-tourouges-et-les-toubleus",
+      "seances": [
+        {
+          "date": "2026-07-30",
+          "time": "16:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "16:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-03",
+          "time": "16:30",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Mektoub, My Love : Canto Uno",
+      "year": 2018,
+      "duration_min": 175,
+      "genre": "Drame",
+      "directors": [
+        "Abdellatif Kechiche"
+      ],
+      "cast": [
+        "Shain Boumedine",
+        "Ophélie Bau",
+        "Salim Kechiouche"
+      ],
+      "synopsis": "Dans les années 80, l'été d'un adolescent de quinze ans.",
+      "poster_url": "posters/1056374.webp",
+      "detail_url": "https://www.cinefil.com/film/mektoub-my-love-canto-uno",
+      "seances": [
+        {
+          "date": "2026-08-01",
+          "time": "15:30",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Mon ami robot",
+      "year": 2023,
+      "duration_min": 96,
+      "genre": "Comédie",
+      "directors": [
+        "Pablo Berger"
+      ],
+      "cast": [
+        "Ivan Labanda",
+        "Tito Trifol",
+        "Rafa Calvo"
+      ],
+      "synopsis": "Vivez l'expérience d'une amitié unique qui surpasse vos rêves les plus fous. DOG, vit à Manhattan et la solitude lui pèse. Un jour, il décide de construire un robot et deviennent alors les meilleurs amis du monde ! Par une nuit d’été, DOG avec grande tristesse, est obligé d’abandonner ROBOT sur la plage. Se reverront-ils un jour ? ROBOT DREAMS est le premier film d’animation du réalisateur multirécompensé Pablo Berger (Blancanieves). Une histoire sur l’amitié, son importance et sa fragilité.",
+      "poster_url": "posters/1154446.webp",
+      "detail_url": "https://www.cinefil.com/film/mon-ami-robot",
+      "seances": [
+        {
+          "date": "2026-07-31",
+          "time": "16:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-02",
+          "time": "16:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "16:00",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "RRR",
+      "year": 2022,
+      "duration_min": 182,
+      "genre": "Aventure",
+      "directors": [
+        "S.S. Rajamouli"
+      ],
+      "cast": [
+        "N.T. Rama Rao Jr.",
+        "Ram Charan",
+        "Olivia Morris"
+      ],
+      "synopsis": "À l'époque coloniale, en Inde, les anglais enlèvent une jeune fille d'une communauté tribale. Mais ce qu'ils ignorent, c'est que cette tribu a un protecteur : Bheem. Peut-être que soleil ne se couche jamais sur l'empire britannique. Mais la force est du coté des justes.",
+      "poster_url": "posters/1112251.webp",
+      "detail_url": "https://www.cinefil.com/film/rrr",
+      "seances": [
+        {
+          "date": "2026-07-30",
+          "time": "20:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-07-31",
+          "time": "20:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "17:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-02",
+          "time": "20:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-03",
+          "time": "17:30",
           "version": "VO"
         }
       ]
@@ -661,63 +694,28 @@
       "detail_url": "https://www.cinefil.com/film/sous-le-ciel-de-kyoto",
       "seances": [
         {
-          "date": "2026-07-22",
-          "time": "15:50",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-22",
-          "time": "20:30",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-23",
+          "date": "2026-07-30",
           "time": "18:00",
           "version": "VO"
         },
         {
-          "date": "2026-07-24",
-          "time": "16:05",
+          "date": "2026-08-01",
+          "time": "18:05",
           "version": "VO"
         },
         {
-          "date": "2026-07-24",
-          "time": "20:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-25",
+          "date": "2026-08-02",
           "time": "18:00",
           "version": "VO"
         },
         {
-          "date": "2026-07-25",
-          "time": "20:30",
+          "date": "2026-08-03",
+          "time": "18:15",
           "version": "VO"
         },
         {
-          "date": "2026-07-26",
-          "time": "15:50",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-26",
-          "time": "20:30",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-27",
-          "time": "20:40",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-28",
-          "time": "15:50",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-28",
-          "time": "20:30",
+          "date": "2026-08-04",
+          "time": "20:25",
           "version": "VO"
         }
       ]
@@ -740,92 +738,23 @@
       "detail_url": "https://www.cinefil.com/film/sur-la-route-domaha",
       "seances": [
         {
-          "date": "2026-07-22",
+          "date": "2026-07-31",
           "time": "16:00",
           "version": "VO"
         },
         {
-          "date": "2026-07-22",
-          "time": "18:30",
+          "date": "2026-08-01",
+          "time": "22:20",
           "version": "VO"
         },
         {
-          "date": "2026-07-23",
-          "time": "16:10",
+          "date": "2026-08-02",
+          "time": "18:05",
           "version": "VO"
         },
         {
-          "date": "2026-07-23",
-          "time": "20:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "20:40",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-25",
-          "time": "15:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-25",
-          "time": "20:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-26",
+          "date": "2026-08-03",
           "time": "16:00",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-26",
-          "time": "18:30",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-27",
-          "time": "16:10",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-27",
-          "time": "20:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-28",
-          "time": "20:45",
-          "version": "VO"
-        }
-      ]
-    },
-    {
-      "title": "The Endless Summer",
-      "year": 1968,
-      "duration_min": 95,
-      "genre": "Documentaire",
-      "directors": [
-        "Bruce Brown"
-      ],
-      "cast": [
-        "Michael Hynson",
-        "Robert August",
-        "Lord James Blears"
-      ],
-      "synopsis": "Robert August et Mike Hynson, deux jeunes surfeurs californiens, vont entreprendre un voyage bien particulier. Munis de leur planche de surf, ils vont se rendre en Afrique, en Australie, en Nouvelle-Zélande, à Tahiti puis Hawaï, à la recherche de la vague parfaite…",
-      "poster_url": "posters/1123040.webp",
-      "detail_url": "https://www.cinefil.com/film/the-endless-summer",
-      "seances": [
-        {
-          "date": "2026-07-26",
-          "time": "20:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-28",
-          "time": "18:30",
           "version": "VO"
         }
       ]
@@ -848,53 +777,33 @@
       "detail_url": "https://www.cinefil.com/film/the-last-viking",
       "seances": [
         {
-          "date": "2026-07-22",
-          "time": "18:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-22",
-          "time": "20:40",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-23",
-          "time": "17:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "16:00",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "20:50",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-25",
-          "time": "18:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-26",
-          "time": "20:20",
-          "version": "VO"
-        },
-        {
-          "date": "2026-07-27",
+          "date": "2026-07-30",
           "time": "18:10",
           "version": "VO"
         },
         {
-          "date": "2026-07-28",
-          "time": "16:00",
+          "date": "2026-07-31",
+          "time": "18:20",
           "version": "VO"
         },
         {
-          "date": "2026-07-28",
-          "time": "20:40",
+          "date": "2026-07-31",
+          "time": "22:20",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "18:40",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-02",
+          "time": "18:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "18:00",
           "version": "VO"
         }
       ]
