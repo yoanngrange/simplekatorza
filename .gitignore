@@ -1,2 +1,3 @@
 .venv/
-.DS_Store
+.DS_Store.last_successful_update
+.last_successful_update
