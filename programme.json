@@ -6,7 +6,7 @@
     "billetterie_url": "https://www.katorza.fr/katorza/alaffiche/katorza"
   },
   "source": "https://www.cinefil.com/cinema/le-katorza-nantes/programmation",
-  "scraped_at": "2026-08-05T09:00:06+02:00",
+  "scraped_at": "2026-08-09T17:02:04+02:00",
   "films": [
     {
       "title": "Aquarius",
@@ -25,11 +25,6 @@
       "poster_url": "posters/1051839.webp",
       "detail_url": "https://www.cinefil.com/film/aquarius",
       "seances": [
-        {
-          "date": "2026-08-06",
-          "time": "18:10",
-          "version": "VO"
-        },
         {
           "date": "2026-08-11",
           "time": "18:10",
@@ -56,11 +51,6 @@
       "detail_url": "https://www.cinefil.com/film/battle-royale",
       "seances": [
         {
-          "date": "2026-08-05",
-          "time": "18:20",
-          "version": "VO"
-        },
-        {
           "date": "2026-08-10",
           "time": "18:20",
           "version": "VO"
@@ -85,66 +75,6 @@
       "poster_url": "posters/1413662.webp",
       "detail_url": "https://www.cinefil.com/film/de-la-comedie-francaise",
       "seances": [
-        {
-          "date": "2026-08-05",
-          "time": "16:10",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-05",
-          "time": "18:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-05",
-          "time": "20:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "15:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "18:25",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "20:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "16:10",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "19:10",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "21:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "16:10",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "19:10",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "21:00",
-          "version": "VF"
-        },
         {
           "date": "2026-08-09",
           "time": "16:10",
@@ -210,41 +140,6 @@
       "detail_url": "https://www.cinefil.com/film/des-fleurs-pour-tokyo",
       "seances": [
         {
-          "date": "2026-08-05",
-          "time": "15:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-05",
-          "time": "20:30",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "20:30",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "15:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "20:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "18:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "20:05",
-          "version": "VO"
-        },
-        {
           "date": "2026-08-09",
           "time": "15:45",
           "version": "VO"
@@ -288,41 +183,6 @@
       "poster_url": "posters/1421719.webp",
       "detail_url": "https://www.cinefil.com/film/girl-2025",
       "seances": [
-        {
-          "date": "2026-08-05",
-          "time": "18:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-05",
-          "time": "20:35",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "15:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "18:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "17:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "15:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "20:35",
-          "version": "VO"
-        },
         {
           "date": "2026-08-09",
           "time": "17:55",
@@ -368,31 +228,6 @@
       "detail_url": "https://www.cinefil.com/film/i-want-your-sex",
       "seances": [
         {
-          "date": "2026-08-05",
-          "time": "18:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "16:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "18:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "22:20",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "22:20",
-          "version": "VO"
-        },
-        {
           "date": "2026-08-09",
           "time": "17:55",
           "version": "VO"
@@ -423,36 +258,6 @@
       "detail_url": "https://www.cinefil.com/film/jim-queen",
       "seances": [
         {
-          "date": "2026-08-05",
-          "time": "21:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "21:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "18:35",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "22:25",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "18:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "22:25",
-          "version": "VF"
-        },
-        {
           "date": "2026-08-10",
           "time": "21:00",
           "version": "VF"
@@ -482,11 +287,6 @@
       "detail_url": "https://www.cinefil.com/film/l-ile-aux-pirates",
       "seances": [
         {
-          "date": "2026-08-08",
-          "time": "18:10",
-          "version": "VO"
-        },
-        {
           "date": "2026-08-09",
           "time": "18:10",
           "version": "VO"
@@ -511,66 +311,6 @@
       "poster_url": "posters/1381389.webp",
       "detail_url": "https://www.cinefil.com/film/l-odyssee-2026",
       "seances": [
-        {
-          "date": "2026-08-05",
-          "time": "15:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-05",
-          "time": "17:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-05",
-          "time": "20:00",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "15:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "17:30",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "20:00",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "15:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "17:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "20:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "15:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "17:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "20:45",
-          "version": "VO"
-        },
         {
           "date": "2026-08-09",
           "time": "15:55",
@@ -636,46 +376,6 @@
       "detail_url": "https://www.cinefil.com/film/le-triangle-d-or-2026",
       "seances": [
         {
-          "date": "2026-08-05",
-          "time": "16:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-05",
-          "time": "20:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "20:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "16:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "20:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "16:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "18:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "20:15",
-          "version": "VF"
-        },
-        {
           "date": "2026-08-09",
           "time": "16:00",
           "version": "VF"
@@ -714,36 +414,6 @@
       "poster_url": "posters/1425561.webp",
       "detail_url": "https://www.cinefil.com/film/les-matins-merveilleux",
       "seances": [
-        {
-          "date": "2026-08-05",
-          "time": "16:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "16:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "16:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "20:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "16:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "20:30",
-          "version": "VF"
-        },
         {
           "date": "2026-08-09",
           "time": "16:05",
@@ -786,16 +456,6 @@
       "detail_url": "https://www.cinefil.com/film/les-nouvelles-aventures-de-gros-pois-et-petit-point",
       "seances": [
         {
-          "date": "2026-08-05",
-          "time": "16:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "16:15",
-          "version": "VF"
-        },
-        {
           "date": "2026-08-09",
           "time": "16:15",
           "version": "VF"
@@ -825,16 +485,6 @@
       "detail_url": "https://www.cinefil.com/film/mary-anning",
       "seances": [
         {
-          "date": "2026-08-06",
-          "time": "16:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "16:15",
-          "version": "VF"
-        },
-        {
           "date": "2026-08-10",
           "time": "16:15",
           "version": "VF"
@@ -859,16 +509,6 @@
       "detail_url": "https://www.cinefil.com/film/rrr",
       "seances": [
         {
-          "date": "2026-08-06",
-          "time": "20:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "20:05",
-          "version": "VO"
-        },
-        {
           "date": "2026-08-09",
           "time": "20:05",
           "version": "VO"
@@ -892,26 +532,6 @@
       "poster_url": "posters/1418306.webp",
       "detail_url": "https://www.cinefil.com/film/the-last-viking",
       "seances": [
-        {
-          "date": "2026-08-06",
-          "time": "17:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "17:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "22:10",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "22:10",
-          "version": "VO"
-        },
         {
           "date": "2026-08-09",
           "time": "20:30",
