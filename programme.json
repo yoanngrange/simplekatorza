@@ -6,53 +6,58 @@
     "billetterie_url": "https://www.katorza.fr/katorza/alaffiche/katorza"
   },
   "source": "https://www.cinefil.com/cinema/le-katorza-nantes/programmation",
-  "scraped_at": "2026-08-09T17:11:17+02:00",
+  "scraped_at": "2026-08-12T08:30:05+02:00",
   "films": [
     {
-      "title": "Aquarius",
-      "year": 2016,
-      "duration_min": 142,
+      "title": "Chicas tristes",
+      "year": 2026,
+      "duration_min": 90,
       "genre": "Drame",
       "directors": [
-        "Kleber Mendonça Filho"
+        "Fernanda Tovar"
       ],
       "cast": [
-        "Sonia Braga",
-        "Maeve Jinkings",
-        "Irandhir Santos"
+        "Rocío Guzmán",
+        "Mariano Alvarez",
+        "Tatsumi Milori"
       ],
-      "synopsis": "Ce film est présenté en Compétition au Festival de Cannes 2016Clara, la soixantaine, ancienne critique musicale, est née dans un milieu bourgeois de Recife, au Brésil. Elle vit dans un immeuble singulier, l'Aquarius construit dans les années 40, sur la très huppée Avenida Boa Viagem qui longe l’océan. Un important promoteur a racheté tous les appartements mais elle, se refuse à vendre le sien. Elle va rentrer en guerre froide avec la société immobilière qui la harcèle. Très perturbée par cette tension, elle repense à sa vie, son passé, ceux qu’elle aime.",
-      "poster_url": "posters/1051839.webp",
-      "detail_url": "https://www.cinefil.com/film/aquarius",
+      "synopsis": "La Maestra et Paula sont les meilleures nageuses de leur équipe et les meilleures amies du monde, jusqu'à ce qu'un incident lors d'une fête change tout. La Maestra, intense et indomptable, réalise que quelque chose a changé chez sa meilleure amie, ce qui la rend triste. Quand la vérité éclate au grand jour, les deux se retrouvent face à une décision impossible : Paula veut garder le silence, tandis que La Maestra veut se venger. Leur amitié, autrefois inébranlable, sera mise à l'épreuve comme jamais auparavant.",
+      "poster_url": "posters/1436323.webp",
+      "detail_url": "https://www.cinefil.com/film/chicas-tristes",
       "seances": [
         {
-          "date": "2026-08-11",
-          "time": "18:10",
+          "date": "2026-08-12",
+          "time": "17:25",
           "version": "VO"
-        }
-      ]
-    },
-    {
-      "title": "Battle royale",
-      "year": 2001,
-      "duration_min": 114,
-      "genre": "Action",
-      "directors": [
-        "Kinji Fukasaku",
-        "Kinji Fumakasu"
-      ],
-      "cast": [
-        "Tatsuya Fujiwara",
-        "Aki Maeda",
-        "Takeshi Kitano"
-      ],
-      "synopsis": "La loi ''Battle Royale'', dite loi ''BR'', a été ratifiée dans le but de cerner l'élite de la nation. Chaque année, une classe de 3ème année de collège est emmenée sur une île déserte. Les élèves sont armés et doivent s'entretuer jusqu'à ce qu'il n'en reste qu'un, dont on est sûr alors qu'il fera un adulte méritant. Allez les enfants, du courage !",
-      "poster_url": "posters/184319.webp",
-      "detail_url": "https://www.cinefil.com/film/battle-royale",
-      "seances": [
+        },
         {
-          "date": "2026-08-10",
-          "time": "18:20",
+          "date": "2026-08-13",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-14",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "18:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-17",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "18:15",
           "version": "VO"
         }
       ]
@@ -76,48 +81,103 @@
       "detail_url": "https://www.cinefil.com/film/de-la-comedie-francaise",
       "seances": [
         {
-          "date": "2026-08-09",
-          "time": "16:10",
+          "date": "2026-08-12",
+          "time": "15:45",
           "version": "VF"
         },
         {
-          "date": "2026-08-09",
-          "time": "18:15",
+          "date": "2026-08-12",
+          "time": "18:55",
           "version": "VF"
         },
         {
-          "date": "2026-08-09",
+          "date": "2026-08-12",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-13",
+          "time": "15:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-13",
+          "time": "18:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-13",
           "time": "21:00",
           "version": "VF"
         },
         {
-          "date": "2026-08-10",
-          "time": "16:10",
+          "date": "2026-08-14",
+          "time": "16:15",
           "version": "VF"
         },
         {
-          "date": "2026-08-10",
-          "time": "18:45",
+          "date": "2026-08-14",
+          "time": "18:55",
           "version": "VF"
         },
         {
-          "date": "2026-08-10",
+          "date": "2026-08-14",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "18:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "17:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "18:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-16",
           "time": "20:45",
           "version": "VF"
         },
         {
-          "date": "2026-08-11",
-          "time": "15:55",
+          "date": "2026-08-17",
+          "time": "16:05",
           "version": "VF"
         },
         {
-          "date": "2026-08-11",
-          "time": "18:45",
+          "date": "2026-08-17",
+          "time": "18:55",
           "version": "VF"
         },
         {
-          "date": "2026-08-11",
+          "date": "2026-08-17",
           "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "18:05",
           "version": "VF"
         }
       ]
@@ -140,28 +200,99 @@
       "detail_url": "https://www.cinefil.com/film/des-fleurs-pour-tokyo",
       "seances": [
         {
-          "date": "2026-08-09",
-          "time": "15:45",
+          "date": "2026-08-12",
+          "time": "18:15",
           "version": "VO"
         },
         {
-          "date": "2026-08-09",
-          "time": "20:15",
+          "date": "2026-08-13",
+          "time": "15:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-10",
-          "time": "20:30",
+          "date": "2026-08-14",
+          "time": "20:10",
           "version": "VO"
         },
         {
-          "date": "2026-08-11",
-          "time": "15:45",
+          "date": "2026-08-15",
+          "time": "15:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-11",
-          "time": "20:30",
+          "date": "2026-08-16",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-17",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "20:25",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Fjord",
+      "year": 2026,
+      "duration_min": 146,
+      "genre": "Drame",
+      "directors": [
+        "Cristian Mungiu"
+      ],
+      "cast": [
+        "Sebastian Stan",
+        "Renate Reinsve",
+        "Lisa Carlehed"
+      ],
+      "synopsis": "Les Gheorghiu, un couple roumano-norvégien très pieux, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins, les Halberg. Les enfants des deux familles deviennent très proches, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia, l’aînée des enfants Gheorghiu, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.",
+      "poster_url": "posters/1409876.webp",
+      "detail_url": "https://www.cinefil.com/film/fjord",
+      "seances": [
+        {
+          "date": "2026-08-18",
+          "time": "20:00",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Flow, le chat qui n'avait plus peur de l'eau",
+      "year": 2024,
+      "duration_min": 85,
+      "genre": "Animation",
+      "directors": [
+        "Gints Zilbalodis"
+      ],
+      "cast": [
+        "Gints Zilbalodis"
+      ],
+      "synopsis": "Dans ce nouveau monde, l'union sera la clé. Un chat se réveille dans un univers envahi par l’eau où toute vie humaine semble avoir disparu. Il trouve refuge sur un bateau avec un groupe d’autres animaux. Mais s’entendre avec eux s’avère un défi encore plus grand que de surmonter sa peur de l'eau ! Tous devront désormais apprendre à surmonter leurs différences et à s’adapter au nouveau monde qui s’impose à eux.",
+      "poster_url": "posters/1391777.webp",
+      "detail_url": "https://www.cinefil.com/film/flow",
+      "seances": [
+        {
+          "date": "2026-08-13",
+          "time": "16:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "16:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-17",
+          "time": "16:00",
           "version": "VO"
         }
       ]
@@ -184,57 +315,38 @@
       "detail_url": "https://www.cinefil.com/film/girl-2025",
       "seances": [
         {
-          "date": "2026-08-09",
-          "time": "17:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-09",
-          "time": "20:35",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-10",
+          "date": "2026-08-12",
           "time": "15:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-10",
-          "time": "18:05",
+          "date": "2026-08-13",
+          "time": "20:45",
           "version": "VO"
         },
         {
-          "date": "2026-08-11",
-          "time": "20:35",
-          "version": "VO"
-        }
-      ]
-    },
-    {
-      "title": "I Want Your Sex",
-      "year": 2026,
-      "duration_min": 101,
-      "genre": "Drame",
-      "directors": [
-        "Gregg Araki"
-      ],
-      "cast": [
-        "Olivia Wilde",
-        "Cooper Hoffman",
-        "Mason Gooding"
-      ],
-      "synopsis": "Lorsque le jeune et innocent Elliot décroche un emploi de rêve auprès d'Erika Tracy, artiste de renom, icône et provocatrice, ses fantasmes deviennent réalité : Erika fait de lui sa muse. Mais Elliot se retrouve vite dépassé par les événements, entraîné par Erika dans un voyage bien plus profond qu'il n'aurait jamais pu l'imaginer, un monde de sexe, d'obsession, de pouvoir, de trahison et de meurtre.",
-      "poster_url": "posters/1421032.webp",
-      "detail_url": "https://www.cinefil.com/film/i-want-your-sex",
-      "seances": [
-        {
-          "date": "2026-08-09",
+          "date": "2026-08-14",
           "time": "17:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-11",
-          "time": "18:15",
+          "date": "2026-08-15",
+          "time": "20:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-17",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "18:00",
           "version": "VO"
         }
       ]
@@ -258,38 +370,24 @@
       "detail_url": "https://www.cinefil.com/film/jim-queen",
       "seances": [
         {
-          "date": "2026-08-10",
-          "time": "21:00",
+          "date": "2026-08-14",
+          "time": "22:25",
           "version": "VF"
         },
         {
-          "date": "2026-08-11",
-          "time": "21:00",
+          "date": "2026-08-15",
+          "time": "22:25",
           "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "L'ile aux pirates",
-      "year": 1996,
-      "duration_min": 123,
-      "genre": "Aventure",
-      "directors": [
-        "Renny Harlin"
-      ],
-      "cast": [
-        "Geena Davis",
-        "Matthew Modine",
-        "Frank Langella"
-      ],
-      "synopsis": "Jamaique, 1668. Flibustiere aussi intrepide que seduisante, Morgan Adams a herite du bateau de son pere Harry le Noir, ainsi que du tiers d'une carte au tresor, les deux autres etant detenus par ses oncles, dont le terrible Dawg, l'assassin de Harry. Morgan se lance dans l'aventure du tresor, aidee du voleur et menteur William Shaw.",
-      "poster_url": "posters/194199.webp",
-      "detail_url": "https://www.cinefil.com/film/l-ile-aux-pirates",
-      "seances": [
+        },
         {
-          "date": "2026-08-09",
-          "time": "18:10",
-          "version": "VO"
+          "date": "2026-08-16",
+          "time": "18:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-17",
+          "time": "18:30",
+          "version": "VF"
         }
       ]
     },
@@ -312,49 +410,99 @@
       "detail_url": "https://www.cinefil.com/film/l-odyssee-2026",
       "seances": [
         {
-          "date": "2026-08-09",
-          "time": "15:55",
+          "date": "2026-08-12",
+          "time": "15:45",
           "version": "VO"
         },
         {
-          "date": "2026-08-09",
-          "time": "17:45",
+          "date": "2026-08-12",
+          "time": "20:30",
           "version": "VO"
         },
         {
-          "date": "2026-08-09",
-          "time": "20:00",
+          "date": "2026-08-13",
+          "time": "15:45",
           "version": "VO"
         },
         {
-          "date": "2026-08-10",
-          "time": "15:55",
+          "date": "2026-08-13",
+          "time": "20:30",
           "version": "VO"
         },
         {
-          "date": "2026-08-10",
-          "time": "17:45",
+          "date": "2026-08-14",
+          "time": "15:45",
           "version": "VO"
         },
         {
-          "date": "2026-08-10",
-          "time": "20:00",
+          "date": "2026-08-14",
+          "time": "20:30",
           "version": "VO"
         },
         {
-          "date": "2026-08-11",
-          "time": "15:55",
+          "date": "2026-08-15",
+          "time": "15:45",
           "version": "VO"
         },
         {
-          "date": "2026-08-11",
-          "time": "17:30",
+          "date": "2026-08-15",
+          "time": "20:30",
           "version": "VO"
         },
         {
-          "date": "2026-08-11",
-          "time": "20:00",
+          "date": "2026-08-16",
+          "time": "15:45",
           "version": "VO"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-17",
+          "time": "15:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-17",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "17:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "20:30",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "L'Île au trésor",
+      "year": 2018,
+      "duration_min": 97,
+      "genre": "Documentaire",
+      "directors": [
+        "Guillaume Brac"
+      ],
+      "cast": [],
+      "synopsis": "Un été sur une île de loisirs en région parisienne. Terrain d’aventures, de drague et de transgression pour les uns, lieu de refuge et d’évasion pour les autres. De sa plage payante à ses recoins cachés, l’exploration d’un royaume de l’enfance, en résonance avec les tumultes du monde.",
+      "poster_url": "posters/1077590.webp",
+      "detail_url": "https://www.cinefil.com/film/l-ile-au-tresor-2018",
+      "seances": [
+        {
+          "date": "2026-08-13",
+          "time": "18:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "18:25",
+          "version": "VF"
         }
       ]
     },
@@ -376,24 +524,49 @@
       "detail_url": "https://www.cinefil.com/film/le-triangle-d-or-2026",
       "seances": [
         {
-          "date": "2026-08-09",
-          "time": "16:00",
-          "version": "VF"
+          "date": "2026-08-12",
+          "time": "21:00",
+          "version": "VO"
         },
         {
-          "date": "2026-08-10",
-          "time": "16:00",
-          "version": "VF"
+          "date": "2026-08-13",
+          "time": "19:15",
+          "version": "VO"
         },
         {
-          "date": "2026-08-10",
+          "date": "2026-08-14",
+          "time": "16:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-14",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "16:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-16",
           "time": "20:30",
-          "version": "VF"
+          "version": "VO"
         },
         {
-          "date": "2026-08-11",
+          "date": "2026-08-17",
+          "time": "18:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-18",
           "time": "16:00",
-          "version": "VF"
+          "version": "VO"
         }
       ]
     },
@@ -415,102 +588,223 @@
       "detail_url": "https://www.cinefil.com/film/les-matins-merveilleux",
       "seances": [
         {
-          "date": "2026-08-09",
-          "time": "16:05",
+          "date": "2026-08-12",
+          "time": "19:15",
           "version": "VF"
         },
         {
-          "date": "2026-08-10",
-          "time": "16:05",
+          "date": "2026-08-14",
+          "time": "18:30",
           "version": "VF"
         },
         {
-          "date": "2026-08-10",
-          "time": "20:45",
+          "date": "2026-08-14",
+          "time": "22:20",
           "version": "VF"
         },
         {
-          "date": "2026-08-11",
-          "time": "16:05",
+          "date": "2026-08-15",
+          "time": "20:10",
           "version": "VF"
         },
         {
-          "date": "2026-08-11",
+          "date": "2026-08-15",
+          "time": "22:20",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "18:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-17",
           "time": "20:30",
           "version": "VF"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "20:45",
+          "version": "VF"
         }
       ]
     },
     {
-      "title": "Les Nouvelles Aventures de Gros Pois et Petit-Point",
-      "year": 2015,
-      "duration_min": 43,
-      "genre": "Animation",
+      "title": "Mamma mia !",
+      "year": 2008,
+      "duration_min": 110,
+      "genre": "Comédie",
       "directors": [
-        "Uzi Geffenblad",
-        "Lotta Geffenblad"
+        "Phyllida Lloyd"
       ],
-      "cast": [],
-      "synopsis": "Gros-pois et Petit-point sont de retour ! Les deux compères cuisinent, jouent les acrobates, soignent une varicelle ou cueillent des champignons. Toujours curieux et de bonne humeur, ils vous amuseront le temps de six courtes aventures...",
-      "poster_url": "posters/1048091.webp",
-      "detail_url": "https://www.cinefil.com/film/les-nouvelles-aventures-de-gros-pois-et-petit-point",
+      "cast": [
+        "Amanda Seyfried",
+        "Meryl Streep",
+        "Pierce Brosnan"
+      ],
+      "synopsis": "Une future mariée est à la recherche de son père dont sa mère ne veut pas révéler l'identité. C’est en 1999, sur la ravissante île grecque de Kalokairi que l’aventure romantique commence, dans un hôtel méditerranéen isolé, la villa Donna, tenu par Donna , sa fille Sophie et le fiancé de Sophie, Sky. Juste à temps pour son mariage prochain, Sophie poste nerveusement trois invitations destinées à trois hommes bien différents dont elle pense que l’un d’eux est son père. De trois points du globe, trois hommes s’apprêtent à retourner sur l’île –et vers la femme– qui les avait enchantées 20 ans auparavant.",
+      "poster_url": "posters/316333.webp",
+      "detail_url": "https://www.cinefil.com/film/mamma-mia-2008",
       "seances": [
         {
-          "date": "2026-08-09",
-          "time": "16:15",
+          "date": "2026-08-14",
+          "time": "22:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "18:00",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Rita et Crocodile",
+      "year": 2018,
+      "duration_min": 40,
+      "genre": "Animation",
+      "directors": [],
+      "cast": [],
+      "synopsis": "Programme de 6 films d’animation : « À la pêche », « Dans la forêt », « Au zoo », « Le Hérisson », « Au camping » ; « La Neige » de Siri Melchior (2014, Dan./Fr./R-U,) Sortie le 7 fév. 2018.Rita est une petite fille au caractère bien trempé. Avec l’aide de son ami Crocodile, qui l’aide à affronter l’inconnu et à surmonter ses peurs, elle découvre le monde extérieur. Ensemble, ils apprennent à pêcher, ils ramassent des châtaignes, tentent d’apprivoiser un hérisson, partent camper dans la montagne et font des courses de luge… Cette série colorée dépeint à merveille les émotions de l’enfance à travers une belle animation peinte à la main.",
+      "poster_url": "posters/1056103.webp",
+      "detail_url": "https://www.cinefil.com/film/rita-et-crocodile",
+      "seances": [
+        {
+          "date": "2026-08-12",
+          "time": "16:00",
           "version": "VF"
         },
         {
-          "date": "2026-08-11",
-          "time": "16:15",
+          "date": "2026-08-14",
+          "time": "16:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "16:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "16:00",
           "version": "VF"
         }
       ]
     },
     {
-      "title": "Mary Anning",
-      "year": 2025,
-      "duration_min": 70,
-      "genre": "Animation",
+      "title": "Soudain",
+      "year": 2026,
+      "duration_min": 196,
+      "genre": "Drame",
       "directors": [
-        "Marcel Barelli"
+        "Ryusuke Hamaguchi"
       ],
       "cast": [
-        "Camille D'Hainaut",
-        "Jason Vansilliette",
-        "Alexia Depicker"
+        "Virginie Efira",
+        "Tao Okamoto",
+        "Kyozo Nagatsuka"
       ],
-      "synopsis": "Dans l’Angleterre du XIXe siècle, Mary est une jeune fille passionnée par les fossiles, qu’elle cherche avec son père sur la plage, pour ensuite les vendre aux touristes. La mort soudaine du père jette la famille dans le désarroi : sans une source financière, ils vont bientôt devoir quitter leur maison et pire encore, pour Mary, sa bien aimée plage aux fossiles. Mais avant de mourir, son père lui a laissé un mystérieux message qui pourrait l’amener à bouleverser bien de choses…",
-      "poster_url": "posters/1249446.webp",
-      "detail_url": "https://www.cinefil.com/film/mary-anning",
+      "synopsis": "Directrice d'un établissement pour personnes âgées, Marie-Lou tente d'y instaurer une philosophie de soins innovante basée sur l'écoute et la dignité des résidents, malgré la réticence d’une partie de ses équipes. Sa rencontre avec Mari, une metteuse en scène japonaise qui se bat contre un cancer, va bouleverser sa trajectoire. En nouant une amitié profonde, les deux femmes engagent ensemble un combat pour “rendre possible l’impossible”.",
+      "poster_url": "posters/1425563.webp",
+      "detail_url": "https://www.cinefil.com/film/soudain",
       "seances": [
         {
-          "date": "2026-08-10",
-          "time": "16:15",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "RRR",
-      "year": 2022,
-      "duration_min": 182,
-      "genre": "Aventure",
-      "directors": [
-        "S.S. Rajamouli"
-      ],
-      "cast": [
-        "N.T. Rama Rao Jr.",
-        "Ram Charan",
-        "Olivia Morris"
-      ],
-      "synopsis": "À l'époque coloniale, en Inde, les anglais enlèvent une jeune fille d'une communauté tribale. Mais ce qu'ils ignorent, c'est que cette tribu a un protecteur : Bheem. Peut-être que soleil ne se couche jamais sur l'empire britannique. Mais la force est du coté des justes.",
-      "poster_url": "posters/1112251.webp",
-      "detail_url": "https://www.cinefil.com/film/rrr",
-      "seances": [
+          "date": "2026-08-12",
+          "time": "16:55",
+          "version": "VO"
+        },
         {
-          "date": "2026-08-09",
+          "date": "2026-08-12",
           "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-13",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-13",
+          "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-14",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-14",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "19:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-17",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-17",
+          "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "20:05",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Spring Breakers",
+      "year": 2013,
+      "duration_min": 92,
+      "genre": "Drame",
+      "directors": [
+        "Harmony Korine"
+      ],
+      "cast": [
+        "James Franco",
+        "Selena Gomez",
+        "Vanessa Hudgens"
+      ],
+      "synopsis": "Pour financer leur Spring Break, quatre filles aussi fauchées que sexy décident de braquer un fast-food. Et ce n’est que le début… Lors d’une fête dans une chambre de motel, la soirée dérape et les filles sont embarquées par la police. En bikini et avec une gueule de bois d’enfer, elles se retrouvent devant le juge, mais contre toute attente leur caution est payée par Alien, un malfrat local qui les prend sous son aile…",
+      "poster_url": "posters/677911.webp",
+      "detail_url": "https://www.cinefil.com/film/spring-breakers",
+      "seances": [
+        {
+          "date": "2026-08-12",
+          "time": "18:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "22:10",
           "version": "VO"
         }
       ]
@@ -533,19 +827,123 @@
       "detail_url": "https://www.cinefil.com/film/the-last-viking",
       "seances": [
         {
-          "date": "2026-08-09",
-          "time": "20:30",
+          "date": "2026-08-14",
+          "time": "17:45",
           "version": "VO"
         },
         {
-          "date": "2026-08-10",
+          "date": "2026-08-14",
+          "time": "22:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "17:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "22:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-16",
           "time": "18:15",
           "version": "VO"
         },
         {
-          "date": "2026-08-11",
-          "time": "18:05",
+          "date": "2026-08-17",
+          "time": "17:55",
           "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Une affaire turque",
+      "year": 2026,
+      "duration_min": 88,
+      "genre": "Thriller",
+      "directors": [
+        "Hüseyin Aydın Gürsoy"
+      ],
+      "cast": [
+        "Lionel Erdogan",
+        "Mehmet Ulusoy",
+        "Charles Berling"
+      ],
+      "synopsis": "Mathieu s'est éloigné de sa communauté turc à Mulhouse pour grimper l'échelle sociale. Avocat déterminé, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Strasbourg. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.",
+      "poster_url": "posters/1431073.webp",
+      "detail_url": "https://www.cinefil.com/film/une-affaire-turque",
+      "seances": [
+        {
+          "date": "2026-08-12",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-12",
+          "time": "20:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-13",
+          "time": "17:20",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-13",
+          "time": "20:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-14",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-14",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "20:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-17",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-17",
+          "time": "20:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "20:35",
+          "version": "VF"
         }
       ]
     }
