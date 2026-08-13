@@ -6,7 +6,7 @@
     "billetterie_url": "https://www.katorza.fr/katorza/alaffiche/katorza"
   },
   "source": "https://www.cinefil.com/cinema/le-katorza-nantes/programmation",
-  "scraped_at": "2026-08-12T18:00:05+02:00",
+  "scraped_at": "2026-08-13T09:30:06+02:00",
   "films": [
     {
       "title": "Chicas tristes",
@@ -26,27 +26,7 @@
       "detail_url": "https://www.cinefil.com/film/chicas-tristes",
       "seances": [
         {
-          "date": "2026-08-12",
-          "time": "17:25",
-          "version": "VO"
-        },
-        {
           "date": "2026-08-13",
-          "time": "18:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-14",
-          "time": "18:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-15",
-          "time": "18:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-16",
           "time": "18:15",
           "version": "VO"
         },
@@ -80,21 +60,6 @@
       "poster_url": "posters/1413662.webp",
       "detail_url": "https://www.cinefil.com/film/de-la-comedie-francaise",
       "seances": [
-        {
-          "date": "2026-08-12",
-          "time": "15:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-12",
-          "time": "18:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-12",
-          "time": "20:45",
-          "version": "VF"
-        },
         {
           "date": "2026-08-13",
           "time": "15:45",
@@ -200,22 +165,7 @@
       "detail_url": "https://www.cinefil.com/film/des-fleurs-pour-tokyo",
       "seances": [
         {
-          "date": "2026-08-12",
-          "time": "18:15",
-          "version": "VO"
-        },
-        {
           "date": "2026-08-13",
-          "time": "15:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-14",
-          "time": "20:10",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-15",
           "time": "15:55",
           "version": "VO"
         },
@@ -315,11 +265,6 @@
       "detail_url": "https://www.cinefil.com/film/girl-2025",
       "seances": [
         {
-          "date": "2026-08-12",
-          "time": "15:55",
-          "version": "VO"
-        },
-        {
           "date": "2026-08-13",
           "time": "20:45",
           "version": "VO"
@@ -327,16 +272,6 @@
         {
           "date": "2026-08-14",
           "time": "17:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-15",
-          "time": "20:00",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-16",
-          "time": "15:55",
           "version": "VO"
         },
         {
@@ -409,16 +344,6 @@
       "poster_url": "posters/1381389.webp",
       "detail_url": "https://www.cinefil.com/film/l-odyssee-2026",
       "seances": [
-        {
-          "date": "2026-08-12",
-          "time": "15:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-12",
-          "time": "20:30",
-          "version": "VO"
-        },
         {
           "date": "2026-08-13",
           "time": "15:45",
@@ -524,18 +449,8 @@
       "detail_url": "https://www.cinefil.com/film/le-triangle-d-or-2026",
       "seances": [
         {
-          "date": "2026-08-12",
-          "time": "21:00",
-          "version": "VO"
-        },
-        {
           "date": "2026-08-13",
           "time": "19:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-14",
-          "time": "16:00",
           "version": "VO"
         },
         {
@@ -588,28 +503,13 @@
       "detail_url": "https://www.cinefil.com/film/les-matins-merveilleux",
       "seances": [
         {
-          "date": "2026-08-12",
-          "time": "19:15",
-          "version": "VF"
-        },
-        {
           "date": "2026-08-14",
           "time": "18:30",
           "version": "VF"
         },
         {
-          "date": "2026-08-14",
-          "time": "22:20",
-          "version": "VF"
-        },
-        {
           "date": "2026-08-15",
           "time": "20:10",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-15",
-          "time": "22:20",
           "version": "VF"
         },
         {
@@ -670,11 +570,6 @@
       "detail_url": "https://www.cinefil.com/film/rita-et-crocodile",
       "seances": [
         {
-          "date": "2026-08-12",
-          "time": "16:00",
-          "version": "VF"
-        },
-        {
           "date": "2026-08-14",
           "time": "16:00",
           "version": "VF"
@@ -708,16 +603,6 @@
       "poster_url": "posters/1425563.webp",
       "detail_url": "https://www.cinefil.com/film/soudain",
       "seances": [
-        {
-          "date": "2026-08-12",
-          "time": "16:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-12",
-          "time": "20:05",
-          "version": "VO"
-        },
         {
           "date": "2026-08-13",
           "time": "15:55",
@@ -798,11 +683,6 @@
       "detail_url": "https://www.cinefil.com/film/spring-breakers",
       "seances": [
         {
-          "date": "2026-08-12",
-          "time": "18:10",
-          "version": "VO"
-        },
-        {
           "date": "2026-08-15",
           "time": "22:10",
           "version": "VO"
@@ -875,16 +755,6 @@
       "poster_url": "posters/1431073.webp",
       "detail_url": "https://www.cinefil.com/film/une-affaire-turque",
       "seances": [
-        {
-          "date": "2026-08-12",
-          "time": "16:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-12",
-          "time": "20:35",
-          "version": "VF"
-        },
         {
           "date": "2026-08-13",
           "time": "17:20",
