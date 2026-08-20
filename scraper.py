@@ -163,6 +163,22 @@ def find_film_blocks(soup: BeautifulSoup) -> list[Tag]:
     return soup.select('li[itemtype*="ScreeningEvent"]')
 
 
+def extract_global_day_mapping(soup: BeautifulSoup) -> dict[str, str]:
+    """
+    Depuis août 2026, la barre de sélection de jour est mutualisée une seule
+    fois pour toute la page (<nav class="jours-bar">) au lieu d'être dupliquée
+    dans le bloc .horaires de chaque film. On extrait donc ce mapping
+    jour → date ISO une seule fois ici, pour le réutiliser sur tous les films.
+    """
+    day_to_date: dict[str, str] = {}
+    for btn in soup.select(".jours-bar .dayselector[data-date][data-day]"):
+        day = (btn.get("data-day") or "").strip()
+        d = (btn.get("data-date") or "").strip()
+        if day and d and ISO_DATE_RE.match(d):
+            day_to_date[day] = d
+    return day_to_date
+
+
 def extract_persons(container: Tag) -> list[str]:
     """
     Extrait les personnes taggées <span itemprop="director" itemscope>
@@ -186,39 +202,36 @@ def extract_persons(container: Tag) -> list[str]:
     return result
 
 
-def parse_seances(li: Tag) -> list[Seance]:
+def parse_seances(li: Tag, day_to_date: dict[str, str]) -> list[Seance]:
     """
     Extrait les séances d'un <li ScreeningEvent>.
 
-    Structure cinefil :
-    - Boutons `.dayselector[data-date][data-day="Samedi"]` : 7 dates ISO.
-    - Pour chaque jour, un tabpanel `.tab-pane.lesseances.Samedi` contient les séances.
-    - Chaque séance : <button> avec <span class="seance-time">16:05</span>
-      et <span class="seance-langue">VF</span>.
-    - Bouton "Aucune séance" n'a pas de `.seance-time`, il est ignoré naturellement.
+    Structure cinefil (depuis août 2026) :
+    - La barre de sélection de jour (`.jours-bar .dayselector[data-date][data-day]`)
+      est désormais MUTUALISÉE une seule fois pour toute la page, plus dupliquée
+      par film — d'où le paramètre `day_to_date` calculé une fois dans main().
+    - Pour chaque jour, un tabpanel `.tab-pane.lesseances.Samedi` (toujours
+      dans le bloc .horaires du film) contient les séances de ce jour.
+    - Chaque séance : un élément (tag variable selon les versions de cinefil)
+      avec <span class="seance-time">16:05</span> et
+      <span class="seance-langue">VF</span>.
+    - Panneau "Aucune séance" n'a pas de `.seance-time`, il est ignoré naturellement.
     """
     seances: list[Seance] = []
     horaires = li.select_one(".horaires")
     if not horaires:
         return []
 
-    # Map jour (Samedi, Dimanche, ...) → date ISO (2026-07-04, ...)
-    day_to_date: dict[str, str] = {}
-    for btn in horaires.select(".dayselector[data-date][data-day]"):
-        day = (btn.get("data-day") or "").strip()
-        d = (btn.get("data-date") or "").strip()
-        if day and d and ISO_DATE_RE.match(d):
-            day_to_date[day] = d
-
     for day, iso_date in day_to_date.items():
         # Le tabpanel des séances porte les classes .tab-pane.lesseances.[Jour]
         panel = horaires.select_one(f".lesseances.{day}")
         if not panel:
             continue
-        for btn in panel.select("button"):
-            time_el = btn.select_one(".seance-time")
-            if not time_el:
-                continue  # bouton "Aucune séance" n'a pas de .seance-time
+        # On cible directement .seance-time plutôt que le tag wrapper
+        # (button vs li vs autre) : cinefil a déjà changé ce tag une fois
+        # (button → li) sans toucher aux classes internes, donc on reste
+        # insensible à ce type de changement en ne dépendant que d'elles.
+        for time_el in panel.select(".seance-time"):
             m = TIME_RE.search(clean_text(time_el))
             if not m:
                 continue
@@ -226,7 +239,10 @@ def parse_seances(li: Tag) -> list[Seance]:
             if not (0 <= h <= 23 and 0 <= mm <= 59):
                 continue
 
-            v_el = btn.select_one(".seance-langue")
+            # .seance-langue est un sibling de .seance-time, à l'intérieur
+            # du même élément wrapper (peu importe son tag)
+            wrapper = time_el.parent
+            v_el = wrapper.select_one(".seance-langue") if wrapper else None
             version = clean_text(v_el) if v_el else ""
             if version in ("VOSTFR", "VOST"):
                 version = "VO"
@@ -240,7 +256,7 @@ def parse_seances(li: Tag) -> list[Seance]:
     return sorted(seances, key=lambda s: (s.date, s.time))
 
 
-def parse_film(li: Tag) -> Optional[Film]:
+def parse_film(li: Tag, day_to_date: dict[str, str]) -> Optional[Film]:
     # Titre
     title_el = li.select_one('h3[itemprop="name"] a, h3[itemprop="name"]')
     if not title_el:
@@ -297,7 +313,7 @@ def parse_film(li: Tag) -> Optional[Film]:
         film.synopsis = clean_text(syn_el)
 
     # Séances
-    film.seances = parse_seances(li)
+    film.seances = parse_seances(li, day_to_date)
 
     return film
 
@@ -329,10 +345,13 @@ def main() -> int:
     blocks = find_film_blocks(soup)
     print(f"→ {len(blocks)} bloc(s) film détecté(s)", file=sys.stderr)
 
+    day_to_date = extract_global_day_mapping(soup)
+    print(f"→ {len(day_to_date)} jour(s) mappé(s) : {day_to_date}", file=sys.stderr)
+
     films: list[Film] = []
     for b in blocks:
         try:
-            f = parse_film(b)
+            f = parse_film(b, day_to_date)
             if f and f.title:
                 films.append(f)
         except Exception as exc:  # noqa: BLE001

@@ -67,3 +67,191 @@ To https://github.com/yoanngrange/simplekatorza.git
    93cf8f0..b914b50  main -> main
 ✓ Poussé sur GitHub
 === Terminé ===
+
+=== 2026-08-20 22:56:24 (dernier succès: 1970-01-01, dernier mercredi: 2026-08-19) ===
+→ Scraping…
+/Users/yoann/Gits/simplekatorza/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+Traceback (most recent call last):
+  File "/Users/yoann/Gits/simplekatorza/scraper.py", line 401, in <module>
+    sys.exit(main())
+  File "/Users/yoann/Gits/simplekatorza/scraper.py", line 327, in main
+    html = fetch_page(SOURCE_URL)
+  File "/Users/yoann/Gits/simplekatorza/scraper.py", line 119, in fetch_page
+    resp.raise_for_status()
+  File "/Users/yoann/Gits/simplekatorza/.venv/lib/python3.9/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+
+=== 2026-08-20 22:59:19 (dernier succès: 1970-01-01, dernier mercredi: 2026-08-19) ===
+→ Scraping…
+/Users/yoann/Gits/simplekatorza/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+Traceback (most recent call last):
+  File "/Users/yoann/Gits/simplekatorza/scraper.py", line 401, in <module>
+    sys.exit(main())
+  File "/Users/yoann/Gits/simplekatorza/scraper.py", line 327, in main
+    html = fetch_page(SOURCE_URL)
+  File "/Users/yoann/Gits/simplekatorza/scraper.py", line 119, in fetch_page
+    resp.raise_for_status()
+  File "/Users/yoann/Gits/simplekatorza/.venv/lib/python3.9/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+
+=== 2026-08-20 23:00:00 (dernier succès: 1970-01-01, dernier mercredi: 2026-08-19) ===
+→ Scraping…
+/Users/yoann/Gits/simplekatorza/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+Traceback (most recent call last):
+  File "/Users/yoann/Gits/simplekatorza/scraper.py", line 401, in <module>
+    sys.exit(main())
+  File "/Users/yoann/Gits/simplekatorza/scraper.py", line 327, in main
+    html = fetch_page(SOURCE_URL)
+  File "/Users/yoann/Gits/simplekatorza/scraper.py", line 119, in fetch_page
+    resp.raise_for_status()
+  File "/Users/yoann/Gits/simplekatorza/.venv/lib/python3.9/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+
+=== 2026-08-20 23:02:22 (dernier succès: 1970-01-01, dernier mercredi: 2026-08-19) ===
+→ Scraping…
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+→ 18 bloc(s) film détecté(s)
+  ↓ 1436988.webp (19 KB)
+  ↓ 1403157.webp (12 KB)
+  ↓ 1425565.webp (31 KB)
+  ↓ 381261.webp (19 KB)
+  ↓ 1326617.webp (28 KB)
+  ↓ 1419542.webp (32 KB)
+  + synopsis récupéré depuis la fiche : Fjord
+  + synopsis récupéré depuis la fiche : De la Comédie-Française
+  + synopsis récupéré depuis la fiche : L'Odyssée
+  + synopsis récupéré depuis la fiche : Soudain
+  + synopsis récupéré depuis la fiche : Paradise
+  + synopsis récupéré depuis la fiche : La Fille Condor
+  + synopsis récupéré depuis la fiche : The Last Viking
+  + synopsis récupéré depuis la fiche : La Providence et la Guitare
+  + synopsis récupéré depuis la fiche : Une affaire turque
+  + synopsis récupéré depuis la fiche : Le Triangle d'or
+  + synopsis récupéré depuis la fiche : Jim Queen
+  + synopsis récupéré depuis la fiche : Les vacances de Monsieur Hulot
+  + synopsis récupéré depuis la fiche : Chicas tristes
+  + synopsis récupéré depuis la fiche : Nouveaux copains à Puffin Rock
+  + synopsis récupéré depuis la fiche : Ava
+✓ 18 film(s), 0 séance(s), 18/18 affiche(s) → /Users/yoann/Gits/simplekatorza/programme.json
+  · Ava (2017, 105min, Drame) — 0 séance(s)
+  · Chicas tristes (2026, 90min, Drame) — 0 séance(s)
+  · De la Comédie-Française (2026, 75min, Comédie) — 0 séance(s)
+  · … (15 autres)
+→ 18 film(s) dans programme.json
+→ Changements détectés, commit + push
+[main 227c70f] MAJ programme 2026-08-20
+ 7 files changed, 144 insertions(+), 632 deletions(-)
+ create mode 100644 posters/1326617.webp
+ create mode 100644 posters/1403157.webp
+ create mode 100644 posters/1419542.webp
+ create mode 100644 posters/1425565.webp
+ create mode 100644 posters/1436988.webp
+ create mode 100644 posters/381261.webp
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/yoanngrange/simplekatorza.git/'
+
+=== 2026-08-20 23:03:36 (dernier succès: 1970-01-01, dernier mercredi: 2026-08-19) ===
+→ Scraping…
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+→ 18 bloc(s) film détecté(s)
+  + synopsis récupéré depuis la fiche : Fjord
+  + synopsis récupéré depuis la fiche : De la Comédie-Française
+  + synopsis récupéré depuis la fiche : L'Odyssée
+  + synopsis récupéré depuis la fiche : Soudain
+  + synopsis récupéré depuis la fiche : Paradise
+  + synopsis récupéré depuis la fiche : La Fille Condor
+  + synopsis récupéré depuis la fiche : The Last Viking
+  + synopsis récupéré depuis la fiche : La Providence et la Guitare
+  + synopsis récupéré depuis la fiche : Une affaire turque
+  + synopsis récupéré depuis la fiche : Le Triangle d'or
+  + synopsis récupéré depuis la fiche : Jim Queen
+  + synopsis récupéré depuis la fiche : Les vacances de Monsieur Hulot
+  + synopsis récupéré depuis la fiche : Chicas tristes
+  + synopsis récupéré depuis la fiche : Nouveaux copains à Puffin Rock
+  + synopsis récupéré depuis la fiche : Ava
+✓ 18 film(s), 0 séance(s), 18/18 affiche(s) → /Users/yoann/Gits/simplekatorza/programme.json
+  · Ava (2017, 105min, Drame) — 0 séance(s)
+  · Chicas tristes (2026, 90min, Drame) — 0 séance(s)
+  · De la Comédie-Française (2026, 75min, Comédie) — 0 séance(s)
+  · … (15 autres)
+→ 18 film(s) dans programme.json
+→ Changements détectés, commit + push
+[main 41cfa36] MAJ programme 2026-08-20
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/yoanngrange/simplekatorza.git/'
+
+=== 2026-08-20 23:03:58 (dernier succès: 1970-01-01, dernier mercredi: 2026-08-19) ===
+→ Scraping…
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+→ 18 bloc(s) film détecté(s)
+  + synopsis récupéré depuis la fiche : Fjord
+  + synopsis récupéré depuis la fiche : De la Comédie-Française
+  + synopsis récupéré depuis la fiche : L'Odyssée
+  + synopsis récupéré depuis la fiche : Soudain
+  + synopsis récupéré depuis la fiche : Paradise
+  + synopsis récupéré depuis la fiche : La Fille Condor
+  + synopsis récupéré depuis la fiche : The Last Viking
+  + synopsis récupéré depuis la fiche : La Providence et la Guitare
+  + synopsis récupéré depuis la fiche : Une affaire turque
+  + synopsis récupéré depuis la fiche : Le Triangle d'or
+  + synopsis récupéré depuis la fiche : Jim Queen
+  + synopsis récupéré depuis la fiche : Les vacances de Monsieur Hulot
+  + synopsis récupéré depuis la fiche : Chicas tristes
+  + synopsis récupéré depuis la fiche : Nouveaux copains à Puffin Rock
+  + synopsis récupéré depuis la fiche : Ava
+✓ 18 film(s), 0 séance(s), 18/18 affiche(s) → /Users/yoann/Gits/simplekatorza/programme.json
+  · Ava (2017, 105min, Drame) — 0 séance(s)
+  · Chicas tristes (2026, 90min, Drame) — 0 séance(s)
+  · De la Comédie-Française (2026, 75min, Comédie) — 0 séance(s)
+  · … (15 autres)
+→ 18 film(s) dans programme.json
+→ Changements détectés, commit + push
+[main 7d4fc4f] MAJ programme 2026-08-20
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/yoanngrange/simplekatorza.git/'
+
+=== 2026-08-20 23:18:32 (dernier succès: 1970-01-01, dernier mercredi: 2026-08-19) ===
+→ Scraping…
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+→ 18 bloc(s) film détecté(s)
+→ 7 jour(s) mappé(s) : {'Jeudi': '2026-08-20', 'Vendredi': '2026-08-21', 'Samedi': '2026-08-22', 'Dimanche': '2026-08-23', 'Lundi': '2026-08-24', 'Mardi': '2026-08-25', 'Mercredi': '2026-08-26'}
+  + synopsis récupéré depuis la fiche : Fjord
+  + synopsis récupéré depuis la fiche : De la Comédie-Française
+  + synopsis récupéré depuis la fiche : L'Odyssée
+  + synopsis récupéré depuis la fiche : Soudain
+  + synopsis récupéré depuis la fiche : Paradise
+  + synopsis récupéré depuis la fiche : La Fille Condor
+  + synopsis récupéré depuis la fiche : The Last Viking
+  + synopsis récupéré depuis la fiche : La Providence et la Guitare
+  + synopsis récupéré depuis la fiche : Une affaire turque
+  + synopsis récupéré depuis la fiche : Le Triangle d'or
+  + synopsis récupéré depuis la fiche : Jim Queen
+  + synopsis récupéré depuis la fiche : Les vacances de Monsieur Hulot
+  + synopsis récupéré depuis la fiche : Chicas tristes
+  + synopsis récupéré depuis la fiche : Nouveaux copains à Puffin Rock
+  + synopsis récupéré depuis la fiche : Ava
+✓ 18 film(s), 132 séance(s), 18/18 affiche(s) → /Users/yoann/Gits/simplekatorza/programme.json
+  · Ava (2017, 105min, Drame) — 2 séance(s)
+  · Chicas tristes (2026, 90min, Drame) — 4 séance(s)
+  · De la Comédie-Française (2026, 75min, Comédie) — 13 séance(s)
+  · … (15 autres)
+→ 18 film(s) dans programme.json
+→ Changements détectés, commit + push
+[main 4cc21d9] MAJ programme 2026-08-20
+ 1 file changed, 697 insertions(+), 19 deletions(-)
+To github.com:yoanngrange/simplekatorza.git
+   fb63ff4..4cc21d9  main -> main
+✓ Poussé sur GitHub
+✓ Marqueur mis à jour (2026-08-20)
+=== Terminé ===
