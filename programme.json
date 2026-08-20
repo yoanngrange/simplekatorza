@@ -6,7 +6,7 @@
     "billetterie_url": "https://www.katorza.fr/katorza/alaffiche/katorza"
   },
   "source": "https://www.cinefil.com/cinema/le-katorza-nantes/programmation",
-  "scraped_at": "2026-08-20T23:04:01+02:00",
+  "scraped_at": "2026-08-20T23:18:34+02:00",
   "films": [
     {
       "title": "Ava",
@@ -24,7 +24,18 @@
       "synopsis": "Ava, 13 ans, est en vacances au bord de l’océan quand elle apprend qu’elle va perdre la vue plusvite que prévu. Sa mère décide de faire comme si de rien n’était pour passer le plus bel été de leurvie. Ava affronte le problème à sa manière. Elle vole un grand chien noir qui appartient à un jeunehomme en fuite...",
       "poster_url": "posters/1055148.webp",
       "detail_url": "https://www.cinefil.com/film/ava",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-20",
+          "time": "18:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "18:05",
+          "version": "VF"
+        }
+      ]
     },
     {
       "title": "Chicas tristes",
@@ -42,7 +53,28 @@
       "synopsis": "La Maestra et Paula sont les meilleures nageuses de leur équipe et les meilleures amies du monde, jusqu'à ce qu'un incident lors d'une fête change tout. La Maestra, intense et indomptable, réalise que quelque chose a changé chez sa meilleure amie, ce qui la rend triste. Quand la vérité éclate au grand jour, les deux se retrouvent face à une décision impossible : Paula veut garder le silence, tandis que La Maestra veut se venger. Leur amitié, autrefois inébranlable, sera mise à l'épreuve comme jamais auparavant.",
       "poster_url": "posters/1436323.webp",
       "detail_url": "https://www.cinefil.com/film/chicas-tristes",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-20",
+          "time": "16:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "18:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "18:20",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "14:10",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "De la Comédie-Française",
@@ -61,7 +93,73 @@
       "synopsis": "Dans 3 heures, Nina dévoile sa première mise en scène à la Comédie-Française. Mais dans l’agitation des dernières répétitions, rien ne se passe comme prévu : retards, coups de stress, problèmes techniques et problèmes d’égo secouent la troupe. Pourtant, Nina n’a pas d’autre choix que d’aller jusqu’au bout car s’il y a bien une règle d’or à la Comédie Française, c’est qu’on n’annule pas. Commence alors une course contre la montre pour sauver la représentation.",
       "poster_url": "posters/1413662.webp",
       "detail_url": "https://www.cinefil.com/film/de-la-comedie-francaise",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-20",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-20",
+          "time": "18:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "20:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "19:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "22:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "20:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "19:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "20:35",
+          "version": "VF"
+        }
+      ]
     },
     {
       "title": "Fjord",
@@ -79,7 +177,98 @@
       "synopsis": "Les Gheorghiu, un couple roumano-norvégien très pieux, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins, les Halberg. Les enfants des deux familles deviennent très proches, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia, l’aînée des enfants Gheorghiu, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.",
       "poster_url": "posters/1409876.webp",
       "detail_url": "https://www.cinefil.com/film/fjord",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-20",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-20",
+          "time": "16:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-20",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "16:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "16:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "16:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "16:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "16:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "20:15",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "Jim Queen",
@@ -98,7 +287,28 @@
       "synopsis": "Un long métrage d'animation de dur à queer Jim, icône sexy de la scène gay parisienne, voit sa vie basculer lorsqu’il contracte l’Hétérose, un étrange virus qui transforme les hommes gays en hétérosexuels ! Il perd alors sa couronne et voit tout le monde lui tourner le dos à l’exception de son dernier follower, Lucien, un jeune Twink dans le placard. Ensemble, ils vont devoir parcourir les quatre coins de la capitale à la recherche d’un mystérieux remède capable de guérir Jim et de sauver la communauté LGBTQIA+ d’extinction.",
       "poster_url": "posters/1381866.webp",
       "detail_url": "https://www.cinefil.com/film/jim-queen",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-21",
+          "time": "22:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "22:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "16:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "18:30",
+          "version": "VF"
+        }
+      ]
     },
     {
       "title": "L'Odyssée",
@@ -117,7 +327,68 @@
       "synopsis": "Défiez les dieux. Ulysse, le légendaire roi grec d'Ithaque, entreprend un long et périlleux voyage de retour après la guerre de Troie, au cours duquel il rencontre des créatures mythologiques comme le Cyclope Polyphème, les Sirènes et la déesse-sorcière Circé.",
       "poster_url": "posters/1381389.webp",
       "detail_url": "https://www.cinefil.com/film/l-odyssee-2026",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-20",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-20",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "20:30",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "La Fille Condor",
@@ -135,7 +406,68 @@
       "synopsis": "Clara est une doula quechua qui chante pour apaiser la douleur des femmes enceintes. Sa mère Ana, sage-femme chevronnée, considère ce don comme un miracle. Influencée par une amie, et après une dispute avec sa mère, la jeune femme décide de partir pour la grande ville. Depuis la communauté subit la mort mystérieuse d'animaux et des récoltes, les villageois attribuent cette punition au départ de Clara. Sa mère décide de la retrouver.",
       "poster_url": "posters/1403157.webp",
       "detail_url": "https://www.cinefil.com/film/la-fille-condor",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-20",
+          "time": "16:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-20",
+          "time": "20:40",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "14:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "18:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "16:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "14:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "14:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "18:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "14:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "18:15",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "La Providence et la Guitare",
@@ -153,7 +485,53 @@
       "synopsis": "Dans un passé lointain, Léon et Elvira Berthelini, artistes ambulants, gagnent leur vie en allant de ville en ville. À Covarronca, harcelés par le commissaire de police, ils sont contraints de passer la nuit à la belle étoile. C'est là qu'ils rencontrent Stubbs, un jeune étudiant de Cambridge, avec qui ils trouvent refuge chez un peintre en désaccord avec sa femme. En échange de cette hospitalité, ils rappellent à leurs hôtes que l'amour de l'art résout l'art d'aimer. Pendant ce temps, une malédiction singulière les entraîne dans des voyages absurdes jusqu'au vingt-et-unième siècle, où l'avenir de la sécurité sociale et d'un groupe de rock sont en jeu.",
       "poster_url": "posters/1425565.webp",
       "detail_url": "https://www.cinefil.com/film/la-providence-et-la-guitare",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-20",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-20",
+          "time": "20:35",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "13:45",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "Le Triangle d'or",
@@ -171,7 +549,43 @@
       "synopsis": "Pour gagner sa vie, Laura accepte un emploi au service de Souria. Installée dans un hôtel particulier du triangle d’or par son amant, un riche prince saoudien, Souria vit dans l’attente de ses visites. Tandis que Laura doit s’adapter à cet univers de luxe démesuré et de surveillance constante, un lien fragile se tisse entre les deux femmes. Mais Laura pressent qu’un danger pèse sur Souria et que cette cage dorée pourrait bien se refermer sur elles deux.",
       "poster_url": "posters/1425560.webp",
       "detail_url": "https://www.cinefil.com/film/le-triangle-d-or-2026",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-20",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "16:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "20:35",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "16:10",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "Les vacances de Monsieur Hulot",
@@ -189,7 +603,28 @@
       "synopsis": "Nom d'une pipe, quel été ! Hôtel de la plage, côte Atlantique, saison estivale, les citadins posent leurs valises. Au loin, le son dérangeant d’une voiture pétaradante. Au volant, un vacancier pas comme les autres. C’est Monsieur Hulot qui pousse la porte de l’hôtel et déclenche un énorme courant d’air. Joyeux désordres en station balnéaire. Qui pratique un tennis chorégraphié, qui casse sa barque à la pêche. Pensionnaire décalé, semeur de troubles involontaires, il marque mal dans cette petite société de vacanciers très sérieux.",
       "poster_url": "posters/381261.webp",
       "detail_url": "https://www.cinefil.com/film/les-vacances-de-monsieur-hulot",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-20",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "14:05",
+          "version": "VF"
+        }
+      ]
     },
     {
       "title": "Nouveaux copains à Puffin Rock",
@@ -207,7 +642,18 @@
       "synopsis": "Suivez la disparition de la dernière Petite Œuf de la saison dans des circonstances étranges, qui pousse Oona et ses amis à se lancer dans une course contre la montre pour tenter de la sauver avant qu'une grosse tempête ne s'abatte sur Puffin Rock et ne mette l'île en péril.",
       "poster_url": "posters/1326617.webp",
       "detail_url": "https://www.cinefil.com/film/nouveaux-copains-a-puffin-rock",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-22",
+          "time": "16:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "16:10",
+          "version": "VF"
+        }
+      ]
     },
     {
       "title": "Paradise",
@@ -225,7 +671,68 @@
       "synopsis": "Une vie peut en changer une autre. Au Ghana, Kojo, adolescent marqué par la disparition de son père en mer, se rapproche des gangs de rue sans parvenir à combler le vide qu’il ressent. Pendant ce temps, au Québec, Tony, en quête de repères, s’interroge sur l’homme que fréquente sa mère, et se demande s’il pourrait être le père qu'il n'a jamais connu… Entre la lente déchéance de l'un et la recherche d'identité de l'autre, un lien insoupçonné se tisse, unissant les destins croisés de ces deux jeunes hommes que tout semble séparer.",
       "poster_url": "posters/1436988.webp",
       "detail_url": "https://www.cinefil.com/film/paradise-2026",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-20",
+          "time": "14:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-20",
+          "time": "18:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "16:20",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "20:35",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "14:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "16:20",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "20:35",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "16:20",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "16:20",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "20:35",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "Patouille et Momo, les contes de la forêt",
@@ -237,7 +744,13 @@
       "synopsis": "Programme de courts-métrages français.",
       "poster_url": "posters/1419542.webp",
       "detail_url": "https://www.cinefil.com/film/patouille-et-momo-les-contes-de-la-foret",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-26",
+          "time": "14:30",
+          "version": "VF"
+        }
+      ]
     },
     {
       "title": "Psycho beach party",
@@ -255,7 +768,13 @@
       "synopsis": "Eté 1962. Le soleil brille et une jeunesse insouciante s'éclate à Malibu Beach. L'ambiance festive est à peine gâchée par le meurtre d'une spectatrice de drive-in, au terme d'un flirt poussé. Pourtant, ce n'est qu'un début. Quelques meurtres plus loin, les soupçons s'orientent vers Chicklet, une surfeuse un peu schizo sur les bords...",
       "poster_url": "posters/216970.webp",
       "detail_url": "https://www.cinefil.com/film/psycho-beach-party-2001",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-25",
+          "time": "21:00",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "Soudain",
@@ -273,7 +792,68 @@
       "synopsis": "Directrice d'un établissement pour personnes âgées, Marie-Lou tente d'y instaurer une philosophie de soins innovante basée sur l'écoute et la dignité des résidents, malgré la réticence d’une partie de ses équipes. Sa rencontre avec Mari, une metteuse en scène japonaise qui se bat contre un cancer, va bouleverser sa trajectoire. En nouant une amitié profonde, les deux femmes engagent ensemble un combat pour “rendre possible l’impossible”.",
       "poster_url": "posters/1425563.webp",
       "detail_url": "https://www.cinefil.com/film/soudain",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-20",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-20",
+          "time": "19:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "19:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "19:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "19:55",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "The Endless Summer",
@@ -291,7 +871,18 @@
       "synopsis": "Robert August et Mike Hynson, deux jeunes surfeurs californiens, vont entreprendre un voyage bien particulier. Munis de leur planche de surf, ils vont se rendre en Afrique, en Australie, en Nouvelle-Zélande, à Tahiti puis Hawaï, à la recherche de la vague parfaite…",
       "poster_url": "posters/1123040.webp",
       "detail_url": "https://www.cinefil.com/film/the-endless-summer",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-21",
+          "time": "18:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "18:15",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "The Last Viking",
@@ -309,7 +900,53 @@
       "synopsis": "Afin de récupérer son butin, un braqueur de banque doit aider son frère à surmonter ses traumatismes d'enfance.",
       "poster_url": "posters/1418306.webp",
       "detail_url": "https://www.cinefil.com/film/the-last-viking",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-20",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "22:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "17:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "18:10",
+          "version": "VO"
+        }
+      ]
     },
     {
       "title": "Une affaire turque",
@@ -327,7 +964,48 @@
       "synopsis": "Mathieu s'est éloigné de sa communauté turc à Mulhouse pour grimper l'échelle sociale. Avocat déterminé, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Strasbourg. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.",
       "poster_url": "posters/1431073.webp",
       "detail_url": "https://www.cinefil.com/film/une-affaire-turque",
-      "seances": []
+      "seances": [
+        {
+          "date": "2026-08-20",
+          "time": "18:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "16:20",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "18:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "18:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "18:00",
+          "version": "VF"
+        }
+      ]
     }
   ]
 }
