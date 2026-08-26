@@ -6,37 +6,8 @@
     "billetterie_url": "https://www.katorza.fr/katorza/alaffiche/katorza"
   },
   "source": "https://www.cinefil.com/cinema/le-katorza-nantes/programmation",
-  "scraped_at": "2026-08-20T23:18:34+02:00",
+  "scraped_at": "2026-08-26T07:00:05+02:00",
   "films": [
-    {
-      "title": "Ava",
-      "year": 2017,
-      "duration_min": 105,
-      "genre": "Drame",
-      "directors": [
-        "Léa Mysius"
-      ],
-      "cast": [
-        "Noée Abita",
-        "Laure Calamy",
-        "Juan Cano"
-      ],
-      "synopsis": "Ava, 13 ans, est en vacances au bord de l’océan quand elle apprend qu’elle va perdre la vue plusvite que prévu. Sa mère décide de faire comme si de rien n’était pour passer le plus bel été de leurvie. Ava affronte le problème à sa manière. Elle vole un grand chien noir qui appartient à un jeunehomme en fuite...",
-      "poster_url": "posters/1055148.webp",
-      "detail_url": "https://www.cinefil.com/film/ava",
-      "seances": [
-        {
-          "date": "2026-08-20",
-          "time": "18:35",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-22",
-          "time": "18:05",
-          "version": "VF"
-        }
-      ]
-    },
     {
       "title": "Chicas tristes",
       "year": 2026,
@@ -55,23 +26,28 @@
       "detail_url": "https://www.cinefil.com/film/chicas-tristes",
       "seances": [
         {
-          "date": "2026-08-20",
-          "time": "16:15",
+          "date": "2026-08-26",
+          "time": "18:30",
           "version": "VO"
         },
         {
-          "date": "2026-08-22",
-          "time": "18:45",
+          "date": "2026-08-28",
+          "time": "18:10",
           "version": "VO"
         },
         {
-          "date": "2026-08-23",
-          "time": "18:20",
+          "date": "2026-08-29",
+          "time": "22:20",
           "version": "VO"
         },
         {
-          "date": "2026-08-24",
-          "time": "14:10",
+          "date": "2026-08-30",
+          "time": "18:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "18:30",
           "version": "VO"
         }
       ]
@@ -95,69 +71,295 @@
       "detail_url": "https://www.cinefil.com/film/de-la-comedie-francaise",
       "seances": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-26",
           "time": "14:15",
           "version": "VF"
         },
         {
-          "date": "2026-08-20",
-          "time": "18:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-21",
-          "time": "16:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-21",
-          "time": "20:10",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-22",
+          "date": "2026-08-27",
           "time": "14:15",
           "version": "VF"
         },
         {
-          "date": "2026-08-22",
-          "time": "19:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-22",
-          "time": "22:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-23",
-          "time": "16:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-23",
-          "time": "20:25",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-24",
-          "time": "14:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-24",
-          "time": "19:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "16:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-25",
+          "date": "2026-08-27",
           "time": "20:35",
           "version": "VF"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "17:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "19:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "19:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "20:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "14:15",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Decorado",
+      "year": 2018,
+      "duration_min": 7,
+      "genre": "Animation",
+      "directors": [],
+      "cast": [],
+      "synopsis": "Une souris prénommée Arnold est perdue en pleine crise de la quarantaine…",
+      "poster_url": null,
+      "detail_url": "https://www.cinefil.com/film/decorado",
+      "seances": [
+        {
+          "date": "2026-08-26",
+          "time": "14:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-26",
+          "time": "18:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "14:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "18:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "22:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "14:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "18:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "14:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "18:25",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Dégel",
+      "year": 2026,
+      "duration_min": 100,
+      "genre": "Drame",
+      "directors": [
+        "Manuela Martelli"
+      ],
+      "cast": [
+        "Maya O’Rourke",
+        "Saskia Rosendahl",
+        "Maia Domagala"
+      ],
+      "synopsis": "Chili, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski, Inès, 9 ans, se lie d’amitié avec Hanna, une jeune sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser de trace, l’enfant cherche à comprendre…",
+      "poster_url": "posters/1441726.webp",
+      "detail_url": "https://www.cinefil.com/film/degel",
+      "seances": [
+        {
+          "date": "2026-08-26",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-26",
+          "time": "20:35",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "17:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "20:35",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "20:35",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Face à la mer",
+      "year": 2026,
+      "duration_min": 111,
+      "genre": "Drame",
+      "directors": [
+        "Helen Walsh"
+      ],
+      "cast": [
+        "Barry Ward",
+        "Lorne MacFadyen",
+        "Liz White"
+      ],
+      "synopsis": "Jack est marié à Maggie depuis plus de la moitié de sa vie. Il travaille comme ramasseur de moules dans les bancs du nord du Pays de Galles avec son jeune frère, Dyfan, et ses trois fils. Jack a toujours pensé que son fils, Tom, rejoindrait l’entreprise familiale à la fin de ses études, mais la réticence de Tom à suivre ses traces provoque des tensions familiales. Celles-ci sont encore exacerbées par l’arrivée d’un matelot itinérant, Daniel, qui avoue ses sentiments à Jack. Dans cette communauté rurale isolée où la vie tourne autour de l’Église et de la pêche, Jack est confronté à un dilemme insurmontable.",
+      "poster_url": "posters/1418314.webp",
+      "detail_url": "https://www.cinefil.com/film/face-a-la-mer-2025",
+      "seances": [
+        {
+          "date": "2026-08-26",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "18:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "22:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "18:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "20:45",
+          "version": "VO"
         }
       ]
     },
@@ -179,134 +381,109 @@
       "detail_url": "https://www.cinefil.com/film/fjord",
       "seances": [
         {
-          "date": "2026-08-20",
-          "time": "13:55",
+          "date": "2026-08-26",
+          "time": "13:45",
           "version": "VO"
         },
         {
-          "date": "2026-08-20",
+          "date": "2026-08-26",
           "time": "16:45",
           "version": "VO"
         },
         {
-          "date": "2026-08-20",
+          "date": "2026-08-26",
           "time": "20:15",
           "version": "VO"
         },
         {
-          "date": "2026-08-21",
-          "time": "13:55",
+          "date": "2026-08-27",
+          "time": "13:45",
           "version": "VO"
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-27",
           "time": "16:45",
           "version": "VO"
         },
         {
-          "date": "2026-08-21",
-          "time": "20:30",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-22",
-          "time": "13:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-22",
-          "time": "16:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-22",
-          "time": "20:30",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-23",
-          "time": "13:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-23",
-          "time": "16:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-23",
+          "date": "2026-08-27",
           "time": "20:15",
           "version": "VO"
         },
         {
-          "date": "2026-08-24",
-          "time": "13:55",
+          "date": "2026-08-28",
+          "time": "13:45",
           "version": "VO"
         },
         {
-          "date": "2026-08-24",
-          "time": "16:45",
+          "date": "2026-08-28",
+          "time": "16:35",
           "version": "VO"
         },
         {
-          "date": "2026-08-24",
-          "time": "20:30",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "13:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "16:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-25",
+          "date": "2026-08-28",
           "time": "20:15",
           "version": "VO"
-        }
-      ]
-    },
-    {
-      "title": "Jim Queen",
-      "year": 2026,
-      "duration_min": 85,
-      "genre": "Animation",
-      "directors": [
-        "Nicolas Athané",
-        "Marco Nguyen"
-      ],
-      "cast": [
-        "Alex Ramirès",
-        "Jéremy Gillet",
-        "Shirley Souagnon"
-      ],
-      "synopsis": "Un long métrage d'animation de dur à queer Jim, icône sexy de la scène gay parisienne, voit sa vie basculer lorsqu’il contracte l’Hétérose, un étrange virus qui transforme les hommes gays en hétérosexuels ! Il perd alors sa couronne et voit tout le monde lui tourner le dos à l’exception de son dernier follower, Lucien, un jeune Twink dans le placard. Ensemble, ils vont devoir parcourir les quatre coins de la capitale à la recherche d’un mystérieux remède capable de guérir Jim et de sauver la communauté LGBTQIA+ d’extinction.",
-      "poster_url": "posters/1381866.webp",
-      "detail_url": "https://www.cinefil.com/film/jim-queen",
-      "seances": [
-        {
-          "date": "2026-08-21",
-          "time": "22:05",
-          "version": "VF"
         },
         {
-          "date": "2026-08-22",
-          "time": "22:05",
-          "version": "VF"
+          "date": "2026-08-29",
+          "time": "13:45",
+          "version": "VO"
         },
         {
-          "date": "2026-08-23",
-          "time": "16:30",
-          "version": "VF"
+          "date": "2026-08-29",
+          "time": "16:45",
+          "version": "VO"
         },
         {
-          "date": "2026-08-24",
-          "time": "18:30",
-          "version": "VF"
+          "date": "2026-08-29",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "16:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "16:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "16:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "20:15",
+          "version": "VO"
         }
       ]
     },
@@ -329,63 +506,53 @@
       "detail_url": "https://www.cinefil.com/film/l-odyssee-2026",
       "seances": [
         {
-          "date": "2026-08-20",
-          "time": "16:05",
+          "date": "2026-08-26",
+          "time": "16:15",
           "version": "VO"
         },
         {
-          "date": "2026-08-20",
-          "time": "20:30",
+          "date": "2026-08-26",
+          "time": "20:20",
           "version": "VO"
         },
         {
-          "date": "2026-08-21",
-          "time": "16:10",
+          "date": "2026-08-27",
+          "time": "20:20",
           "version": "VO"
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-28",
           "time": "20:45",
           "version": "VO"
         },
         {
-          "date": "2026-08-22",
-          "time": "15:55",
+          "date": "2026-08-29",
+          "time": "16:00",
           "version": "VO"
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-29",
           "time": "20:45",
           "version": "VO"
         },
         {
-          "date": "2026-08-23",
-          "time": "16:05",
+          "date": "2026-08-30",
+          "time": "16:00",
           "version": "VO"
         },
         {
-          "date": "2026-08-23",
+          "date": "2026-08-30",
           "time": "20:05",
           "version": "VO"
         },
         {
-          "date": "2026-08-24",
-          "time": "15:55",
+          "date": "2026-08-31",
+          "time": "20:20",
           "version": "VO"
         },
         {
-          "date": "2026-08-24",
-          "time": "20:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "16:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "20:30",
+          "date": "2026-09-01",
+          "time": "20:20",
           "version": "VO"
         }
       ]
@@ -408,63 +575,33 @@
       "detail_url": "https://www.cinefil.com/film/la-fille-condor",
       "seances": [
         {
-          "date": "2026-08-20",
-          "time": "16:15",
+          "date": "2026-08-26",
+          "time": "16:05",
           "version": "VO"
         },
         {
-          "date": "2026-08-20",
-          "time": "20:40",
+          "date": "2026-08-28",
+          "time": "16:05",
           "version": "VO"
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-29",
+          "time": "18:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-31",
           "time": "14:05",
           "version": "VO"
         },
         {
-          "date": "2026-08-21",
-          "time": "18:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-22",
-          "time": "16:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-22",
-          "time": "20:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-23",
-          "time": "14:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-23",
-          "time": "18:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-24",
-          "time": "14:10",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-24",
-          "time": "18:30",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "14:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "18:15",
+          "date": "2026-09-01",
+          "time": "16:05",
           "version": "VO"
         }
       ]
@@ -487,170 +624,187 @@
       "detail_url": "https://www.cinefil.com/film/la-providence-et-la-guitare",
       "seances": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-27",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "18:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-01",
           "time": "16:05",
           "version": "VO"
-        },
-        {
-          "date": "2026-08-20",
-          "time": "20:35",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-21",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-22",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-22",
-          "time": "20:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-23",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-24",
-          "time": "16:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-24",
-          "time": "20:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "13:45",
-          "version": "VO"
         }
       ]
     },
     {
-      "title": "Le Triangle d'or",
+      "title": "Le Secret des mésanges",
+      "year": 2025,
+      "duration_min": 66,
+      "genre": "Animation",
+      "directors": [
+        "Antoine Lanciaux"
+      ],
+      "cast": [],
+      "synopsis": "Lucie, petite fille dégourdie de 10 ans, vient passer quelques jours de vacances avec sa mère, Caroline. Celle-ci est archéologue et participe à des fouilles à la campagne avec Pierrot, un collègue débonnaire. Très vite, Lucie découvre que sa mère a vécu enfant dans cette région et qu’elle cache un secret sur son histoire familiale. Encouragée dans sa quête par un couple de mésanges et d’autres amis à quatre pattes, Lucie entraîne dans ses aventures Yann, un nouveau copain qui, bien malgré lui, va se retrouver au coeur des évènements. Tous les deux vont aller de surprises insolites en découvertes fabuleuses.",
+      "poster_url": "posters/1256816.webp",
+      "detail_url": "https://www.cinefil.com/film/le-secret-des-mesanges",
+      "seances": [
+        {
+          "date": "2026-08-27",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "14:05",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "L’inconnue",
       "year": 2026,
-      "duration_min": 100,
-      "genre": "Drame",
+      "duration_min": 139,
+      "genre": "Fantastique",
       "directors": [
-        "Hélène Rosselet-Ruiz"
+        "Arthur Harari"
       ],
       "cast": [
-        "Malou Khebizi",
-        "Soundos Mosbah",
-        "Ziad Bakri"
+        "Léa Seydoux",
+        "Niels Schneider",
+        "Valérie Dreville"
       ],
-      "synopsis": "Pour gagner sa vie, Laura accepte un emploi au service de Souria. Installée dans un hôtel particulier du triangle d’or par son amant, un riche prince saoudien, Souria vit dans l’attente de ses visites. Tandis que Laura doit s’adapter à cet univers de luxe démesuré et de surveillance constante, un lien fragile se tisse entre les deux femmes. Mais Laura pressent qu’un danger pèse sur Souria et que cette cage dorée pourrait bien se refermer sur elles deux.",
-      "poster_url": "posters/1425560.webp",
-      "detail_url": "https://www.cinefil.com/film/le-triangle-d-or-2026",
+      "synopsis": "À bientôt 40 ans, David Zimmerman est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule, ne peut en détacher le regard, la suit… Au coeur de la nuit, sa vie bascule. David se réveille… dans le corps de l'inconnue.",
+      "poster_url": "posters/1432337.webp",
+      "detail_url": "https://www.cinefil.com/film/l-inconnue-2026",
       "seances": [
         {
-          "date": "2026-08-20",
-          "time": "20:45",
-          "version": "VO"
+          "date": "2026-08-26",
+          "time": "14:00",
+          "version": "VF"
         },
         {
-          "date": "2026-08-21",
-          "time": "16:15",
-          "version": "VO"
+          "date": "2026-08-26",
+          "time": "16:35",
+          "version": "VF"
         },
         {
-          "date": "2026-08-21",
-          "time": "20:15",
-          "version": "VO"
+          "date": "2026-08-26",
+          "time": "20:30",
+          "version": "VF"
         },
         {
-          "date": "2026-08-22",
-          "time": "20:15",
-          "version": "VO"
+          "date": "2026-08-27",
+          "time": "14:00",
+          "version": "VF"
         },
         {
-          "date": "2026-08-23",
+          "date": "2026-08-27",
+          "time": "16:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "16:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-28",
           "time": "20:35",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-24",
-          "time": "20:45",
           "version": "VF"
         },
         {
-          "date": "2026-08-25",
-          "time": "16:10",
-          "version": "VO"
-        }
-      ]
-    },
-    {
-      "title": "Les vacances de Monsieur Hulot",
-      "year": 1953,
-      "duration_min": 84,
-      "genre": "Comédie",
-      "directors": [
-        "Jacques Tati"
-      ],
-      "cast": [
-        "Jacques Tati",
-        "Nathalie Pascaud",
-        "Louis Pérault"
-      ],
-      "synopsis": "Nom d'une pipe, quel été ! Hôtel de la plage, côte Atlantique, saison estivale, les citadins posent leurs valises. Au loin, le son dérangeant d’une voiture pétaradante. Au volant, un vacancier pas comme les autres. C’est Monsieur Hulot qui pousse la porte de l’hôtel et déclenche un énorme courant d’air. Joyeux désordres en station balnéaire. Qui pratique un tennis chorégraphié, qui casse sa barque à la pêche. Pensionnaire décalé, semeur de troubles involontaires, il marque mal dans cette petite société de vacanciers très sérieux.",
-      "poster_url": "posters/381261.webp",
-      "detail_url": "https://www.cinefil.com/film/les-vacances-de-monsieur-hulot",
-      "seances": [
-        {
-          "date": "2026-08-20",
-          "time": "14:05",
+          "date": "2026-08-29",
+          "time": "14:00",
           "version": "VF"
         },
         {
-          "date": "2026-08-21",
-          "time": "14:05",
+          "date": "2026-08-29",
+          "time": "16:35",
           "version": "VF"
         },
         {
-          "date": "2026-08-23",
-          "time": "14:05",
+          "date": "2026-08-29",
+          "time": "20:35",
           "version": "VF"
         },
         {
-          "date": "2026-08-25",
-          "time": "14:05",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "Nouveaux copains à Puffin Rock",
-      "year": 2026,
-      "duration_min": 79,
-      "genre": "Aventure",
-      "directors": [
-        "Jeremy Purcell"
-      ],
-      "cast": [
-        "Chris O'dowd",
-        "Amy Huberman",
-        "Eva Whittaker"
-      ],
-      "synopsis": "Suivez la disparition de la dernière Petite Œuf de la saison dans des circonstances étranges, qui pousse Oona et ses amis à se lancer dans une course contre la montre pour tenter de la sauver avant qu'une grosse tempête ne s'abatte sur Puffin Rock et ne mette l'île en péril.",
-      "poster_url": "posters/1326617.webp",
-      "detail_url": "https://www.cinefil.com/film/nouveaux-copains-a-puffin-rock",
-      "seances": [
-        {
-          "date": "2026-08-22",
-          "time": "16:10",
+          "date": "2026-08-30",
+          "time": "14:00",
           "version": "VF"
         },
         {
-          "date": "2026-08-24",
-          "time": "16:10",
+          "date": "2026-08-30",
+          "time": "16:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "16:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "16:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "20:30",
           "version": "VF"
         }
       ]
@@ -673,64 +827,29 @@
       "detail_url": "https://www.cinefil.com/film/paradise-2026",
       "seances": [
         {
-          "date": "2026-08-20",
-          "time": "14:15",
-          "version": "VO"
+          "date": "2026-08-26",
+          "time": "14:05",
+          "version": "VF"
         },
         {
-          "date": "2026-08-20",
-          "time": "18:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-21",
+          "date": "2026-08-27",
           "time": "16:20",
-          "version": "VO"
+          "version": "VF"
         },
         {
-          "date": "2026-08-21",
-          "time": "20:35",
-          "version": "VO"
+          "date": "2026-08-29",
+          "time": "16:05",
+          "version": "VF"
         },
         {
-          "date": "2026-08-22",
-          "time": "14:15",
-          "version": "VO"
+          "date": "2026-08-30",
+          "time": "14:05",
+          "version": "VF"
         },
         {
-          "date": "2026-08-22",
-          "time": "18:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-23",
-          "time": "16:20",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-23",
-          "time": "20:35",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-24",
-          "time": "16:20",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-24",
-          "time": "20:25",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "16:20",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "20:35",
-          "version": "VO"
+          "date": "2026-08-31",
+          "time": "16:05",
+          "version": "VF"
         }
       ]
     },
@@ -753,30 +872,6 @@
       ]
     },
     {
-      "title": "Psycho beach party",
-      "year": 2001,
-      "duration_min": 95,
-      "genre": "Horreur",
-      "directors": [
-        "Robert Lee King"
-      ],
-      "cast": [
-        "Lauren Ambrose",
-        "Thomas Gibson",
-        "Nicholas Brendon"
-      ],
-      "synopsis": "Eté 1962. Le soleil brille et une jeunesse insouciante s'éclate à Malibu Beach. L'ambiance festive est à peine gâchée par le meurtre d'une spectatrice de drive-in, au terme d'un flirt poussé. Pourtant, ce n'est qu'un début. Quelques meurtres plus loin, les soupçons s'orientent vers Chicklet, une surfeuse un peu schizo sur les bords...",
-      "poster_url": "posters/216970.webp",
-      "detail_url": "https://www.cinefil.com/film/psycho-beach-party-2001",
-      "seances": [
-        {
-          "date": "2026-08-25",
-          "time": "21:00",
-          "version": "VO"
-        }
-      ]
-    },
-    {
       "title": "Soudain",
       "year": 2026,
       "duration_min": 196,
@@ -794,92 +889,73 @@
       "detail_url": "https://www.cinefil.com/film/soudain",
       "seances": [
         {
-          "date": "2026-08-20",
-          "time": "14:00",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-20",
-          "time": "19:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-21",
+          "date": "2026-08-26",
           "time": "15:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-26",
+          "time": "19:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "19:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-08-28",
           "time": "20:25",
           "version": "VO"
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-29",
           "time": "14:00",
           "version": "VO"
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-29",
           "time": "20:25",
           "version": "VO"
         },
         {
-          "date": "2026-08-23",
+          "date": "2026-08-30",
           "time": "15:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-23",
+          "date": "2026-08-30",
           "time": "19:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-24",
-          "time": "14:00",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-24",
-          "time": "19:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-25",
+          "date": "2026-08-31",
           "time": "15:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-25",
+          "date": "2026-08-31",
           "time": "19:55",
-          "version": "VO"
-        }
-      ]
-    },
-    {
-      "title": "The Endless Summer",
-      "year": 1968,
-      "duration_min": 95,
-      "genre": "Documentaire",
-      "directors": [
-        "Bruce Brown"
-      ],
-      "cast": [
-        "Michael Hynson",
-        "Robert August",
-        "Lord James Blears"
-      ],
-      "synopsis": "Robert August et Mike Hynson, deux jeunes surfeurs californiens, vont entreprendre un voyage bien particulier. Munis de leur planche de surf, ils vont se rendre en Afrique, en Australie, en Nouvelle-Zélande, à Tahiti puis Hawaï, à la recherche de la vague parfaite…",
-      "poster_url": "posters/1123040.webp",
-      "detail_url": "https://www.cinefil.com/film/the-endless-summer",
-      "seances": [
-        {
-          "date": "2026-08-21",
-          "time": "18:05",
           "version": "VO"
         },
         {
-          "date": "2026-08-24",
-          "time": "18:15",
+          "date": "2026-09-01",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "19:55",
           "version": "VO"
         }
       ]
@@ -902,48 +978,28 @@
       "detail_url": "https://www.cinefil.com/film/the-last-viking",
       "seances": [
         {
-          "date": "2026-08-20",
-          "time": "14:00",
+          "date": "2026-08-27",
+          "time": "18:00",
           "version": "VO"
         },
         {
-          "date": "2026-08-21",
-          "time": "18:15",
+          "date": "2026-08-28",
+          "time": "15:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-21",
-          "time": "22:00",
+          "date": "2026-08-28",
+          "time": "22:15",
           "version": "VO"
         },
         {
-          "date": "2026-08-22",
-          "time": "14:00",
+          "date": "2026-08-29",
+          "time": "13:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-22",
-          "time": "17:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-23",
-          "time": "14:00",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-24",
-          "time": "14:00",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "14:00",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "18:10",
+          "date": "2026-09-01",
+          "time": "13:55",
           "version": "VO"
         }
       ]
@@ -966,43 +1022,23 @@
       "detail_url": "https://www.cinefil.com/film/une-affaire-turque",
       "seances": [
         {
-          "date": "2026-08-20",
-          "time": "18:45",
+          "date": "2026-08-27",
+          "time": "15:55",
           "version": "VF"
         },
         {
-          "date": "2026-08-21",
-          "time": "14:00",
+          "date": "2026-08-28",
+          "time": "18:10",
           "version": "VF"
         },
         {
-          "date": "2026-08-22",
-          "time": "16:20",
+          "date": "2026-08-31",
+          "time": "15:55",
           "version": "VF"
         },
         {
-          "date": "2026-08-23",
-          "time": "14:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-23",
-          "time": "18:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-24",
-          "time": "18:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "14:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "18:00",
+          "date": "2026-09-01",
+          "time": "18:10",
           "version": "VF"
         }
       ]
