@@ -6,52 +6,8 @@
     "billetterie_url": "https://www.katorza.fr/katorza/alaffiche/katorza"
   },
   "source": "https://www.cinefil.com/cinema/le-katorza-nantes/programmation",
-  "scraped_at": "2026-08-26T07:00:05+02:00",
+  "scraped_at": "2026-09-02T10:30:05+02:00",
   "films": [
-    {
-      "title": "Chicas tristes",
-      "year": 2026,
-      "duration_min": 90,
-      "genre": "Drame",
-      "directors": [
-        "Fernanda Tovar"
-      ],
-      "cast": [
-        "Rocío Guzmán",
-        "Mariano Alvarez",
-        "Tatsumi Milori"
-      ],
-      "synopsis": "La Maestra et Paula sont les meilleures nageuses de leur équipe et les meilleures amies du monde, jusqu'à ce qu'un incident lors d'une fête change tout. La Maestra, intense et indomptable, réalise que quelque chose a changé chez sa meilleure amie, ce qui la rend triste. Quand la vérité éclate au grand jour, les deux se retrouvent face à une décision impossible : Paula veut garder le silence, tandis que La Maestra veut se venger. Leur amitié, autrefois inébranlable, sera mise à l'épreuve comme jamais auparavant.",
-      "poster_url": "posters/1436323.webp",
-      "detail_url": "https://www.cinefil.com/film/chicas-tristes",
-      "seances": [
-        {
-          "date": "2026-08-26",
-          "time": "18:30",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-28",
-          "time": "18:10",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-29",
-          "time": "22:20",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-30",
-          "time": "18:30",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-01",
-          "time": "18:30",
-          "version": "VO"
-        }
-      ]
-    },
     {
       "title": "De la Comédie-Française",
       "year": 2026,
@@ -71,146 +27,107 @@
       "detail_url": "https://www.cinefil.com/film/de-la-comedie-francaise",
       "seances": [
         {
-          "date": "2026-08-26",
-          "time": "14:15",
+          "date": "2026-09-02",
+          "time": "14:05",
           "version": "VF"
         },
         {
-          "date": "2026-08-27",
-          "time": "14:15",
+          "date": "2026-09-03",
+          "time": "16:35",
           "version": "VF"
         },
         {
-          "date": "2026-08-27",
-          "time": "20:35",
+          "date": "2026-09-03",
+          "time": "18:55",
           "version": "VF"
         },
         {
-          "date": "2026-08-28",
-          "time": "17:25",
+          "date": "2026-09-04",
+          "time": "14:05",
           "version": "VF"
         },
         {
-          "date": "2026-08-28",
-          "time": "19:00",
+          "date": "2026-09-04",
+          "time": "19:15",
           "version": "VF"
         },
         {
-          "date": "2026-08-29",
-          "time": "19:10",
+          "date": "2026-09-05",
+          "time": "15:55",
           "version": "VF"
         },
         {
-          "date": "2026-08-29",
-          "time": "20:30",
+          "date": "2026-09-06",
+          "time": "11:15",
           "version": "VF"
         },
         {
-          "date": "2026-08-30",
-          "time": "14:15",
+          "date": "2026-09-06",
+          "time": "14:10",
           "version": "VF"
         },
         {
-          "date": "2026-08-31",
-          "time": "14:15",
+          "date": "2026-09-07",
+          "time": "16:35",
           "version": "VF"
         },
         {
-          "date": "2026-08-31",
-          "time": "20:35",
+          "date": "2026-09-07",
+          "time": "18:45",
           "version": "VF"
         },
         {
-          "date": "2026-09-01",
-          "time": "14:15",
+          "date": "2026-09-08",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "17:30",
           "version": "VF"
         }
       ]
     },
     {
       "title": "Decorado",
-      "year": 2018,
-      "duration_min": 7,
+      "year": 2026,
+      "duration_min": 95,
       "genre": "Animation",
-      "directors": [],
-      "cast": [],
+      "directors": [
+        "Alberto Vázquez"
+      ],
+      "cast": [
+        "Asier Hormaza",
+        "Aintzane Gamiz",
+        "Kandido Uranga"
+      ],
       "synopsis": "Une souris prénommée Arnold est perdue en pleine crise de la quarantaine…",
-      "poster_url": null,
+      "poster_url": "posters/1460232.webp",
       "detail_url": "https://www.cinefil.com/film/decorado",
       "seances": [
         {
-          "date": "2026-08-26",
-          "time": "14:10",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-26",
+          "date": "2026-09-03",
           "time": "18:25",
           "version": "VO"
         },
         {
-          "date": "2026-08-27",
-          "time": "16:10",
+          "date": "2026-09-04",
+          "time": "22:25",
           "version": "VO"
         },
         {
-          "date": "2026-08-27",
-          "time": "20:45",
+          "date": "2026-09-05",
+          "time": "18:30",
           "version": "VO"
         },
         {
-          "date": "2026-08-28",
-          "time": "14:10",
+          "date": "2026-09-05",
+          "time": "22:25",
           "version": "VO"
         },
         {
-          "date": "2026-08-28",
-          "time": "18:25",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-28",
-          "time": "22:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-29",
-          "time": "16:10",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-29",
-          "time": "20:25",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-30",
-          "time": "14:10",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-30",
-          "time": "18:25",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-31",
-          "time": "16:10",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-31",
-          "time": "20:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-01",
-          "time": "14:10",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-01",
-          "time": "18:25",
+          "date": "2026-09-07",
+          "time": "18:20",
           "version": "VO"
         }
       ]
@@ -233,73 +150,53 @@
       "detail_url": "https://www.cinefil.com/film/degel",
       "seances": [
         {
-          "date": "2026-08-26",
-          "time": "16:10",
+          "date": "2026-09-02",
+          "time": "18:40",
           "version": "VO"
         },
         {
-          "date": "2026-08-26",
-          "time": "20:35",
+          "date": "2026-09-03",
+          "time": "14:05",
           "version": "VO"
         },
         {
-          "date": "2026-08-27",
-          "time": "13:45",
+          "date": "2026-09-04",
+          "time": "13:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-27",
-          "time": "18:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-28",
-          "time": "16:10",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-28",
-          "time": "20:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-29",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-29",
+          "date": "2026-09-04",
           "time": "17:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-30",
-          "time": "16:10",
+          "date": "2026-09-05",
+          "time": "14:05",
           "version": "VO"
         },
         {
-          "date": "2026-08-30",
-          "time": "20:35",
+          "date": "2026-09-05",
+          "time": "18:30",
           "version": "VO"
         },
         {
-          "date": "2026-08-31",
-          "time": "13:45",
+          "date": "2026-09-06",
+          "time": "11:05",
           "version": "VO"
         },
         {
-          "date": "2026-08-31",
-          "time": "18:15",
+          "date": "2026-09-06",
+          "time": "18:35",
           "version": "VO"
         },
         {
-          "date": "2026-09-01",
-          "time": "16:10",
+          "date": "2026-09-07",
+          "time": "14:05",
           "version": "VO"
         },
         {
-          "date": "2026-09-01",
-          "time": "20:35",
+          "date": "2026-09-08",
+          "time": "18:30",
           "version": "VO"
         }
       ]
@@ -322,43 +219,33 @@
       "detail_url": "https://www.cinefil.com/film/face-a-la-mer-2025",
       "seances": [
         {
-          "date": "2026-08-26",
-          "time": "20:45",
+          "date": "2026-09-03",
+          "time": "18:30",
           "version": "VO"
         },
         {
-          "date": "2026-08-27",
-          "time": "18:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-28",
-          "time": "20:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-29",
-          "time": "18:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-29",
+          "date": "2026-09-04",
           "time": "22:05",
           "version": "VO"
         },
         {
-          "date": "2026-08-30",
-          "time": "20:45",
+          "date": "2026-09-05",
+          "time": "22:15",
           "version": "VO"
         },
         {
-          "date": "2026-08-31",
-          "time": "18:05",
+          "date": "2026-09-06",
+          "time": "11:10",
           "version": "VO"
         },
         {
-          "date": "2026-09-01",
-          "time": "20:45",
+          "date": "2026-09-07",
+          "time": "18:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "18:25",
           "version": "VO"
         }
       ]
@@ -381,109 +268,138 @@
       "detail_url": "https://www.cinefil.com/film/fjord",
       "seances": [
         {
-          "date": "2026-08-26",
-          "time": "13:45",
+          "date": "2026-09-02",
+          "time": "14:00",
           "version": "VO"
         },
         {
-          "date": "2026-08-26",
-          "time": "16:45",
+          "date": "2026-09-02",
+          "time": "17:30",
           "version": "VO"
         },
         {
-          "date": "2026-08-26",
-          "time": "20:15",
+          "date": "2026-09-02",
+          "time": "20:25",
           "version": "VO"
         },
         {
-          "date": "2026-08-27",
-          "time": "13:45",
+          "date": "2026-09-03",
+          "time": "14:00",
           "version": "VO"
         },
         {
-          "date": "2026-08-27",
-          "time": "16:45",
+          "date": "2026-09-03",
+          "time": "16:05",
           "version": "VO"
         },
         {
-          "date": "2026-08-27",
-          "time": "20:15",
+          "date": "2026-09-03",
+          "time": "20:25",
           "version": "VO"
         },
         {
-          "date": "2026-08-28",
-          "time": "13:45",
+          "date": "2026-09-04",
+          "time": "14:00",
           "version": "VO"
         },
         {
-          "date": "2026-08-28",
+          "date": "2026-09-04",
+          "time": "17:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-05",
           "time": "16:35",
           "version": "VO"
         },
         {
-          "date": "2026-08-28",
+          "date": "2026-09-05",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "10:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "16:35",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-06",
           "time": "20:15",
           "version": "VO"
         },
         {
-          "date": "2026-08-29",
-          "time": "13:45",
+          "date": "2026-09-07",
+          "time": "14:00",
           "version": "VO"
         },
         {
-          "date": "2026-08-29",
-          "time": "16:45",
+          "date": "2026-09-07",
+          "time": "15:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-29",
-          "time": "20:15",
+          "date": "2026-09-07",
+          "time": "20:25",
           "version": "VO"
         },
         {
-          "date": "2026-08-30",
-          "time": "13:45",
+          "date": "2026-09-08",
+          "time": "14:00",
           "version": "VO"
         },
         {
-          "date": "2026-08-30",
-          "time": "16:45",
+          "date": "2026-09-08",
+          "time": "16:35",
           "version": "VO"
         },
         {
-          "date": "2026-08-30",
-          "time": "20:15",
+          "date": "2026-09-08",
+          "time": "20:25",
           "version": "VO"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Histoires de la nuit",
+      "year": 2026,
+      "duration_min": 114,
+      "genre": "Thriller",
+      "directors": [
+        "Léa Mysius"
+      ],
+      "cast": [
+        "Hafsia Herzi",
+        "Benoît Magimel",
+        "Bastien Bouillon"
+      ],
+      "synopsis": "Il ne reste presque plus rien à La Bassée : un bourg et quelques hameaux, dont celui qu’occupent Bergogne, sa femme Marion et leur fille Ida, ainsi qu’une voisine, Christine, une artiste installée ici depuis des années. On s’active, on se prépare pour l’anniversaire de Marion, dont on va fêter les quarante ans. Mais alors que la fête se profile, des inconnus rôdent autour du hameau.",
+      "poster_url": "posters/1397671.webp",
+      "detail_url": "https://www.cinefil.com/film/histoires-de-la-nuit-2026",
+      "seances": [
         {
-          "date": "2026-08-31",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-31",
-          "time": "16:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-31",
-          "time": "20:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-01",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-01",
-          "time": "16:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-01",
-          "time": "20:15",
-          "version": "VO"
+          "date": "2026-09-02",
+          "time": "20:30",
+          "version": "VF"
         }
       ]
     },
@@ -506,181 +422,127 @@
       "detail_url": "https://www.cinefil.com/film/l-odyssee-2026",
       "seances": [
         {
-          "date": "2026-08-26",
-          "time": "16:15",
+          "date": "2026-09-02",
+          "time": "17:15",
           "version": "VO"
         },
         {
-          "date": "2026-08-26",
-          "time": "20:20",
+          "date": "2026-09-03",
+          "time": "20:15",
           "version": "VO"
         },
         {
-          "date": "2026-08-27",
-          "time": "20:20",
+          "date": "2026-09-04",
+          "time": "17:15",
           "version": "VO"
         },
         {
-          "date": "2026-08-28",
-          "time": "20:45",
+          "date": "2026-09-05",
+          "time": "20:35",
           "version": "VO"
         },
         {
-          "date": "2026-08-29",
-          "time": "16:00",
+          "date": "2026-09-06",
+          "time": "16:35",
           "version": "VO"
         },
         {
-          "date": "2026-08-29",
-          "time": "20:45",
+          "date": "2026-09-07",
+          "time": "20:25",
           "version": "VO"
         },
         {
-          "date": "2026-08-30",
-          "time": "16:00",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-30",
-          "time": "20:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-31",
-          "time": "20:20",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-01",
-          "time": "20:20",
+          "date": "2026-09-08",
+          "time": "14:00",
           "version": "VO"
         }
       ]
     },
     {
-      "title": "La Fille Condor",
+      "title": "La frappe",
       "year": 2026,
-      "duration_min": 109,
+      "duration_min": 104,
       "genre": "Drame",
       "directors": [
-        "Álvaro Olmos"
+        "Julien Gaspar-Oliveri"
       ],
       "cast": [
-        "María Magdalena Sanizo",
-        "Marisol Vallejos Montaño",
-        "Nely Huayta"
+        "Diego Murgia",
+        "Bastien Bouillon",
+        "Romane Fringeli"
       ],
-      "synopsis": "Clara est une doula quechua qui chante pour apaiser la douleur des femmes enceintes. Sa mère Ana, sage-femme chevronnée, considère ce don comme un miracle. Influencée par une amie, et après une dispute avec sa mère, la jeune femme décide de partir pour la grande ville. Depuis la communauté subit la mort mystérieuse d'animaux et des récoltes, les villageois attribuent cette punition au départ de Clara. Sa mère décide de la retrouver.",
-      "poster_url": "posters/1403157.webp",
-      "detail_url": "https://www.cinefil.com/film/la-fille-condor",
+      "synopsis": "Enzo, 19 ans et sa soeur Carla, 20 ans, sont livrés à eux-mêmes depuis plusieurs années. Quand leur père, Anthony est libéré de prison, Enzo voit la promesse fragile d’une famille à reconstruire contrairement à Carla pour qui l’idée reste inconcevable. Rattrapé par son passé, Enzo doit se confronter à une vérité qu’il a trop longtemps gardée pour lui.",
+      "poster_url": "posters/1436992.webp",
+      "detail_url": "https://www.cinefil.com/film/la-frappe-2026",
       "seances": [
         {
-          "date": "2026-08-26",
-          "time": "16:05",
-          "version": "VO"
+          "date": "2026-09-02",
+          "time": "16:35",
+          "version": "VF"
         },
         {
-          "date": "2026-08-28",
-          "time": "16:05",
-          "version": "VO"
+          "date": "2026-09-02",
+          "time": "20:45",
+          "version": "VF"
         },
         {
-          "date": "2026-08-29",
-          "time": "18:10",
-          "version": "VO"
+          "date": "2026-09-03",
+          "time": "14:00",
+          "version": "VF"
         },
         {
-          "date": "2026-08-30",
-          "time": "16:05",
-          "version": "VO"
+          "date": "2026-09-03",
+          "time": "20:45",
+          "version": "VF"
         },
         {
-          "date": "2026-08-31",
-          "time": "14:05",
-          "version": "VO"
+          "date": "2026-09-04",
+          "time": "15:55",
+          "version": "VF"
         },
         {
-          "date": "2026-09-01",
-          "time": "16:05",
-          "version": "VO"
-        }
-      ]
-    },
-    {
-      "title": "La Providence et la Guitare",
-      "year": 2026,
-      "duration_min": 125,
-      "genre": "Comédie",
-      "directors": [
-        "Joao Nicolau"
-      ],
-      "cast": [
-        "Pedro Inês",
-        "Clara Riedenstein",
-        "Salvador Sobral"
-      ],
-      "synopsis": "Dans un passé lointain, Léon et Elvira Berthelini, artistes ambulants, gagnent leur vie en allant de ville en ville. À Covarronca, harcelés par le commissaire de police, ils sont contraints de passer la nuit à la belle étoile. C'est là qu'ils rencontrent Stubbs, un jeune étudiant de Cambridge, avec qui ils trouvent refuge chez un peintre en désaccord avec sa femme. En échange de cette hospitalité, ils rappellent à leurs hôtes que l'amour de l'art résout l'art d'aimer. Pendant ce temps, une malédiction singulière les entraîne dans des voyages absurdes jusqu'au vingt-et-unième siècle, où l'avenir de la sécurité sociale et d'un groupe de rock sont en jeu.",
-      "poster_url": "posters/1425565.webp",
-      "detail_url": "https://www.cinefil.com/film/la-providence-et-la-guitare",
-      "seances": [
+          "date": "2026-09-04",
+          "time": "20:20",
+          "version": "VF"
+        },
         {
-          "date": "2026-08-27",
+          "date": "2026-09-05",
           "time": "13:55",
-          "version": "VO"
+          "version": "VF"
         },
         {
-          "date": "2026-08-31",
-          "time": "18:10",
-          "version": "VO"
+          "date": "2026-09-05",
+          "time": "20:20",
+          "version": "VF"
         },
         {
-          "date": "2026-09-01",
+          "date": "2026-09-06",
+          "time": "16:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "20:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-07",
+          "time": "13:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-07",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-08",
           "time": "16:05",
-          "version": "VO"
-        }
-      ]
-    },
-    {
-      "title": "Le Secret des mésanges",
-      "year": 2025,
-      "duration_min": 66,
-      "genre": "Animation",
-      "directors": [
-        "Antoine Lanciaux"
-      ],
-      "cast": [],
-      "synopsis": "Lucie, petite fille dégourdie de 10 ans, vient passer quelques jours de vacances avec sa mère, Caroline. Celle-ci est archéologue et participe à des fouilles à la campagne avec Pierrot, un collègue débonnaire. Très vite, Lucie découvre que sa mère a vécu enfant dans cette région et qu’elle cache un secret sur son histoire familiale. Encouragée dans sa quête par un couple de mésanges et d’autres amis à quatre pattes, Lucie entraîne dans ses aventures Yann, un nouveau copain qui, bien malgré lui, va se retrouver au coeur des évènements. Tous les deux vont aller de surprises insolites en découvertes fabuleuses.",
-      "poster_url": "posters/1256816.webp",
-      "detail_url": "https://www.cinefil.com/film/le-secret-des-mesanges",
-      "seances": [
-        {
-          "date": "2026-08-27",
-          "time": "14:05",
           "version": "VF"
         },
         {
-          "date": "2026-08-28",
-          "time": "14:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-29",
-          "time": "14:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-30",
-          "time": "14:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-31",
-          "time": "14:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-01",
-          "time": "14:05",
+          "date": "2026-09-08",
+          "time": "20:45",
           "version": "VF"
         }
       ]
@@ -703,171 +565,223 @@
       "detail_url": "https://www.cinefil.com/film/l-inconnue-2026",
       "seances": [
         {
-          "date": "2026-08-26",
-          "time": "14:00",
+          "date": "2026-09-02",
+          "time": "13:55",
           "version": "VF"
         },
         {
-          "date": "2026-08-26",
-          "time": "16:35",
+          "date": "2026-09-02",
+          "time": "15:45",
           "version": "VF"
         },
         {
-          "date": "2026-08-26",
-          "time": "20:30",
+          "date": "2026-09-02",
+          "time": "20:35",
           "version": "VF"
         },
         {
-          "date": "2026-08-27",
-          "time": "14:00",
+          "date": "2026-09-03",
+          "time": "13:55",
           "version": "VF"
         },
         {
-          "date": "2026-08-27",
-          "time": "16:35",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-27",
-          "time": "20:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-28",
-          "time": "14:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-28",
+          "date": "2026-09-03",
           "time": "16:45",
           "version": "VF"
         },
         {
-          "date": "2026-08-28",
+          "date": "2026-09-03",
           "time": "20:35",
           "version": "VF"
         },
         {
-          "date": "2026-08-29",
-          "time": "14:00",
+          "date": "2026-09-04",
+          "time": "13:55",
           "version": "VF"
         },
         {
-          "date": "2026-08-29",
+          "date": "2026-09-04",
           "time": "16:35",
           "version": "VF"
         },
         {
-          "date": "2026-08-29",
+          "date": "2026-09-04",
           "time": "20:35",
           "version": "VF"
         },
         {
-          "date": "2026-08-30",
-          "time": "14:00",
+          "date": "2026-09-05",
+          "time": "13:55",
           "version": "VF"
         },
         {
-          "date": "2026-08-30",
-          "time": "16:35",
+          "date": "2026-09-05",
+          "time": "16:00",
           "version": "VF"
         },
         {
-          "date": "2026-08-30",
-          "time": "20:30",
+          "date": "2026-09-05",
+          "time": "20:45",
           "version": "VF"
         },
         {
-          "date": "2026-08-31",
-          "time": "14:00",
+          "date": "2026-09-06",
+          "time": "13:55",
           "version": "VF"
         },
         {
-          "date": "2026-08-31",
-          "time": "16:35",
+          "date": "2026-09-06",
+          "time": "16:45",
           "version": "VF"
         },
         {
-          "date": "2026-08-31",
-          "time": "20:30",
+          "date": "2026-09-06",
+          "time": "20:25",
           "version": "VF"
         },
         {
-          "date": "2026-09-01",
-          "time": "14:00",
+          "date": "2026-09-07",
+          "time": "13:55",
           "version": "VF"
         },
         {
-          "date": "2026-09-01",
-          "time": "16:35",
+          "date": "2026-09-07",
+          "time": "16:45",
           "version": "VF"
         },
         {
-          "date": "2026-09-01",
-          "time": "20:30",
+          "date": "2026-09-07",
+          "time": "20:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "13:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "16:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "20:35",
           "version": "VF"
         }
       ]
     },
     {
-      "title": "Paradise",
+      "title": "L’Ourse Et L’Oiseau",
       "year": 2026,
-      "duration_min": 90,
-      "genre": "Drame",
+      "duration_min": 26,
+      "genre": "Animation",
       "directors": [
-        "Jérémy Comte"
+        "Marie Caudry"
       ],
-      "cast": [
-        "Joey Boivin-Desmeules",
-        "Daniel Atsu Hukporti",
-        "Evelyne De La Chenelière"
-      ],
-      "synopsis": "Une vie peut en changer une autre. Au Ghana, Kojo, adolescent marqué par la disparition de son père en mer, se rapproche des gangs de rue sans parvenir à combler le vide qu’il ressent. Pendant ce temps, au Québec, Tony, en quête de repères, s’interroge sur l’homme que fréquente sa mère, et se demande s’il pourrait être le père qu'il n'a jamais connu… Entre la lente déchéance de l'un et la recherche d'identité de l'autre, un lien insoupçonné se tisse, unissant les destins croisés de ces deux jeunes hommes que tout semble séparer.",
-      "poster_url": "posters/1436988.webp",
-      "detail_url": "https://www.cinefil.com/film/paradise-2026",
-      "seances": [
-        {
-          "date": "2026-08-26",
-          "time": "14:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-27",
-          "time": "16:20",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-29",
-          "time": "16:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-30",
-          "time": "14:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-08-31",
-          "time": "16:05",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "Patouille et Momo, les contes de la forêt",
-      "year": 2027,
-      "duration_min": 35,
-      "genre": null,
-      "directors": [],
       "cast": [],
-      "synopsis": "Programme de courts-métrages français.",
-      "poster_url": "posters/1419542.webp",
-      "detail_url": "https://www.cinefil.com/film/patouille-et-momo-les-contes-de-la-foret",
+      "synopsis": "Vers le nord, les feuilles des arbres changent de couleur, l'hiver n'est plus très loin. L'ours et son ami l'oiseau s'amusent encore sur les collines près de la forêt, mais le moment approche où elle doit se retirer pour hiberner. Quand ce moment arrive, elle pense avec nostalgie à l'oiseau qui s'est envolé vers le sud. Elle décide alors de parcourir le monde pour le suivre. Un film d'aventure pour tous les âges.",
+      "poster_url": "posters/1272555.webp",
+      "detail_url": "https://www.cinefil.com/film/l-ourse-et-l-oiseau",
       "seances": [
         {
-          "date": "2026-08-26",
+          "date": "2026-09-02",
           "time": "14:30",
           "version": "VF"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "14:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "11:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "14:30",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Salvation",
+      "year": 2026,
+      "duration_min": 120,
+      "genre": "Drame",
+      "directors": [
+        "Emin Alper"
+      ],
+      "cast": [
+        "Caner Cindoruk",
+        "Berkay Ateş",
+        "Feyyaz Duman"
+      ],
+      "synopsis": "Dans un village isolé, un clan exilé fait son retour, ravivant une querelle territoriale vieille de plusieurs décennies. Saisi par des visions divines, Mesut défie le leadership de son frère pour sauver son peuple. Ce nouveau chemin apportera-t-il le salut ou la tragédie ?",
+      "poster_url": "posters/1436989.webp",
+      "detail_url": "https://www.cinefil.com/film/salvation",
+      "seances": [
+        {
+          "date": "2026-09-02",
+          "time": "18:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-02",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "17:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "20:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "17:35",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "14:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-07",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-07",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "20:30",
+          "version": "VO"
         }
       ]
     },
@@ -889,157 +803,262 @@
       "detail_url": "https://www.cinefil.com/film/soudain",
       "seances": [
         {
-          "date": "2026-08-26",
-          "time": "15:55",
+          "date": "2026-09-02",
+          "time": "13:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-26",
+          "date": "2026-09-02",
+          "time": "16:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "16:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "16:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "19:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-07",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-07",
           "time": "19:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-27",
-          "time": "15:55",
+          "date": "2026-09-08",
+          "time": "13:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-27",
+          "date": "2026-09-08",
           "time": "19:55",
           "version": "VO"
-        },
+        }
+      ]
+    },
+    {
+      "title": "The Good Sister",
+      "year": 2026,
+      "duration_min": 97,
+      "genre": "Drame",
+      "directors": [
+        "Sarah Miro Fischer"
+      ],
+      "cast": [
+        "Marie Bloching",
+        "Anton Weil",
+        "Proschat Madani"
+      ],
+      "synopsis": "Rose est très proche de son frère aîné Sam. Quand une femme l'accuse de viol, on demande à Rose de témoigner dans l'enquête contre lui. Cela met à l'épreuve à la fois leur relation et son intégrité morale.",
+      "poster_url": "posters/1418316.webp",
+      "detail_url": "https://www.cinefil.com/film/the-good-sister",
+      "seances": [
         {
-          "date": "2026-08-28",
-          "time": "13:45",
+          "date": "2026-09-02",
+          "time": "16:30",
           "version": "VO"
         },
         {
-          "date": "2026-08-28",
-          "time": "20:25",
+          "date": "2026-09-02",
+          "time": "20:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-29",
+          "date": "2026-09-03",
+          "time": "14:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "16:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-05",
           "time": "14:00",
           "version": "VO"
         },
         {
-          "date": "2026-08-29",
-          "time": "20:25",
+          "date": "2026-09-05",
+          "time": "18:45",
           "version": "VO"
         },
         {
-          "date": "2026-08-30",
+          "date": "2026-09-06",
           "time": "15:55",
           "version": "VO"
         },
         {
-          "date": "2026-08-30",
-          "time": "19:55",
+          "date": "2026-09-06",
+          "time": "20:45",
           "version": "VO"
         },
         {
-          "date": "2026-08-31",
-          "time": "15:55",
+          "date": "2026-09-07",
+          "time": "14:00",
           "version": "VO"
         },
         {
-          "date": "2026-08-31",
-          "time": "19:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-01",
-          "time": "15:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-01",
-          "time": "19:55",
-          "version": "VO"
-        }
-      ]
-    },
-    {
-      "title": "The Last Viking",
-      "year": 2026,
-      "duration_min": 116,
-      "genre": "Comédie",
-      "directors": [
-        "Anders-thomas Jensen"
-      ],
-      "cast": [
-        "Mads Mikkelsen",
-        "Nikolaj Lie Kaas",
-        "Sofie Gråbøl"
-      ],
-      "synopsis": "Afin de récupérer son butin, un braqueur de banque doit aider son frère à surmonter ses traumatismes d'enfance.",
-      "poster_url": "posters/1418306.webp",
-      "detail_url": "https://www.cinefil.com/film/the-last-viking",
-      "seances": [
-        {
-          "date": "2026-08-27",
+          "date": "2026-09-07",
           "time": "18:00",
           "version": "VO"
         },
         {
-          "date": "2026-08-28",
-          "time": "15:55",
+          "date": "2026-09-08",
+          "time": "16:30",
           "version": "VO"
         },
         {
-          "date": "2026-08-28",
-          "time": "22:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-08-29",
-          "time": "13:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-01",
-          "time": "13:55",
+          "date": "2026-09-08",
+          "time": "20:45",
           "version": "VO"
         }
       ]
     },
     {
-      "title": "Une affaire turque",
+      "title": "Trois adieux",
       "year": 2026,
-      "duration_min": 88,
-      "genre": "Thriller",
+      "duration_min": 120,
+      "genre": "Drame",
       "directors": [
-        "Hüseyin Aydın Gürsoy"
+        "Isabel Coixet"
       ],
       "cast": [
-        "Lionel Erdogan",
-        "Charles Berling",
-        "Metehan Aygün"
+        "Alba Rohrwacher",
+        "Elio Germano",
+        "Francesco Carril"
       ],
-      "synopsis": "Mathieu s'est éloigné de sa communauté turc à Mulhouse pour grimper l'échelle sociale. Avocat déterminé, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Strasbourg. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.",
-      "poster_url": "posters/1431073.webp",
-      "detail_url": "https://www.cinefil.com/film/une-affaire-turque",
+      "synopsis": "Après une dispute sans importance, Marta et Antonio se séparent. Lui, chef en pleine ascension, se réfugie derrière ses fourneaux. Elle, dans son silence, commence à ressentir quelque chose de plus que de la tristesse : elle a perdu l’appétit. Quand elle découvre ce que son corps lui dit vraiment, tout prend un tour inattendu : la nourriture a meilleur goût, la musique la touche comme jamais, et le désir réveille en elle l’envie de vivre sans peur.",
+      "poster_url": "posters/1436994.webp",
+      "detail_url": "https://www.cinefil.com/film/trois-adieux",
       "seances": [
         {
-          "date": "2026-08-27",
-          "time": "15:55",
-          "version": "VF"
+          "date": "2026-09-02",
+          "time": "14:05",
+          "version": "VO"
         },
         {
-          "date": "2026-08-28",
+          "date": "2026-09-02",
+          "time": "18:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "18:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "19:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "11:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "14:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "17:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-07",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-07",
           "time": "18:10",
-          "version": "VF"
+          "version": "VO"
         },
         {
-          "date": "2026-08-31",
-          "time": "15:55",
-          "version": "VF"
+          "date": "2026-09-08",
+          "time": "14:05",
+          "version": "VO"
         },
         {
-          "date": "2026-09-01",
-          "time": "18:10",
-          "version": "VF"
+          "date": "2026-09-08",
+          "time": "17:55",
+          "version": "VO"
         }
       ]
     }
