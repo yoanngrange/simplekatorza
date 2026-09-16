@@ -6,7 +6,7 @@
     "billetterie_url": "https://www.katorza.fr/katorza/alaffiche/katorza"
   },
   "source": "https://www.cinefil.com/cinema/le-katorza-nantes/programmation",
-  "scraped_at": "2026-09-09T09:30:05+02:00",
+  "scraped_at": "2026-09-16T09:30:05+02:00",
   "films": [
     {
       "title": "Adieu monde cruel",
@@ -26,83 +26,68 @@
       "detail_url": "https://www.cinefil.com/film/adieu-monde-cruel",
       "seances": [
         {
-          "date": "2026-09-09",
-          "time": "14:00",
+          "date": "2026-09-16",
+          "time": "18:35",
           "version": "VF"
         },
         {
-          "date": "2026-09-09",
-          "time": "20:35",
+          "date": "2026-09-17",
+          "time": "14:05",
           "version": "VF"
         },
         {
-          "date": "2026-09-10",
-          "time": "16:10",
+          "date": "2026-09-17",
+          "time": "18:35",
           "version": "VF"
         },
         {
-          "date": "2026-09-10",
-          "time": "20:35",
+          "date": "2026-09-18",
+          "time": "14:05",
           "version": "VF"
         },
         {
-          "date": "2026-09-11",
-          "time": "14:00",
+          "date": "2026-09-18",
+          "time": "18:45",
           "version": "VF"
         },
         {
-          "date": "2026-09-11",
-          "time": "20:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-11",
+          "date": "2026-09-18",
           "time": "22:15",
           "version": "VF"
         },
         {
-          "date": "2026-09-12",
-          "time": "16:05",
+          "date": "2026-09-19",
+          "time": "18:15",
           "version": "VF"
         },
         {
-          "date": "2026-09-12",
-          "time": "20:20",
+          "date": "2026-09-19",
+          "time": "22:15",
           "version": "VF"
         },
         {
-          "date": "2026-09-12",
-          "time": "22:25",
+          "date": "2026-09-20",
+          "time": "11:00",
           "version": "VF"
         },
         {
-          "date": "2026-09-13",
+          "date": "2026-09-21",
           "time": "14:00",
           "version": "VF"
         },
         {
-          "date": "2026-09-13",
-          "time": "20:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "16:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "20:35",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-15",
-          "time": "14:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-15",
+          "date": "2026-09-21",
           "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "13:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "18:40",
           "version": "VF"
         }
       ]
@@ -126,118 +111,54 @@
       "detail_url": "https://www.cinefil.com/film/de-la-comedie-francaise",
       "seances": [
         {
-          "date": "2026-09-09",
-          "time": "14:15",
+          "date": "2026-09-16",
+          "time": "18:45",
           "version": "VF"
         },
         {
-          "date": "2026-09-10",
-          "time": "14:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-11",
-          "time": "18:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-11",
-          "time": "22:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "14:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "22:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "11:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "19:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "10:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "18:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-15",
-          "time": "14:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-15",
+          "date": "2026-09-17",
           "time": "16:45",
           "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "Dégel",
-      "year": 2026,
-      "duration_min": 100,
-      "genre": "Drame",
-      "directors": [
-        "Manuela Martelli"
-      ],
-      "cast": [
-        "Maya O’Rourke",
-        "Saskia Rosendahl",
-        "Maia Domagala"
-      ],
-      "synopsis": "Chili, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski, Inès, 9 ans, se lie d’amitié avec Hanna, une jeune sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser de trace, l’enfant cherche à comprendre…",
-      "poster_url": "posters/1441726.webp",
-      "detail_url": "https://www.cinefil.com/film/degel",
-      "seances": [
-        {
-          "date": "2026-09-09",
-          "time": "18:30",
-          "version": "VO"
         },
         {
-          "date": "2026-09-11",
-          "time": "16:10",
-          "version": "VO"
+          "date": "2026-09-17",
+          "time": "18:45",
+          "version": "VF"
         },
         {
-          "date": "2026-09-11",
-          "time": "18:00",
-          "version": "VO"
+          "date": "2026-09-18",
+          "time": "16:45",
+          "version": "VF"
         },
         {
-          "date": "2026-09-13",
+          "date": "2026-09-18",
+          "time": "22:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "18:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "22:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-20",
           "time": "11:15",
-          "version": "VO"
+          "version": "VF"
         },
         {
-          "date": "2026-09-13",
-          "time": "18:15",
-          "version": "VO"
+          "date": "2026-09-21",
+          "time": "16:30",
+          "version": "VF"
         },
         {
-          "date": "2026-09-14",
-          "time": "18:25",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-15",
-          "time": "18:35",
-          "version": "VO"
+          "date": "2026-09-22",
+          "time": "16:30",
+          "version": "VF"
         }
       ]
     },
@@ -259,114 +180,228 @@
       "detail_url": "https://www.cinefil.com/film/fjord",
       "seances": [
         {
-          "date": "2026-09-09",
+          "date": "2026-09-16",
           "time": "13:45",
           "version": "VO"
         },
         {
-          "date": "2026-09-09",
-          "time": "16:05",
+          "date": "2026-09-16",
+          "time": "16:00",
           "version": "VO"
         },
         {
-          "date": "2026-09-09",
+          "date": "2026-09-16",
           "time": "20:35",
           "version": "VO"
         },
         {
-          "date": "2026-09-10",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-10",
-          "time": "16:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-10",
-          "time": "20:35",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-11",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-11",
-          "time": "16:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-11",
-          "time": "20:35",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "17:40",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "20:35",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "11:00",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "16:30",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "20:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "16:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "20:35",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-15",
+          "date": "2026-09-17",
           "time": "13:55",
           "version": "VO"
         },
         {
-          "date": "2026-09-15",
-          "time": "16:05",
+          "date": "2026-09-17",
+          "time": "16:00",
           "version": "VO"
         },
         {
-          "date": "2026-09-15",
+          "date": "2026-09-17",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "16:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-18",
           "time": "20:35",
           "version": "VO"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "16:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "20:35",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "16:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "20:35",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "20:35",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Histoires de la nuit",
+      "year": 2026,
+      "duration_min": 114,
+      "genre": "Thriller",
+      "directors": [
+        "Léa Mysius"
+      ],
+      "cast": [
+        "Hafsia Herzi",
+        "Benoît Magimel",
+        "Bastien Bouillon"
+      ],
+      "synopsis": "Il ne reste presque plus rien à La Bassée : un bourg et quelques hameaux, dont celui qu’occupent Bergogne, sa femme Marion et leur fille Ida, ainsi qu’une voisine, Christine, une artiste installée ici depuis des années. On s’active, on se prépare pour l’anniversaire de Marion, dont on va fêter les quarante ans. Mais alors que la fête se profile, des inconnus rôdent autour du hameau.",
+      "poster_url": "posters/1397671.webp",
+      "detail_url": "https://www.cinefil.com/film/histoires-de-la-nuit-2026",
+      "seances": [
+        {
+          "date": "2026-09-16",
+          "time": "13:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-16",
+          "time": "16:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-16",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-17",
+          "time": "13:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-17",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-17",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "13:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "16:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "13:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "16:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "13:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "16:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "13:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "16:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "13:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "15:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "20:35",
+          "version": "VF"
         }
       ]
     },
@@ -388,111 +423,58 @@
       "detail_url": "https://www.cinefil.com/film/la-frappe-2026",
       "seances": [
         {
-          "date": "2026-09-09",
+          "date": "2026-09-16",
+          "time": "14:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-16",
+          "time": "18:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-17",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "13:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "18:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "13:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "14:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "18:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-22",
           "time": "16:20",
           "version": "VF"
         },
         {
-          "date": "2026-09-09",
+          "date": "2026-09-22",
           "time": "20:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-10",
-          "time": "16:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-10",
-          "time": "20:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-11",
-          "time": "14:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-11",
-          "time": "18:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-11",
-          "time": "22:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "16:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "20:20",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "22:20",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "14:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "17:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "16:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "20:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-15",
-          "time": "14:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-15",
-          "time": "18:25",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "La Grande rêvasion",
-      "year": 2026,
-      "duration_min": 45,
-      "genre": null,
-      "directors": [],
-      "cast": [],
-      "synopsis": "Avoir le trac avant de monter sur scène et s’inventer un monde, découvrir un objet bien mystérieux ou ce qui se cache dans une grande boîte, ces trois court-métrages éveilleront l’imaginaire et aideront les jeunes spectateurs à trouver la confiance en eux.",
-      "poster_url": "posters/1270390.webp",
-      "detail_url": "https://www.cinefil.com/film/la-grande-revasion",
-      "seances": [
-        {
-          "date": "2026-09-09",
-          "time": "16:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "16:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "16:15",
           "version": "VF"
         }
       ]
@@ -515,113 +497,113 @@
       "detail_url": "https://www.cinefil.com/film/la-vie-d-une-femme",
       "seances": [
         {
-          "date": "2026-09-09",
-          "time": "14:05",
+          "date": "2026-09-16",
+          "time": "14:00",
           "version": "VF"
         },
         {
-          "date": "2026-09-09",
-          "time": "16:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-09",
-          "time": "20:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-10",
-          "time": "16:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-10",
-          "time": "18:35",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-10",
-          "time": "20:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-11",
-          "time": "14:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-11",
-          "time": "16:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-11",
-          "time": "20:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "16:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "18:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "20:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "11:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "13:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "17:20",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "20:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "16:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "18:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "20:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-15",
-          "time": "14:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-15",
+          "date": "2026-09-16",
           "time": "16:10",
           "version": "VF"
         },
         {
-          "date": "2026-09-15",
+          "date": "2026-09-16",
           "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-17",
+          "time": "16:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-17",
+          "time": "18:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-17",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "16:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "20:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "16:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "20:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "11:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "16:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "16:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "18:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "16:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "18:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "20:45",
           "version": "VF"
         }
       ]
@@ -644,105 +626,77 @@
       "detail_url": "https://www.cinefil.com/film/l-inconnue-2026",
       "seances": [
         {
-          "date": "2026-09-09",
-          "time": "13:45",
+          "date": "2026-09-18",
+          "time": "17:55",
           "version": "VF"
         },
         {
-          "date": "2026-09-09",
-          "time": "18:00",
+          "date": "2026-09-19",
+          "time": "18:10",
           "version": "VF"
         },
         {
-          "date": "2026-09-10",
-          "time": "13:55",
+          "date": "2026-09-21",
+          "time": "18:10",
           "version": "VF"
         },
         {
-          "date": "2026-09-10",
-          "time": "16:20",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-11",
-          "time": "20:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "17:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "16:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "20:25",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "18:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-15",
-          "time": "15:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-09-15",
-          "time": "20:40",
+          "date": "2026-09-22",
+          "time": "18:10",
           "version": "VF"
         }
       ]
     },
     {
-      "title": "Notre salut",
+      "title": "Ma famille de samouraïs",
       "year": 2026,
-      "duration_min": 155,
-      "genre": "Historique",
-      "directors": [
-        "Emmanuel Marre"
-      ],
-      "cast": [
-        "Swann Arlaud",
-        "Sandrine Blancke",
-        "Mathieu Perotto"
-      ],
-      "synopsis": "Septembre 1940, le régime de Pétain se met en place. Henri Marre, 49 ans, débarque à Vichy sans le sou, sans contact, loin de sa femme et ses enfants. Il voit dans la nouvelle administration l’opportunité de trouver enfin la place qu’il mérite. Dans sa valise, son traité politique édité à compte d’auteur, Notre Salut, où il défend ses convictions patriotiques et ses méthodes d'ingénieur. Son credo: « gagner en efficacité » pour relever la France de la débâcle. Mais peut-être qu’Henri cherche avant tout à fuir sa propre débâcle…",
-      "poster_url": "posters/1453924.webp",
-      "detail_url": "https://www.cinefil.com/film/notre-salut",
-      "seances": [
-        {
-          "date": "2026-09-10",
-          "time": "20:00",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "Nous voilà grands !",
-      "year": 2025,
-      "duration_min": 32,
+      "duration_min": 82,
       "genre": "Animation",
       "directors": [
-        "Linda Hambäck",
-        "Stina Wirsén"
+        "Celia Catunda"
       ],
       "cast": [
-        "Stellan Skarsgard"
+        "Ken Kaneko",
+        "Pietro Takeda",
+        "Kazue Akisue"
       ],
-      "synopsis": "Les personnages bien-aimés de Stina Wirsén de la série Who – Little Teddy, Cat, Birdie et Bunny – ont tous grandi ! Ils sont grands, avec des poils aux aisselles et des téléphones portables. Certains ont même leurs propres enfants, et nous allons désormais connaître une nouvelle génération.",
-      "poster_url": "posters/1221939.webp",
-      "detail_url": "https://www.cinefil.com/film/nous-voila-grands!",
+      "synopsis": "Sao Paulo, années 1980… Noboru doit préparer pour l’école un exposé sur ses origines japonaises qu’il a toujours cherché à gommer. Il doit alors se tourner vers son grand-père grincheux, Hideo, pour apprendre à connaître en profondeur sa famille et l’histoire de l’arrivée de ce dernier au Brésil en 1920, quand il était encore un jeune homme. Ayant toujours voulu éviter d’évoquer son passé et son déracinement, poussé par son épouse, adorable grand-mère, Hideo accepte à contre-cœur de raconter à Noboru son histoire et son installation en Amérique du Sud. Au fur et à mesure que ce dernier plonge dans le récit de l’exil de ses ancêtres, le jeune écolier se plaira à s’approprier cette culture de l’autre bout du monde et découvrira même l’existence d’un oncle inconnu…",
+      "poster_url": "posters/1421730.webp",
+      "detail_url": "https://www.cinefil.com/film/ma-famille-de-samourais",
       "seances": [
         {
-          "date": "2026-09-13",
+          "date": "2026-09-16",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-16",
+          "time": "16:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "16:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-20",
           "time": "11:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "14:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "16:30",
           "version": "VF"
         }
       ]
@@ -765,138 +719,163 @@
       "detail_url": "https://www.cinefil.com/film/rose-2026",
       "seances": [
         {
-          "date": "2026-09-09",
-          "time": "16:00",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-09",
-          "time": "20:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-10",
-          "time": "14:10",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-10",
-          "time": "20:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-11",
+          "date": "2026-09-16",
           "time": "16:15",
           "version": "VO"
         },
         {
-          "date": "2026-09-11",
-          "time": "20:05",
+          "date": "2026-09-16",
+          "time": "20:45",
           "version": "VO"
         },
         {
-          "date": "2026-09-12",
+          "date": "2026-09-17",
           "time": "14:10",
           "version": "VO"
         },
         {
-          "date": "2026-09-12",
-          "time": "20:15",
+          "date": "2026-09-17",
+          "time": "18:20",
           "version": "VO"
         },
         {
-          "date": "2026-09-13",
+          "date": "2026-09-18",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "16:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-20",
           "time": "11:10",
           "version": "VO"
         },
         {
-          "date": "2026-09-13",
-          "time": "16:00",
+          "date": "2026-09-20",
+          "time": "20:55",
           "version": "VO"
         },
         {
-          "date": "2026-09-13",
+          "date": "2026-09-21",
+          "time": "16:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-21",
           "time": "20:45",
           "version": "VO"
         },
         {
-          "date": "2026-09-14",
-          "time": "14:10",
+          "date": "2026-09-22",
+          "time": "14:00",
           "version": "VO"
         },
         {
-          "date": "2026-09-14",
-          "time": "20:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-15",
-          "time": "16:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-15",
-          "time": "20:45",
+          "date": "2026-09-22",
+          "time": "18:35",
           "version": "VO"
         }
       ]
     },
     {
-      "title": "Salvation",
+      "title": "Sham",
       "year": 2026,
-      "duration_min": 120,
+      "duration_min": 129,
       "genre": "Drame",
       "directors": [
-        "Emin Alper"
+        "Takashi Miike"
       ],
       "cast": [
-        "Caner Cindoruk",
-        "Berkay Ateş",
-        "Feyyaz Duman"
+        "Gô Ayano",
+        "Kou Shibasaki",
+        "KAT-TUN"
       ],
-      "synopsis": "Dans un village isolé, un clan exilé fait son retour, ravivant une querelle territoriale vieille de plusieurs décennies. Saisi par des visions divines, Mesut défie le leadership de son frère pour sauver son peuple. Ce nouveau chemin apportera-t-il le salut ou la tragédie ?",
-      "poster_url": "posters/1436989.webp",
-      "detail_url": "https://www.cinefil.com/film/salvation",
+      "synopsis": "La vérité n'est qu'une version parmi d'autres… Seiichi Yabushita, professeur d’école élémentaire, se veut strict mais juste. Lorsqu’une mère l’accuse d’avoir humilié son fils, tout bascule : la presse s’enflamme, la rumeur enfle, l’opinion s’emballe. Pris dans la tourmente, Yabushita tente de défendre sa propre vérité... Au risque de la voir se retourner contre lui.",
+      "poster_url": "posters/1421727.webp",
+      "detail_url": "https://www.cinefil.com/film/sham",
       "seances": [
         {
-          "date": "2026-09-09",
-          "time": "18:25",
-          "version": "VF"
+          "date": "2026-09-16",
+          "time": "17:25",
+          "version": "VO"
         },
         {
-          "date": "2026-09-10",
-          "time": "14:00",
-          "version": "VF"
+          "date": "2026-09-16",
+          "time": "20:15",
+          "version": "VO"
         },
         {
-          "date": "2026-09-11",
-          "time": "18:30",
-          "version": "VF"
+          "date": "2026-09-17",
+          "time": "13:45",
+          "version": "VO"
         },
         {
-          "date": "2026-09-12",
-          "time": "13:55",
-          "version": "VF"
+          "date": "2026-09-17",
+          "time": "20:45",
+          "version": "VO"
         },
         {
-          "date": "2026-09-12",
-          "time": "22:10",
-          "version": "VF"
+          "date": "2026-09-18",
+          "time": "17:25",
+          "version": "VO"
         },
         {
-          "date": "2026-09-14",
-          "time": "14:00",
-          "version": "VF"
+          "date": "2026-09-18",
+          "time": "20:25",
+          "version": "VO"
         },
         {
-          "date": "2026-09-14",
-          "time": "17:30",
-          "version": "VF"
+          "date": "2026-09-19",
+          "time": "13:45",
+          "version": "VO"
         },
         {
-          "date": "2026-09-15",
-          "time": "18:05",
-          "version": "VF"
+          "date": "2026-09-19",
+          "time": "19:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "17:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "20:15",
+          "version": "VO"
         }
       ]
     },
@@ -918,132 +897,92 @@
       "detail_url": "https://www.cinefil.com/film/soudain",
       "seances": [
         {
-          "date": "2026-09-09",
-          "time": "15:55",
+          "date": "2026-09-16",
+          "time": "13:45",
           "version": "VO"
         },
         {
-          "date": "2026-09-09",
+          "date": "2026-09-16",
           "time": "19:55",
           "version": "VO"
         },
         {
-          "date": "2026-09-10",
-          "time": "15:55",
+          "date": "2026-09-17",
+          "time": "16:05",
           "version": "VO"
         },
         {
-          "date": "2026-09-11",
-          "time": "13:55",
+          "date": "2026-09-17",
+          "time": "19:55",
           "version": "VO"
         },
         {
-          "date": "2026-09-11",
-          "time": "16:35",
+          "date": "2026-09-18",
+          "time": "13:45",
           "version": "VO"
         },
         {
-          "date": "2026-09-12",
+          "date": "2026-09-18",
+          "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "20:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-20",
           "time": "14:00",
           "version": "VO"
         },
         {
-          "date": "2026-09-12",
-          "time": "16:00",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "20:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-13",
+          "date": "2026-09-21",
           "time": "13:45",
           "version": "VO"
         },
         {
-          "date": "2026-09-13",
-          "time": "15:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-14",
+          "date": "2026-09-21",
           "time": "19:55",
           "version": "VO"
         },
         {
-          "date": "2026-09-15",
-          "time": "15:55",
+          "date": "2026-09-22",
+          "time": "16:15",
           "version": "VO"
         },
         {
-          "date": "2026-09-15",
+          "date": "2026-09-22",
           "time": "19:55",
           "version": "VO"
         }
       ]
     },
     {
-      "title": "The Good Sister",
+      "title": "Teenage Sex and Death at Camp Miasma",
       "year": 2026,
-      "duration_min": 97,
-      "genre": "Drame",
+      "duration_min": 112,
+      "genre": "Horreur",
       "directors": [
-        "Sarah Miro Fischer"
+        "Jane Schoenbrun"
       ],
       "cast": [
-        "Marie Bloching",
-        "Anton Weil",
-        "Proschat Madani"
+        "Hannah Einbinder",
+        "Gillian Anderson",
+        "Amanda Fix"
       ],
-      "synopsis": "Rose est très proche de son frère aîné Sam. Quand une femme l'accuse de viol, on demande à Rose de témoigner dans l'enquête contre lui. Cela met à l'épreuve à la fois leur relation et son intégrité morale.",
-      "poster_url": "posters/1418316.webp",
-      "detail_url": "https://www.cinefil.com/film/the-good-sister",
+      "synopsis": "Un cinéaste queer est embauché pour diriger un nouvel épisode d'une franchise Slasher de longue date. Le réalisateur se fixe sur la perspective de lancer la «dernière fille» du film original, et les deux femmes entrent dans une frénésie de manie psychosexuelle.",
+      "poster_url": "posters/1421905.webp",
+      "detail_url": "https://www.cinefil.com/film/teenage-sex-and-death-at-camp-miasma",
       "seances": [
         {
-          "date": "2026-09-10",
-          "time": "18:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-11",
-          "time": "18:10",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-11",
-          "time": "22:25",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "18:20",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "18:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "14:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "18:35",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-15",
-          "time": "18:50",
+          "date": "2026-09-17",
+          "time": "21:00",
           "version": "VO"
         }
       ]
@@ -1066,73 +1005,33 @@
       "detail_url": "https://www.cinefil.com/film/trois-adieux",
       "seances": [
         {
-          "date": "2026-09-09",
-          "time": "13:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-09",
-          "time": "17:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-10",
-          "time": "13:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-10",
+          "date": "2026-09-16",
           "time": "18:15",
           "version": "VO"
         },
         {
-          "date": "2026-09-11",
-          "time": "13:55",
+          "date": "2026-09-17",
+          "time": "13:45",
           "version": "VO"
         },
         {
-          "date": "2026-09-11",
-          "time": "20:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "13:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "18:00",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "13:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-13",
-          "time": "20:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "13:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-14",
-          "time": "16:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-15",
-          "time": "13:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-09-15",
+          "date": "2026-09-18",
           "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "14:00",
           "version": "VO"
         }
       ]
