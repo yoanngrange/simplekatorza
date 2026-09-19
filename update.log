@@ -255,3 +255,176 @@ To github.com:yoanngrange/simplekatorza.git
 ✓ Poussé sur GitHub
 ✓ Marqueur mis à jour (2026-08-20)
 === Terminé ===
+
+=== 2026-08-26 07:00:00 (dernier succès: 2026-08-20, dernier mercredi: 2026-08-26) ===
+→ Scraping…
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+→ 16 bloc(s) film détecté(s)
+→ 7 jour(s) mappé(s) : {'Mercredi': '2026-08-26', 'Jeudi': '2026-08-27', 'Vendredi': '2026-08-28', 'Samedi': '2026-08-29', 'Dimanche': '2026-08-30', 'Lundi': '2026-08-31', 'Mardi': '2026-09-01'}
+  ↓ 1432337.webp (18 KB)
+  ↓ 1441726.webp (24 KB)
+  ↓ 1418314.webp (11 KB)
+  ↓ 1256816.webp (20 KB)
+  + synopsis récupéré depuis la fiche : L’inconnue
+  + synopsis récupéré depuis la fiche : Fjord
+  + synopsis récupéré depuis la fiche : Dégel
+  + synopsis récupéré depuis la fiche : Soudain
+  + synopsis récupéré depuis la fiche : De la Comédie-Française
+  + synopsis récupéré depuis la fiche : L'Odyssée
+  + synopsis récupéré depuis la fiche : La Fille Condor
+  + synopsis récupéré depuis la fiche : Le Secret des mésanges
+  + synopsis récupéré depuis la fiche : The Last Viking
+  + synopsis récupéré depuis la fiche : Paradise
+  + synopsis récupéré depuis la fiche : Chicas tristes
+  + synopsis récupéré depuis la fiche : Une affaire turque
+  + synopsis récupéré depuis la fiche : La Providence et la Guitare
+✓ 16 film(s), 149 séance(s), 15/16 affiche(s) → /Users/yoann/Gits/simplekatorza/programme.json
+  · Chicas tristes (2026, 90min, Drame) — 5 séance(s)
+  · De la Comédie-Française (2026, 75min, Comédie) — 11 séance(s)
+  · Decorado (2018, 7min, Animation) — 15 séance(s)
+  · … (13 autres)
+→ 16 film(s) dans programme.json
+→ Changements détectés, commit + push
+[main 74a3653] MAJ programme 2026-08-26
+ 5 files changed, 536 insertions(+), 500 deletions(-)
+ create mode 100644 posters/1256816.webp
+ create mode 100644 posters/1418314.webp
+ create mode 100644 posters/1432337.webp
+ create mode 100644 posters/1441726.webp
+To github.com:yoanngrange/simplekatorza.git
+   06e0496..74a3653  main -> main
+✓ Poussé sur GitHub
+✓ Marqueur mis à jour (2026-08-26)
+=== Terminé ===
+
+=== 2026-09-02 10:30:00 (dernier succès: 2026-08-26, dernier mercredi: 2026-09-02) ===
+→ Scraping…
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+→ 14 bloc(s) film détecté(s)
+→ 7 jour(s) mappé(s) : {'Mercredi': '2026-09-02', 'Jeudi': '2026-09-03', 'Vendredi': '2026-09-04', 'Samedi': '2026-09-05', 'Dimanche': '2026-09-06', 'Lundi': '2026-09-07', 'Mardi': '2026-09-08'}
+  ↓ 1436994.webp (21 KB)
+  ↓ 1436992.webp (22 KB)
+  ↓ 1418316.webp (19 KB)
+  ↓ 1436989.webp (19 KB)
+  ↓ 1460232.webp (18 KB)
+  ↓ 1272555.webp (18 KB)
+  ↓ 1397671.webp (11 KB)
+  + synopsis récupéré depuis la fiche : Fjord
+  + synopsis récupéré depuis la fiche : L’inconnue
+  + synopsis récupéré depuis la fiche : Trois adieux
+  + synopsis récupéré depuis la fiche : Soudain
+  + synopsis récupéré depuis la fiche : La frappe
+  + synopsis récupéré depuis la fiche : The Good Sister
+  + synopsis récupéré depuis la fiche : De la Comédie-Française
+  + synopsis récupéré depuis la fiche : Salvation
+  + synopsis récupéré depuis la fiche : Dégel
+  + synopsis récupéré depuis la fiche : L'Odyssée
+  + synopsis récupéré depuis la fiche : Face à la mer
+  + synopsis récupéré depuis la fiche : L’Ourse Et L’Oiseau
+  + synopsis récupéré depuis la fiche : Histoires de la nuit
+✓ 14 film(s), 158 séance(s), 14/14 affiche(s) → /Users/yoann/Gits/simplekatorza/programme.json
+  · De la Comédie-Française (2026, 75min, Comédie) — 12 séance(s)
+  · Decorado (2026, 95min, Animation) — 5 séance(s)
+  · Dégel (2026, 100min, Drame) — 10 séance(s)
+  · … (11 autres)
+→ 14 film(s) dans programme.json
+→ Changements détectés, commit + push
+[main 0989dfc] MAJ programme 2026-09-02
+ 8 files changed, 509 insertions(+), 490 deletions(-)
+ create mode 100644 posters/1272555.webp
+ create mode 100644 posters/1397671.webp
+ create mode 100644 posters/1418316.webp
+ create mode 100644 posters/1436989.webp
+ create mode 100644 posters/1436992.webp
+ create mode 100644 posters/1436994.webp
+ create mode 100644 posters/1460232.webp
+To github.com:yoanngrange/simplekatorza.git
+   74a3653..0989dfc  main -> main
+✓ Poussé sur GitHub
+✓ Marqueur mis à jour (2026-09-02)
+=== Terminé ===
+
+=== 2026-09-09 09:30:00 (dernier succès: 2026-09-02, dernier mercredi: 2026-09-09) ===
+→ Scraping…
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+→ 15 bloc(s) film détecté(s)
+→ 7 jour(s) mappé(s) : {'Mercredi': '2026-09-09', 'Jeudi': '2026-09-10', 'Vendredi': '2026-09-11', 'Samedi': '2026-09-12', 'Dimanche': '2026-09-13', 'Lundi': '2026-09-14', 'Mardi': '2026-09-15'}
+  ↓ 1436143.webp (18 KB)
+  ↓ 1438341.webp (23 KB)
+  ↓ 1441319.webp (18 KB)
+  ↓ 1270390.webp (16 KB)
+  ↓ 1453924.webp (17 KB)
+  ↓ 1221939.webp (25 KB)
+  + synopsis récupéré depuis la fiche : La vie d'une femme
+  + synopsis récupéré depuis la fiche : Fjord
+  + synopsis récupéré depuis la fiche : La frappe
+  + synopsis récupéré depuis la fiche : Adieu monde cruel
+  + synopsis récupéré depuis la fiche : Rose
+  + synopsis récupéré depuis la fiche : Trois adieux
+  + synopsis récupéré depuis la fiche : Soudain
+  + synopsis récupéré depuis la fiche : De la Comédie-Française
+  + synopsis récupéré depuis la fiche : L’inconnue
+  + synopsis récupéré depuis la fiche : Salvation
+  + synopsis récupéré depuis la fiche : The Good Sister
+  + synopsis récupéré depuis la fiche : Dégel
+  + synopsis récupéré depuis la fiche : La Grande rêvasion
+  + synopsis récupéré depuis la fiche : Notre salut
+  + synopsis récupéré depuis la fiche : Nous voilà grands !
+✓ 15 film(s), 170 séance(s), 15/15 affiche(s) → /Users/yoann/Gits/simplekatorza/programme.json
+  · Adieu monde cruel (2026, 93min, Drame) — 16 séance(s)
+  · De la Comédie-Française (2026, 75min, Comédie) — 12 séance(s)
+  · Dégel (2026, 100min, Drame) — 7 séance(s)
+  · … (12 autres)
+→ 15 film(s) dans programme.json
+→ Changements détectés, commit + push
+[main 7eeb2bf] MAJ programme 2026-09-09
+ 7 files changed, 565 insertions(+), 490 deletions(-)
+ create mode 100644 posters/1221939.webp
+ create mode 100644 posters/1270390.webp
+ create mode 100644 posters/1436143.webp
+ create mode 100644 posters/1438341.webp
+ create mode 100644 posters/1441319.webp
+ create mode 100644 posters/1453924.webp
+To github.com:yoanngrange/simplekatorza.git
+   0989dfc..7eeb2bf  main -> main
+✓ Poussé sur GitHub
+✓ Marqueur mis à jour (2026-09-09)
+=== Terminé ===
+
+=== 2026-09-16 09:30:00 (dernier succès: 2026-09-09, dernier mercredi: 2026-09-16) ===
+→ Scraping…
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+→ 13 bloc(s) film détecté(s)
+→ 7 jour(s) mappé(s) : {'Mercredi': '2026-09-16', 'Jeudi': '2026-09-17', 'Vendredi': '2026-09-18', 'Samedi': '2026-09-19', 'Dimanche': '2026-09-20', 'Lundi': '2026-09-21', 'Mardi': '2026-09-22'}
+  ↓ 1421727.webp (12 KB)
+  ↓ 1421730.webp (27 KB)
+  ↓ 1421905.webp (19 KB)
+  + synopsis récupéré depuis la fiche : La vie d'une femme
+  + synopsis récupéré depuis la fiche : Histoires de la nuit
+  + synopsis récupéré depuis la fiche : Fjord
+  + synopsis récupéré depuis la fiche : Rose
+  + synopsis récupéré depuis la fiche : Sham
+  + synopsis récupéré depuis la fiche : Soudain
+  + synopsis récupéré depuis la fiche : Adieu monde cruel
+  + synopsis récupéré depuis la fiche : La frappe
+  + synopsis récupéré depuis la fiche : De la Comédie-Française
+  + synopsis récupéré depuis la fiche : Ma famille de samouraïs
+  + synopsis récupéré depuis la fiche : Trois adieux
+  + synopsis récupéré depuis la fiche : L’inconnue
+✓ 13 film(s), 156 séance(s), 13/13 affiche(s) → /Users/yoann/Gits/simplekatorza/programme.json
+  · Adieu monde cruel (2026, 93min, Drame) — 13 séance(s)
+  · De la Comédie-Française (2026, 75min, Comédie) — 10 séance(s)
+  · Fjord (2026, 146min, Drame) — 20 séance(s)
+  · … (10 autres)
+→ 13 film(s) dans programme.json
+→ Changements détectés, commit + push
+[main 7720020] MAJ programme 2026-09-16
+ 4 files changed, 417 insertions(+), 518 deletions(-)
+ create mode 100644 posters/1421727.webp
+ create mode 100644 posters/1421730.webp
+ create mode 100644 posters/1421905.webp
+To github.com:yoanngrange/simplekatorza.git
+   7eeb2bf..7720020  main -> main
+✓ Poussé sur GitHub
+✓ Marqueur mis à jour (2026-09-16)
+=== Terminé ===
