@@ -28,6 +28,10 @@ jobs:
           fi
           echo "proceed=$proceed" >> "$GITHUB_OUTPUT"
 
+      - name: Checkout
+        if: steps.check.outputs.proceed == 'true'
+        uses: actions/checkout@v4
+
       - name: Send weekly traffic recap
         if: steps.check.outputs.proceed == 'true'
         env:
