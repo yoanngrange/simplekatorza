@@ -74,6 +74,22 @@ def fetch_pageviews(start, end):
     }
     data = cf_graphql(query, variables)
     print(f"DEBUG raw Cloudflare response: {json.dumps(data)}", file=sys.stderr)
+
+    # DEBUG: same siteTag, no datetime filter at all, wide-open limit
+    debug_query = """
+    query($accountTag: string!, $siteTag: string!) {
+      viewer {
+        accounts(filter: {accountTag: $accountTag}) {
+          anytime: rumPageloadEventsAdaptiveGroups(limit: 5, filter: {siteTag: $siteTag}) {
+            count
+          }
+        }
+      }
+    }
+    """
+    debug_data = cf_graphql(debug_query, {"accountTag": CF_ACCOUNT_ID, "siteTag": CF_SITE_TAG})
+    print(f"DEBUG no-datetime-filter response: {json.dumps(debug_data)}", file=sys.stderr)
+
     if data.get("errors"):
         raise RuntimeError(f"Cloudflare GraphQL error: {data['errors']}")
     accounts = data["data"]["viewer"]["accounts"]
