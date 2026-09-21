@@ -8,7 +8,12 @@ on:
   schedule:
     - cron: '0 6 * * 1' # Monday 08:00 CEST (UTC+2, ~late March-late October)
     - cron: '0 7 * * 1' # Monday 08:00 CET  (UTC+1, ~late October-late March)
-  workflow_dispatch: {} # manual "Run workflow" button, always proceeds
+  workflow_dispatch: # manual "Run workflow" button, always proceeds
+    inputs:
+      period_start:
+        description: 'Optional: ISO8601 UTC start of a custom period (e.g. 2026-09-20T22:00:00Z) instead of the default last-7-days'
+        required: false
+        type: string
 
 jobs:
   recap:
@@ -42,4 +47,5 @@ jobs:
           REPORT_EMAIL_TO: 'yoann.grange@gmail.com'
           REPORT_EMAIL_FROM: 'simplekatorza.com Reports <simplekatorza-reports@yoanngrange.com>'
           SITE_NAME: 'simplekatorza.com'
+          PERIOD_START: ${{ github.event.inputs.period_start }}
         run: python3 scripts/weekly_traffic_recap.py

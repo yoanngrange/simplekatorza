@@ -18,6 +18,7 @@ RESEND_API_KEY = os.environ["RESEND_API_KEY"]
 REPORT_EMAIL_TO = os.environ.get("REPORT_EMAIL_TO", "yoann.grange@gmail.com")
 REPORT_EMAIL_FROM = os.environ.get("REPORT_EMAIL_FROM", "Simplekatorza Reports <reports@basic-map.com>")
 SITE_NAME = os.environ.get("SITE_NAME", "simplekatorza.com")
+PERIOD_START_OVERRIDE = os.environ.get("PERIOD_START")  # optional ISO8601 UTC, e.g. 2026-09-20T22:00:00Z
 
 
 def cf_graphql(query, variables):
@@ -112,21 +113,29 @@ def send_email(subject, text_body):
 
 
 def build_recap_body():
-    this_start, this_end = week_bounds(0)
+    if PERIOD_START_OVERRIDE:
+        this_start = PERIOD_START_OVERRIDE
+        this_end = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        period_label = f"{SITE_NAME} — since {this_start}"
+    else:
+        this_start, this_end = week_bounds(0)
+        period_label = f"{SITE_NAME} — last 7 days"
+
     total_this_week, top_pages = fetch_pageviews(this_start, this_end)
 
-    lines = [f"{SITE_NAME} — last 7 days", "", f"Total pageviews: {total_this_week}"]
+    lines = [period_label, "", f"Total pageviews: {total_this_week}"]
 
-    try:
-        prev_start, prev_end = week_bounds(1)
-        total_prev_week, _ = fetch_pageviews(prev_start, prev_end)
-        if total_prev_week:
-            delta = total_this_week - total_prev_week
-            pct = round(100 * delta / total_prev_week)
-            sign = "+" if delta >= 0 else ""
-            lines.append(f"Vs previous week: {sign}{delta} ({sign}{pct}%)")
-    except Exception:
-        pass  # week-over-week comparison is a nice-to-have, not worth failing the run over
+    if not PERIOD_START_OVERRIDE:
+        try:
+            prev_start, prev_end = week_bounds(1)
+            total_prev_week, _ = fetch_pageviews(prev_start, prev_end)
+            if total_prev_week:
+                delta = total_this_week - total_prev_week
+                pct = round(100 * delta / total_prev_week)
+                sign = "+" if delta >= 0 else ""
+                lines.append(f"Vs previous week: {sign}{delta} ({sign}{pct}%)")
+        except Exception:
+            pass  # week-over-week comparison is a nice-to-have, not worth failing the run over
 
     if len(top_pages) > 1:
         lines.append("")
@@ -139,6 +148,8 @@ def build_recap_body():
 
 def main():
     subject = f"{SITE_NAME} — weekly traffic recap"
+    if PERIOD_START_OVERRIDE:
+        subject += f" (since {PERIOD_START_OVERRIDE})"
     try:
         body = build_recap_body()
     except Exception as exc:
