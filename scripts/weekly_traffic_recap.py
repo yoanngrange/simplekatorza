@@ -100,6 +100,7 @@ def send_email(subject, text_body):
         headers={
             "Authorization": f"Bearer {RESEND_API_KEY}",
             "Content-Type": "application/json",
+            "User-Agent": "weekly-traffic-recap/1.0",
         },
         method="POST",
     )
