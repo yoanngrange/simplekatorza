@@ -40,5 +40,6 @@ jobs:
           CF_SITE_TAG: '590f0fcd123144b2a4e3f74b4ce1d3d0'
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           REPORT_EMAIL_TO: 'yoann.grange@gmail.com'
+          REPORT_EMAIL_FROM: 'simplekatorza.com Reports <simplekatorza-reports@basic-map.com>'
           SITE_NAME: 'simplekatorza.com'
         run: python3 scripts/weekly_traffic_recap.py
