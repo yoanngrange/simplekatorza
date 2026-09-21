@@ -73,6 +73,7 @@ def fetch_pageviews(start, end):
         "end": end,
     }
     data = cf_graphql(query, variables)
+    print(f"DEBUG raw Cloudflare response: {json.dumps(data)}", file=sys.stderr)
     if data.get("errors"):
         raise RuntimeError(f"Cloudflare GraphQL error: {data['errors']}")
     accounts = data["data"]["viewer"]["accounts"]
