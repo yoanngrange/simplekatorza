@@ -42,7 +42,7 @@ jobs:
         env:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           CF_ACCOUNT_ID: '153303233ced3d9f02ed7d8345a10ed9'
-          CF_SITE_TAG: '590f0fcd123144b2a4e3f74b4ce1d3d0'
+          CF_SITE_TAG: '0f653fa4e543488c97757842c7603797'
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           REPORT_EMAIL_TO: 'yoann.grange@gmail.com'
           REPORT_EMAIL_FROM: 'simplekatorza.com Reports <simplekatorza-reports@yoanngrange.com>'
