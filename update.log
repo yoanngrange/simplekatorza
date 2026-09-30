@@ -428,3 +428,50 @@ To github.com:yoanngrange/simplekatorza.git
 ✓ Poussé sur GitHub
 ✓ Marqueur mis à jour (2026-09-16)
 === Terminé ===
+
+=== 2026-09-23 12:00:00 (dernier succès: 2026-09-16, dernier mercredi: 2026-09-23) ===
+→ Scraping…
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+→ 15 bloc(s) film détecté(s)
+→ 7 jour(s) mappé(s) : {'Mercredi': '2026-09-23', 'Jeudi': '2026-09-24', 'Vendredi': '2026-09-25', 'Samedi': '2026-09-26', 'Dimanche': '2026-09-27', 'Lundi': '2026-09-28', 'Mardi': '2026-09-29'}
+  ↓ 1436148.webp (14 KB)
+  ↓ 1443878.webp (19 KB)
+  ↓ 1412715.webp (16 KB)
+  ↓ 1443877.webp (11 KB)
+  ↓ 1425573.webp (26 KB)
+  ↓ 1452795.webp (23 KB)
+  + synopsis récupéré depuis la fiche : Garance
+  + synopsis récupéré depuis la fiche : La vie d'une femme
+  + synopsis récupéré depuis la fiche : Histoires de la nuit
+  + synopsis récupéré depuis la fiche : Les Éléphants dans la brume
+  + synopsis récupéré depuis la fiche : Les Roches Rouges
+  + synopsis récupéré depuis la fiche : Her Private Hell
+  + synopsis récupéré depuis la fiche : Fjord
+  + synopsis récupéré depuis la fiche : Rose
+  + synopsis récupéré depuis la fiche : De la Comédie-Française
+  + synopsis récupéré depuis la fiche : Sham
+  + synopsis récupéré depuis la fiche : Adieu monde cruel
+  + synopsis récupéré depuis la fiche : Soudain
+  + synopsis récupéré depuis la fiche : Un amour d'épouvantail
+  + synopsis récupéré depuis la fiche : Ma famille de samouraïs
+  + synopsis récupéré depuis la fiche : Digger
+✓ 15 film(s), 169 séance(s), 15/15 affiche(s) → /Users/yoann/Gits/simplekatorza/programme.json
+  · Adieu monde cruel (2026, 93min, Drame) — 7 séance(s)
+  · De la Comédie-Française (2026, 75min, Comédie) — 7 séance(s)
+  · Digger (2026, 106min, Comédie) — 1 séance(s)
+  · … (12 autres)
+→ 15 film(s) dans programme.json
+→ Changements détectés, commit + push
+[main 9580a2c] MAJ programme 2026-09-23
+ 7 files changed, 583 insertions(+), 479 deletions(-)
+ create mode 100644 posters/1412715.webp
+ create mode 100644 posters/1425573.webp
+ create mode 100644 posters/1436148.webp
+ create mode 100644 posters/1443877.webp
+ create mode 100644 posters/1443878.webp
+ create mode 100644 posters/1452795.webp
+To github.com:yoanngrange/simplekatorza.git
+   1241c0b..9580a2c  main -> main
+✓ Poussé sur GitHub
+✓ Marqueur mis à jour (2026-09-23)
+=== Terminé ===
