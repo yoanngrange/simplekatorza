@@ -30,120 +30,6 @@
   <link rel="dns-prefetch" href="https://imasdk.googleapis.com">
     <!-- End DNS Prefetch -->
 
-  <!-- Google Tag Manager -->
-  <script>
-    (function(w, d, s, l, i) {
-      w[l] = w[l] || [];
-      w[l].push({
-        'gtm.start': new Date().getTime(),
-        event: 'gtm.js'
-      });
-      var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
-      j.async = true;
-      j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-      f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-TWXLDX4');
-  </script>
-  <!-- End Google Tag Manager -->
-  <!-- Gtag -->
-  <script>
-    window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-
-    gtag("consent", "default", {
-      ad_storage: "denied",
-      ad_user_data: "denied",
-      ad_personalization: "denied",
-      analytics_storage: "granted",
-      functionality_storage: "granted",
-      personalization_storage: "denied",
-      security_storage: "granted",
-      wait_for_update: 2000,
-    });
-
-    gtag("set", "ads_data_redaction", true);
-    gtag("set", "url_passthrough", true);
-  </script>
-  <!-- End Gtag -->
-  <script>
-  /*
-   * Consent Mode v2 bridge: TCF (Google Funding Choices CMP) -> gtag.
-   *
-   * The CMP shows the banner and writes the IAB TC string, but it does NOT
-   * call gtag('consent','update',...) on its own. Without this bridge the
-   * three ad signals stay "denied" (the default set just above) even after a
-   * visitor clicks "Autoriser", so consenting traffic is served as if it had
-   * refused. This listener maps TCF purpose/vendor consent onto the ad
-   * signals so granted users get full-value (personalised) ads.
-   *
-   * Runs inline in <head> so updates land inside the wait_for_update window
-   * and before the deferred all.js. Only the three AD signals are touched;
-   * analytics_storage keeps its default (granted) and is left untouched.
-   *
-   * Mapping (Google TCF v2 <-> Consent Mode reference):
-   *   ad_storage         <- Purpose 1            + Google vendor (755)
-   *   ad_user_data       <- Purpose 1 + Purpose 7 + Google vendor (755)
-   *   ad_personalization <- Purpose 3 + Purpose 4 + Google vendor (755)
-   */
-  (function () {
-    var GOOGLE_VENDOR_ID = 755;
-
-    function applyConsent(tcData) {
-      var grantAll = tcData.gdprApplies === false;
-
-      var p = (tcData.purpose && tcData.purpose.consents) || {};
-      var v = (tcData.vendor && tcData.vendor.consents) || {};
-      var google = !!v[GOOGLE_VENDOR_ID];
-
-      function decide(ok) {
-        return (grantAll || ok) ? 'granted' : 'denied';
-      }
-
-      gtag('consent', 'update', {
-        ad_storage:         decide(p[1] && google),
-        ad_user_data:       decide(p[1] && p[7] && google),
-        ad_personalization: decide(p[3] && p[4] && google),
-      });
-    }
-
-    function register() {
-      window.__tcfapi('addEventListener', 2, function (tcData, success) {
-        if (!success || !tcData) {
-          return;
-        }
-        // Only act once the CMP has a usable state (stored consent on load,
-        // or a fresh user choice). Ignore intermediate cmpuishown events.
-        if (tcData.eventStatus !== 'tcloaded' &&
-            tcData.eventStatus !== 'useractioncomplete') {
-          return;
-        }
-        applyConsent(tcData);
-      });
-    }
-
-    // The Funding Choices stub (__tcfapi) is installed by adsbygoogle.js, which
-    // loads async near </body> — after this head script. Wait for it.
-    if (typeof window.__tcfapi === 'function') {
-      register();
-    } else {
-      var tries = 0;
-      var iv = window.setInterval(function () {
-        if (typeof window.__tcfapi === 'function') {
-          window.clearInterval(iv);
-          register();
-        } else if (++tries > 100) { // ~10s safety cap
-          window.clearInterval(iv);
-        }
-      }, 100);
-    }
-  })();
-</script>
   <script>
   function afterNextPaint(next, ...params) {
     return window.requestAnimationFrame(() => setTimeout(next, 0, ...params));
@@ -168,10 +54,6 @@
 
 
 <body data-bs-no-jquery>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWXLDX4" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
   <div id="fb-root"></div>
 
   <nav id="navbar-top" class="navbar navbar-dark bg-dark py-0 d-none d-lg-block">
