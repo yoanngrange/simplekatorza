@@ -475,3 +475,99 @@ To github.com:yoanngrange/simplekatorza.git
 ✓ Poussé sur GitHub
 ✓ Marqueur mis à jour (2026-09-23)
 === Terminé ===
+
+=== 2026-09-30 07:30:00 (dernier succès: 2026-09-23, dernier mercredi: 2026-09-30) ===
+→ Scraping…
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+→ 13 bloc(s) film détecté(s)
+→ 7 jour(s) mappé(s) : {'Mercredi': '2026-09-30', 'Jeudi': '2026-10-01', 'Vendredi': '2026-10-02', 'Samedi': '2026-10-03', 'Dimanche': '2026-10-04', 'Lundi': '2026-10-05', 'Mardi': '2026-10-06'}
+  ↓ 1452798.webp (12 KB)
+  ↓ 1441757.webp (17 KB)
+  + synopsis récupéré depuis la fiche : Digger
+  + synopsis récupéré depuis la fiche : Garance
+  + synopsis récupéré depuis la fiche : Notre salut
+  + synopsis récupéré depuis la fiche : Mémoire de fille
+  + synopsis récupéré depuis la fiche : La vie d'une femme
+  + synopsis récupéré depuis la fiche : Fjord
+  + synopsis récupéré depuis la fiche : Les Éléphants dans la brume
+  + synopsis récupéré depuis la fiche : Les Roches Rouges
+  + synopsis récupéré depuis la fiche : Histoires de la nuit
+  + synopsis récupéré depuis la fiche : De la Comédie-Française
+  + synopsis récupéré depuis la fiche : Her Private Hell
+  + synopsis récupéré depuis la fiche : Un amour d'épouvantail
+  + synopsis récupéré depuis la fiche : Sanguine
+✓ 13 film(s), 170 séance(s), 13/13 affiche(s) → /Users/yoann/Gits/simplekatorza/programme.json
+  · De la Comédie-Française (2026, 75min, Comédie) — 8 séance(s)
+  · Digger (2026, 106min, Comédie) — 24 séance(s)
+  · Fjord (2026, 146min, Drame) — 14 séance(s)
+  · … (10 autres)
+→ 13 film(s) dans programme.json
+→ Changements détectés, commit + push
+[main 58e4c62] MAJ programme 2026-09-30
+ 4 files changed, 562 insertions(+), 548 deletions(-)
+ create mode 100644 posters/1441757.webp
+ create mode 100644 posters/1452798.webp
+To github.com:yoanngrange/simplekatorza.git
+   9580a2c..58e4c62  main -> main
+✓ Poussé sur GitHub
+✓ Marqueur mis à jour (2026-09-30)
+=== Terminé ===
+
+=== 2026-10-07 09:00:01 (dernier succès: 2026-09-30, dernier mercredi: 2026-10-07) ===
+→ Scraping…
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+→ 21 bloc(s) film détecté(s)
+→ 7 jour(s) mappé(s) : {'Mercredi': '2026-10-07', 'Jeudi': '2026-10-08', 'Vendredi': '2026-10-09', 'Samedi': '2026-10-10', 'Dimanche': '2026-10-11', 'Lundi': '2026-10-12', 'Mardi': '2026-10-13'}
+  ↓ 1443686.webp (19 KB)
+  ↓ 1411780.webp (33 KB)
+  ↓ 1473130.webp (23 KB)
+  ↓ 1433832.webp (31 KB)
+  ↓ 1484034.webp (19 KB)
+  ↓ 1114253.webp (18 KB)
+  ↓ 220064.webp (21 KB)
+  ↓ 1262391.webp (8 KB)
+  ↓ 179732.webp (23 KB)
+  ↓ 213367.webp (19 KB)
+  ↓ 1092947.webp (7 KB)
+  ↓ 1513534.webp (25 KB)
+  + synopsis récupéré depuis la fiche : Garance
+  + synopsis récupéré depuis la fiche : Digger
+  + synopsis récupéré depuis la fiche : Ni vue, ni connue
+  + synopsis récupéré depuis la fiche : Notre salut
+  + synopsis récupéré depuis la fiche : L'Espèce explosive
+  + synopsis récupéré depuis la fiche : Butterfly Jam
+  + synopsis récupéré depuis la fiche : Les Éléphants dans la brume
+  + synopsis récupéré depuis la fiche : La vie d'une femme
+  + synopsis récupéré depuis la fiche : Mémoire de fille
+  + synopsis récupéré depuis la fiche : Fjord
+  + synopsis récupéré depuis la fiche : Les Roches Rouges
+  + synopsis récupéré depuis la fiche : Doraemon et le Château sous-marin
+  + synopsis récupéré depuis la fiche : Hope
+  + synopsis récupéré depuis la fiche : RRR
+  + synopsis récupéré depuis la fiche : La Gradiva
+✓ 21 film(s), 165 séance(s), 21/21 affiche(s) → /Users/yoann/Gits/simplekatorza/programme.json
+  · Belladonna (1973, 86min, Animation) — 1 séance(s)
+  · Butterfly Jam (2026, 102min, Drame) — 14 séance(s)
+  · Digger (2026, 106min, Comédie) — 23 séance(s)
+  · … (18 autres)
+→ 21 film(s) dans programme.json
+→ Changements détectés, commit + push
+[main d17ac3f] MAJ programme 2026-10-07
+ 13 files changed, 614 insertions(+), 489 deletions(-)
+ create mode 100644 posters/1092947.webp
+ create mode 100644 posters/1114253.webp
+ create mode 100644 posters/1262391.webp
+ create mode 100644 posters/1411780.webp
+ create mode 100644 posters/1433832.webp
+ create mode 100644 posters/1443686.webp
+ create mode 100644 posters/1473130.webp
+ create mode 100644 posters/1484034.webp
+ create mode 100644 posters/1513534.webp
+ create mode 100644 posters/179732.webp
+ create mode 100644 posters/213367.webp
+ create mode 100644 posters/220064.webp
+To github.com:yoanngrange/simplekatorza.git
+   205c06b..d17ac3f  main -> main
+✓ Poussé sur GitHub
+✓ Marqueur mis à jour (2026-10-07)
+=== Terminé ===
