@@ -6,32 +6,8 @@
     "billetterie_url": "https://www.katorza.fr/katorza/alaffiche/katorza"
   },
   "source": "https://www.cinefil.com/cinema/le-katorza-nantes/programmation",
-  "scraped_at": "2026-10-07T09:00:07+02:00",
+  "scraped_at": "2026-10-14T09:00:05+02:00",
   "films": [
-    {
-      "title": "Belladonna",
-      "year": 1973,
-      "duration_min": 86,
-      "genre": "Animation",
-      "directors": [
-        "Eiichi Yamamoto"
-      ],
-      "cast": [
-        "Aiko Nagayama",
-        "Takao Ito",
-        "Tatsuya Nakadai"
-      ],
-      "synopsis": "Au XIVe siècle, en France, Jeanne, une jolie paysanne, est violée par son seigneur le soir même de ses noces avec celui qu’elle aime, Jean. C’est le début d’une longue suite d’avanies, qui vont la pousser à devenir sorcière sous le nom de Belladonna, avant de tomber dans les griffes de l’Inquisition…",
-      "poster_url": "posters/1114253.webp",
-      "detail_url": "https://www.cinefil.com/film/belladonna",
-      "seances": [
-        {
-          "date": "2026-10-10",
-          "time": "18:00",
-          "version": "VO"
-        }
-      ]
-    },
     {
       "title": "Butterfly Jam",
       "year": 2026,
@@ -50,73 +26,28 @@
       "detail_url": "https://www.cinefil.com/film/butterfly-jam",
       "seances": [
         {
-          "date": "2026-10-07",
-          "time": "15:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "20:35",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-08",
-          "time": "13:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-08",
+          "date": "2026-10-15",
           "time": "18:25",
           "version": "VO"
         },
         {
-          "date": "2026-10-09",
-          "time": "15:55",
+          "date": "2026-10-16",
+          "time": "18:35",
           "version": "VO"
         },
         {
-          "date": "2026-10-09",
-          "time": "20:00",
+          "date": "2026-10-17",
+          "time": "18:30",
           "version": "VO"
         },
         {
-          "date": "2026-10-10",
-          "time": "13:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-10",
+          "date": "2026-10-18",
           "time": "18:15",
           "version": "VO"
         },
         {
-          "date": "2026-10-11",
-          "time": "16:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "20:35",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-12",
-          "time": "13:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-12",
-          "time": "18:40",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-13",
-          "time": "16:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-13",
-          "time": "20:35",
+          "date": "2026-10-19",
+          "time": "18:20",
           "version": "VO"
         }
       ]
@@ -139,118 +70,78 @@
       "detail_url": "https://www.cinefil.com/film/digger-2026",
       "seances": [
         {
-          "date": "2026-10-07",
-          "time": "13:45",
+          "date": "2026-10-14",
+          "time": "18:15",
           "version": "VO"
         },
         {
-          "date": "2026-10-07",
-          "time": "16:10",
+          "date": "2026-10-15",
+          "time": "15:55",
           "version": "VO"
         },
         {
-          "date": "2026-10-07",
+          "date": "2026-10-15",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "22:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "18:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-17",
           "time": "20:55",
           "version": "VO"
         },
         {
-          "date": "2026-10-08",
-          "time": "13:45",
+          "date": "2026-10-17",
+          "time": "22:00",
           "version": "VO"
         },
         {
-          "date": "2026-10-08",
-          "time": "16:15",
+          "date": "2026-10-18",
+          "time": "13:55",
           "version": "VO"
         },
         {
-          "date": "2026-10-08",
-          "time": "21:00",
+          "date": "2026-10-18",
+          "time": "18:25",
           "version": "VO"
         },
         {
-          "date": "2026-10-09",
-          "time": "13:45",
+          "date": "2026-10-18",
+          "time": "20:25",
           "version": "VO"
         },
         {
-          "date": "2026-10-09",
-          "time": "16:15",
+          "date": "2026-10-19",
+          "time": "15:55",
           "version": "VO"
         },
         {
-          "date": "2026-10-09",
-          "time": "21:00",
+          "date": "2026-10-19",
+          "time": "20:25",
           "version": "VO"
         },
         {
-          "date": "2026-10-09",
-          "time": "22:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "17:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "20:00",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "22:35",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "16:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "20:35",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-12",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-12",
-          "time": "16:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-12",
-          "time": "20:35",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-13",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-13",
-          "time": "16:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-13",
-          "time": "21:00",
+          "date": "2026-10-20",
+          "time": "20:45",
           "version": "VO"
         }
       ]
@@ -273,68 +164,19 @@
       "detail_url": "https://www.cinefil.com/film/doraemon-et-le-chateau-sous-marin",
       "seances": [
         {
-          "date": "2026-10-07",
-          "time": "14:30",
+          "date": "2026-10-18",
+          "time": "11:00",
           "version": "VF"
         },
         {
-          "date": "2026-10-10",
-          "time": "14:00",
+          "date": "2026-10-19",
+          "time": "11:00",
           "version": "VF"
         },
         {
-          "date": "2026-10-11",
-          "time": "14:00",
+          "date": "2026-10-20",
+          "time": "11:00",
           "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "Fjord",
-      "year": 2026,
-      "duration_min": 146,
-      "genre": "Drame",
-      "directors": [
-        "Cristian Mungiu"
-      ],
-      "cast": [
-        "Sebastian Stan",
-        "Renate Reinsve",
-        "Lisa Carlehed"
-      ],
-      "synopsis": "Les Gheorghiu, un couple roumano-norvégien très pieux, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins, les Halberg. Les enfants des deux familles deviennent très proches, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia, l’aînée des enfants Gheorghiu, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.",
-      "poster_url": "posters/1409876.webp",
-      "detail_url": "https://www.cinefil.com/film/fjord",
-      "seances": [
-        {
-          "date": "2026-10-07",
-          "time": "16:00",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-08",
-          "time": "13:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-09",
-          "time": "15:35",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "10:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-12",
-          "time": "13:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-13",
-          "time": "16:00",
-          "version": "VO"
         }
       ]
     },
@@ -356,177 +198,114 @@
       "detail_url": "https://www.cinefil.com/film/garance",
       "seances": [
         {
-          "date": "2026-10-07",
-          "time": "13:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "16:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "20:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-10-08",
+          "date": "2026-10-14",
           "time": "13:55",
           "version": "VF"
         },
         {
-          "date": "2026-10-08",
-          "time": "16:10",
-          "version": "VF"
-        },
-        {
-          "date": "2026-10-08",
-          "time": "20:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-10-09",
-          "time": "13:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-10-09",
-          "time": "16:10",
-          "version": "VF"
-        },
-        {
-          "date": "2026-10-09",
+          "date": "2026-10-14",
           "time": "20:35",
           "version": "VF"
         },
         {
-          "date": "2026-10-09",
-          "time": "22:20",
+          "date": "2026-10-15",
+          "time": "13:55",
           "version": "VF"
         },
         {
-          "date": "2026-10-10",
-          "time": "13:45",
+          "date": "2026-10-15",
+          "time": "16:25",
           "version": "VF"
         },
         {
-          "date": "2026-10-10",
+          "date": "2026-10-15",
+          "time": "20:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "13:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-16",
           "time": "16:15",
           "version": "VF"
         },
         {
-          "date": "2026-10-10",
-          "time": "20:20",
+          "date": "2026-10-16",
+          "time": "20:35",
           "version": "VF"
         },
         {
-          "date": "2026-10-10",
-          "time": "22:20",
+          "date": "2026-10-17",
+          "time": "13:55",
           "version": "VF"
         },
         {
-          "date": "2026-10-11",
+          "date": "2026-10-17",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "20:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-18",
           "time": "11:00",
           "version": "VF"
         },
         {
-          "date": "2026-10-11",
-          "time": "14:00",
+          "date": "2026-10-18",
+          "time": "13:55",
           "version": "VF"
         },
         {
-          "date": "2026-10-11",
-          "time": "16:00",
+          "date": "2026-10-18",
+          "time": "16:15",
           "version": "VF"
         },
         {
-          "date": "2026-10-11",
+          "date": "2026-10-18",
           "time": "20:30",
           "version": "VF"
         },
         {
-          "date": "2026-10-12",
-          "time": "10:30",
+          "date": "2026-10-19",
+          "time": "13:55",
           "version": "VF"
         },
         {
-          "date": "2026-10-12",
-          "time": "14:00",
+          "date": "2026-10-19",
+          "time": "16:15",
           "version": "VF"
         },
         {
-          "date": "2026-10-12",
-          "time": "15:55",
+          "date": "2026-10-19",
+          "time": "18:20",
           "version": "VF"
         },
         {
-          "date": "2026-10-12",
-          "time": "20:45",
+          "date": "2026-10-19",
+          "time": "20:35",
           "version": "VF"
         },
         {
-          "date": "2026-10-13",
-          "time": "14:00",
+          "date": "2026-10-20",
+          "time": "13:55",
           "version": "VF"
         },
         {
-          "date": "2026-10-13",
-          "time": "16:10",
+          "date": "2026-10-20",
+          "time": "18:15",
           "version": "VF"
         },
         {
-          "date": "2026-10-13",
-          "time": "20:30",
+          "date": "2026-10-20",
+          "time": "20:35",
           "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "Hope",
-      "year": 2026,
-      "duration_min": 160,
-      "genre": "Science-Fiction",
-      "directors": [
-        "Na Hong-Jin"
-      ],
-      "cast": [
-        "Hwang Jung-Min",
-        "Cho In-sung",
-        "Jung Ho-Yeon"
-      ],
-      "synopsis": "Alors que les secours sont mobilisés ailleurs et que toute communication est interrompue, les habitants de Hope doivent faire face seuls à une menace grandissante. Tandis que certains tentent de protéger le village, d’autres s’aventurent dans la montagne… mais deviennent à leur tour des proies. L’ignorance et la peur déclenchent une spirale incontrôlable aux conséquences dévastatrices.",
-      "poster_url": "posters/1484034.webp",
-      "detail_url": "https://www.cinefil.com/film/hope-2026",
-      "seances": [
-        {
-          "date": "2026-10-11",
-          "time": "20:15",
-          "version": "VO"
-        }
-      ]
-    },
-    {
-      "title": "Karmadona",
-      "year": 2026,
-      "duration_min": 118,
-      "genre": "Horreur",
-      "directors": [
-        "Aleksandar Radivojević"
-      ],
-      "cast": [
-        "Jelena Đokić",
-        "Sergej Trifunovic",
-        "Mima Karadzic"
-      ],
-      "synopsis": "Une femme enceinte reçoit des ultimatums d'une entité surnaturelle lui demandant de commettre des meurtres ou de faire face à la mort de son enfant à naître.",
-      "poster_url": "posters/1262391.webp",
-      "detail_url": "https://www.cinefil.com/film/karmadona",
-      "seances": [
-        {
-          "date": "2026-10-08",
-          "time": "19:55",
-          "version": "VO"
         }
       ]
     },
@@ -548,219 +327,212 @@
       "detail_url": "https://www.cinefil.com/film/lespece-explosive",
       "seances": [
         {
-          "date": "2026-10-07",
-          "time": "14:00",
+          "date": "2026-10-14",
+          "time": "18:35",
           "version": "VF"
         },
         {
-          "date": "2026-10-07",
-          "time": "19:00",
+          "date": "2026-10-14",
+          "time": "20:45",
           "version": "VF"
         },
         {
-          "date": "2026-10-08",
-          "time": "16:00",
+          "date": "2026-10-15",
+          "time": "18:35",
           "version": "VF"
         },
         {
-          "date": "2026-10-08",
+          "date": "2026-10-15",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "18:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "22:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "18:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "22:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "18:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "20:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "11:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "18:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "18:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-20",
           "time": "20:35",
           "version": "VF"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Le Corset",
+      "year": 2026,
+      "duration_min": 80,
+      "genre": "Animation",
+      "directors": [
+        "Louis Clichy"
+      ],
+      "cast": [
+        "Gary Clichy",
+        "Rod Paradot",
+        "Dimitri Colas"
+      ],
+      "synopsis": "Dans une ferme au cœur de la Beauce, Christophe, 11 ans, règle ses pas sur ceux de son père. Mais à l’école, à la maison, sur le tracteur, Christophe penche... et tombe. Il est obligé de porter un corset pour filer droit. Tandis que la ferme traverse des moments difficiles, Christophe grandit comme il peut. Il découvre la musique et fait la rencontre de Clara, avec qui tout semble devenir possible.",
+      "poster_url": "posters/1524306.webp",
+      "detail_url": "https://www.cinefil.com/film/le-corset",
+      "seances": [
         {
-          "date": "2026-10-09",
-          "time": "14:00",
+          "date": "2026-10-14",
+          "time": "14:30",
           "version": "VF"
         },
         {
-          "date": "2026-10-09",
-          "time": "18:10",
+          "date": "2026-10-14",
+          "time": "16:30",
           "version": "VF"
         },
         {
-          "date": "2026-10-10",
+          "date": "2026-10-14",
+          "time": "18:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "16:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "18:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-16",
           "time": "16:00",
           "version": "VF"
         },
         {
-          "date": "2026-10-10",
+          "date": "2026-10-16",
           "time": "20:25",
           "version": "VF"
         },
         {
-          "date": "2026-10-11",
+          "date": "2026-10-17",
           "time": "14:05",
           "version": "VF"
         },
         {
-          "date": "2026-10-11",
-          "time": "18:30",
+          "date": "2026-10-17",
+          "time": "16:05",
           "version": "VF"
         },
         {
-          "date": "2026-10-12",
-          "time": "16:45",
+          "date": "2026-10-17",
+          "time": "20:05",
           "version": "VF"
         },
         {
-          "date": "2026-10-12",
-          "time": "20:30",
+          "date": "2026-10-18",
+          "time": "11:30",
           "version": "VF"
         },
         {
-          "date": "2026-10-13",
-          "time": "14:05",
+          "date": "2026-10-18",
+          "time": "14:30",
           "version": "VF"
         },
         {
-          "date": "2026-10-13",
-          "time": "18:30",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "La Gradiva",
-      "year": 2026,
-      "duration_min": 145,
-      "genre": "Drame",
-      "directors": [
-        "Marine Atlan"
-      ],
-      "cast": [
-        "Antonia Buresi",
-        "Colas Quignard",
-        "Suzanne Gerin"
-      ],
-      "synopsis": "Un groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalement. L’un après l’autre, ils se laissent submerger par le désir et la colère jusqu’à s’y abandonner complètement.",
-      "poster_url": "posters/1513534.webp",
-      "detail_url": "https://www.cinefil.com/film/la-gradiva",
-      "seances": [
-        {
-          "date": "2026-10-13",
-          "time": "20:15",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "La revanche de freddy",
-      "year": 1986,
-      "duration_min": 96,
-      "genre": "Horreur",
-      "directors": [
-        "Jack Sholder"
-      ],
-      "cast": [
-        "Robert Englund",
-        "Mark Patton",
-        "Kim Myers"
-      ],
-      "synopsis": "La famille Walsh vient d'emmenager dans la maison sinistre de Elm Street. Dans sa chambre sous les toits, Jesse, 17 ans, est bientot la proie de terribles cauchemars. Ces cauchemars empirent et se melent au reel. Freddy Krueger lui apparait dans l'obscurite. Peu a peu, Jesse sent qu'il succombe au pouvoir de ce fantome...",
-      "poster_url": "posters/220064.webp",
-      "detail_url": "https://www.cinefil.com/film/la-revanche-de-freddy",
-      "seances": [
-        {
-          "date": "2026-10-07",
-          "time": "20:15",
-          "version": "VO"
-        }
-      ]
-    },
-    {
-      "title": "La vie d'une femme",
-      "year": 2026,
-      "duration_min": 98,
-      "genre": "Drame",
-      "directors": [
-        "Charline Bourgeois-Tacquet"
-      ],
-      "cast": [
-        "Léa Drucker",
-        "Mélanie Thierry",
-        "Charles Berling"
-      ],
-      "synopsis": "Gabrielle, 55 ans, se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
-      "poster_url": "posters/1436143.webp",
-      "detail_url": "https://www.cinefil.com/film/la-vie-d-une-femme",
-      "seances": [
-        {
-          "date": "2026-10-07",
-          "time": "18:40",
+          "date": "2026-10-18",
+          "time": "16:30",
           "version": "VF"
         },
         {
-          "date": "2026-10-08",
-          "time": "16:35",
-          "version": "VF"
-        },
-        {
-          "date": "2026-10-09",
-          "time": "13:35",
-          "version": "VF"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "18:50",
-          "version": "VF"
-        },
-        {
-          "date": "2026-10-12",
-          "time": "16:35",
-          "version": "VF"
-        },
-        {
-          "date": "2026-10-12",
-          "time": "18:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-10-13",
-          "time": "13:55",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "Les Roches Rouges",
-      "year": 2026,
-      "duration_min": 91,
-      "genre": "Drame",
-      "directors": [
-        "Bruno Dumont"
-      ],
-      "cast": [
-        "Kaylon Lancel",
-        "Kelsie Verdeilles",
-        "Louise Podolski"
-      ],
-      "synopsis": "Sur la Côte d’Azur, deux bandes d’enfants s’affrontent à leur jeu favori : sauter des rochers rouges de la Méditerranée. Géo, 5 ans à peine, découvre le temps d’un été un monde où l’amitié se mêle à la rivalité, et où les premiers élans du cœur deviennent source de tensions.",
-      "poster_url": "posters/1412715.webp",
-      "detail_url": "https://www.cinefil.com/film/les-roches-rouges",
-      "seances": [
-        {
-          "date": "2026-10-08",
+          "date": "2026-10-18",
           "time": "18:35",
           "version": "VF"
         },
         {
-          "date": "2026-10-09",
-          "time": "18:15",
+          "date": "2026-10-19",
+          "time": "11:30",
           "version": "VF"
         },
         {
-          "date": "2026-10-11",
-          "time": "18:45",
+          "date": "2026-10-19",
+          "time": "14:30",
           "version": "VF"
         },
         {
-          "date": "2026-10-12",
-          "time": "18:35",
+          "date": "2026-10-19",
+          "time": "16:30",
           "version": "VF"
         },
         {
-          "date": "2026-10-13",
-          "time": "18:45",
+          "date": "2026-10-19",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "11:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "14:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "16:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "18:55",
           "version": "VF"
         }
       ]
@@ -783,122 +555,163 @@
       "detail_url": "https://www.cinefil.com/film/les-elephants-dans-la-brume",
       "seances": [
         {
-          "date": "2026-10-07",
-          "time": "18:30",
+          "date": "2026-10-15",
+          "time": "18:15",
           "version": "VO"
         },
         {
-          "date": "2026-10-08",
+          "date": "2026-10-16",
           "time": "14:00",
           "version": "VO"
         },
         {
-          "date": "2026-10-09",
+          "date": "2026-10-16",
           "time": "18:25",
           "version": "VO"
         },
         {
-          "date": "2026-10-10",
+          "date": "2026-10-17",
           "time": "17:45",
           "version": "VO"
         },
         {
-          "date": "2026-10-11",
-          "time": "18:15",
+          "date": "2026-10-19",
+          "time": "18:30",
           "version": "VO"
         },
         {
-          "date": "2026-10-12",
+          "date": "2026-10-20",
           "time": "14:00",
           "version": "VO"
-        },
-        {
-          "date": "2026-10-12",
-          "time": "20:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-10-13",
-          "time": "18:15",
-          "version": "VO"
         }
       ]
     },
     {
-      "title": "Loups tendres et loufoques",
-      "year": 2019,
-      "duration_min": 53,
-      "genre": "Animation",
-      "directors": [
-        "Arnaud Demuynck",
-        "Rémi Durin",
-        "Pascale Hecquet",
-        "Hugo Frassetto",
-        "Anaïs Sorrentino"
-      ],
-      "cast": [],
-      "synopsis": "Des loups, en veux-tu, en voilà ! Ils roulent des mécaniques, s’imaginent régner sur tous les autres animaux, mais au fond, c’est bien connu : les loups ont tous un cœur d’artichaut ! Six courts métrages pour découvrir toutes leurs facettes, dans une large palette de techniques d’animation !",
-      "poster_url": "posters/1092947.webp",
-      "detail_url": "https://www.cinefil.com/film/loups-tendres-et-loufoques",
-      "seances": [
-        {
-          "date": "2026-10-11",
-          "time": "11:30",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "Mémoire de fille",
+      "title": "Minotaure",
       "year": 2026,
-      "duration_min": 117,
+      "duration_min": 135,
       "genre": "Drame",
       "directors": [
-        "Judith Godrèche"
+        "Andrey Zvyagintsev"
       ],
       "cast": [
-        "Tess Barthelemy",
-        "Valérie Dreville",
-        "Victor Bonnel"
+        "Дмитрий Мазуров",
+        "Ирис Лебедева",
+        "Varvara Shmykova"
       ],
-      "synopsis": "Annie Ernaux est sollicitée pour une signature de son dernier ouvrage dans la ville de son enfance, Rouen. Alors qu'elle s'y rend, elle est prise d'un vertige et replonge dans le souvenir de l'été 1958, celui de sa première nuit avec un homme. Nuit dont l'onde de choc s'est propagée violemment dans son corps et sur le reste de son existence.",
-      "poster_url": "posters/1452798.webp",
-      "detail_url": "https://www.cinefil.com/film/memoire-de-fille",
+      "synopsis": "Russie, 2022. Gleb, chef d’entreprise prospère, vit avec sa femme Galina et leur fils dans une ville de province. Il se retrouve confronté à des problèmes professionnels croissants, dans un monde de plus en plus instable. L’effondrement d’une vie soigneusement construite bascule rapidement dans la violence.",
+      "poster_url": "posters/1438120.webp",
+      "detail_url": "https://www.cinefil.com/film/minotaure",
       "seances": [
         {
-          "date": "2026-10-07",
-          "time": "18:40",
-          "version": "VF"
+          "date": "2026-10-14",
+          "time": "13:45",
+          "version": "VO"
         },
         {
-          "date": "2026-10-08",
-          "time": "18:45",
-          "version": "VF"
+          "date": "2026-10-14",
+          "time": "16:45",
+          "version": "VO"
         },
         {
-          "date": "2026-10-09",
-          "time": "18:45",
-          "version": "VF"
+          "date": "2026-10-14",
+          "time": "20:15",
+          "version": "VO"
         },
         {
-          "date": "2026-10-10",
-          "time": "18:30",
-          "version": "VF"
+          "date": "2026-10-15",
+          "time": "13:45",
+          "version": "VO"
         },
         {
-          "date": "2026-10-11",
-          "time": "18:20",
-          "version": "VF"
+          "date": "2026-10-15",
+          "time": "16:45",
+          "version": "VO"
         },
         {
-          "date": "2026-10-12",
-          "time": "18:20",
-          "version": "VF"
+          "date": "2026-10-15",
+          "time": "20:15",
+          "version": "VO"
         },
         {
-          "date": "2026-10-13",
-          "time": "18:45",
-          "version": "VF"
+          "date": "2026-10-16",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "16:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "16:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "10:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "16:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "16:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "20:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "20:45",
+          "version": "VO"
         }
       ]
     },
@@ -920,112 +733,112 @@
       "detail_url": "https://www.cinefil.com/film/ni-vue-ni-connue",
       "seances": [
         {
-          "date": "2026-10-07",
-          "time": "13:55",
+          "date": "2026-10-14",
+          "time": "14:00",
           "version": "VF"
         },
         {
-          "date": "2026-10-07",
+          "date": "2026-10-14",
           "time": "16:15",
           "version": "VF"
         },
         {
-          "date": "2026-10-07",
-          "time": "20:35",
+          "date": "2026-10-14",
+          "time": "20:30",
           "version": "VF"
         },
         {
-          "date": "2026-10-08",
+          "date": "2026-10-15",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "20:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "13:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-16",
           "time": "16:10",
           "version": "VF"
         },
         {
-          "date": "2026-10-08",
-          "time": "18:30",
+          "date": "2026-10-16",
+          "time": "20:00",
           "version": "VF"
         },
         {
-          "date": "2026-10-08",
-          "time": "20:30",
+          "date": "2026-10-17",
+          "time": "14:00",
           "version": "VF"
         },
         {
-          "date": "2026-10-09",
-          "time": "13:35",
+          "date": "2026-10-17",
+          "time": "16:10",
           "version": "VF"
         },
         {
-          "date": "2026-10-09",
-          "time": "15:55",
+          "date": "2026-10-17",
+          "time": "20:00",
           "version": "VF"
         },
         {
-          "date": "2026-10-09",
-          "time": "20:05",
+          "date": "2026-10-18",
+          "time": "14:00",
           "version": "VF"
         },
         {
-          "date": "2026-10-10",
-          "time": "13:35",
+          "date": "2026-10-18",
+          "time": "16:10",
           "version": "VF"
         },
         {
-          "date": "2026-10-10",
-          "time": "16:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "20:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "11:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "13:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "16:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-10-11",
+          "date": "2026-10-18",
           "time": "20:25",
           "version": "VF"
         },
         {
-          "date": "2026-10-12",
-          "time": "16:05",
+          "date": "2026-10-19",
+          "time": "11:05",
           "version": "VF"
         },
         {
-          "date": "2026-10-12",
-          "time": "18:15",
+          "date": "2026-10-19",
+          "time": "14:00",
           "version": "VF"
         },
         {
-          "date": "2026-10-12",
+          "date": "2026-10-19",
+          "time": "16:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-19",
           "time": "20:30",
           "version": "VF"
         },
         {
-          "date": "2026-10-13",
+          "date": "2026-10-20",
           "time": "13:55",
           "version": "VF"
         },
         {
-          "date": "2026-10-13",
-          "time": "16:00",
+          "date": "2026-10-20",
+          "time": "16:10",
           "version": "VF"
         },
         {
-          "date": "2026-10-13",
+          "date": "2026-10-20",
           "time": "20:30",
           "version": "VF"
         }
@@ -1049,113 +862,173 @@
       "detail_url": "https://www.cinefil.com/film/notre-salut",
       "seances": [
         {
-          "date": "2026-10-07",
+          "date": "2026-10-14",
           "time": "13:45",
           "version": "VF"
         },
         {
-          "date": "2026-10-07",
-          "time": "16:45",
+          "date": "2026-10-14",
+          "time": "16:25",
           "version": "VF"
         },
         {
-          "date": "2026-10-07",
+          "date": "2026-10-14",
           "time": "20:05",
           "version": "VF"
         },
         {
-          "date": "2026-10-08",
+          "date": "2026-10-15",
           "time": "13:45",
           "version": "VF"
         },
         {
-          "date": "2026-10-08",
-          "time": "16:45",
+          "date": "2026-10-15",
+          "time": "16:25",
           "version": "VF"
         },
         {
-          "date": "2026-10-08",
+          "date": "2026-10-15",
           "time": "20:05",
           "version": "VF"
         },
         {
-          "date": "2026-10-09",
+          "date": "2026-10-16",
           "time": "13:45",
           "version": "VF"
         },
         {
-          "date": "2026-10-09",
-          "time": "16:45",
+          "date": "2026-10-16",
+          "time": "16:25",
           "version": "VF"
         },
         {
-          "date": "2026-10-09",
+          "date": "2026-10-16",
           "time": "20:30",
           "version": "VF"
         },
         {
-          "date": "2026-10-10",
-          "time": "14:15",
+          "date": "2026-10-17",
+          "time": "13:45",
           "version": "VF"
         },
         {
-          "date": "2026-10-10",
-          "time": "15:50",
+          "date": "2026-10-17",
+          "time": "16:25",
           "version": "VF"
         },
         {
-          "date": "2026-10-10",
+          "date": "2026-10-17",
           "time": "20:45",
           "version": "VF"
         },
         {
-          "date": "2026-10-11",
+          "date": "2026-10-18",
           "time": "10:45",
           "version": "VF"
         },
         {
-          "date": "2026-10-11",
+          "date": "2026-10-18",
           "time": "13:45",
           "version": "VF"
         },
         {
-          "date": "2026-10-11",
+          "date": "2026-10-18",
+          "time": "16:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "20:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "10:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "13:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "16:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "20:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "10:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "13:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-20",
           "time": "16:45",
           "version": "VF"
         },
         {
-          "date": "2026-10-11",
+          "date": "2026-10-20",
           "time": "20:05",
           "version": "VF"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Petite Casbah",
+      "year": 2026,
+      "duration_min": 84,
+      "genre": "Animation",
+      "directors": [
+        "Antoine Colomb"
+      ],
+      "cast": [],
+      "synopsis": "Algérie, juin 1955. Khadidja quitte la Kabylie pour rejoindre son grand frère Malek à Alger. Suite à une altercation au marché, il se fait arrêter par la police et Khadidja se retrouve seule. Heureusement, Lyes, Ahmed et Philippe vont tout mettre en œuvre pour l’aider à retrouver Malek. Depuis les toits de la Casbah, les quatre enfants mènent l’enquête.",
+      "poster_url": "posters/1432136.webp",
+      "detail_url": "https://www.cinefil.com/film/petite-casbah",
+      "seances": [
         {
-          "date": "2026-10-12",
-          "time": "13:45",
+          "date": "2026-10-14",
+          "time": "16:10",
           "version": "VF"
         },
         {
-          "date": "2026-10-12",
-          "time": "16:15",
+          "date": "2026-10-18",
+          "time": "11:15",
           "version": "VF"
         },
         {
-          "date": "2026-10-12",
-          "time": "20:05",
+          "date": "2026-10-18",
+          "time": "16:20",
           "version": "VF"
         },
         {
-          "date": "2026-10-13",
-          "time": "13:45",
+          "date": "2026-10-19",
+          "time": "11:15",
           "version": "VF"
         },
         {
-          "date": "2026-10-13",
-          "time": "16:15",
+          "date": "2026-10-19",
+          "time": "14:10",
           "version": "VF"
         },
         {
-          "date": "2026-10-13",
-          "time": "20:05",
+          "date": "2026-10-20",
+          "time": "11:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "16:20",
           "version": "VF"
         }
       ]
@@ -1178,56 +1051,13 @@
       "detail_url": "https://www.cinefil.com/film/rrr",
       "seances": [
         {
-          "date": "2026-10-11",
+          "date": "2026-10-17",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-10-20",
           "time": "16:30",
-          "version": "VO"
-        }
-      ]
-    },
-    {
-      "title": "Stand by me",
-      "year": 1987,
-      "duration_min": 89,
-      "genre": "Drame",
-      "directors": [
-        "Rob Reiner"
-      ],
-      "cast": [
-        "Wil Wheaton",
-        "River Phoenix",
-        "Corey Feldman"
-      ],
-      "synopsis": "Quatre adolescents, Gordie, Christ, Teddy et Vern décident de retrouver le corps de Ray Brower, disparu depuis plusieurs jours dans la forêt de Castle Rock, où il a été heurté par un train. Cette aventure restera pour eux la plus étrange et la plus exaltante de leur vie.",
-      "poster_url": "posters/213367.webp",
-      "detail_url": "https://www.cinefil.com/film/stand-by-me",
-      "seances": [
-        {
-          "date": "2026-10-10",
-          "time": "16:00",
-          "version": "VO"
-        }
-      ]
-    },
-    {
-      "title": "The Killer",
-      "year": 1995,
-      "duration_min": 110,
-      "genre": "Crime",
-      "directors": [
-        "John Woo"
-      ],
-      "cast": [
-        "Yun-fat Chow",
-        "Danny Lee",
-        "Sally Yeh"
-      ],
-      "synopsis": "Jeffrey est un tueur à gages qui souhaite s'arrêter. Mais lors de l'éxécution de son dernier contrat, il prive accidentellement une jeune chanteuse de la vue. Il décide alors d'accepter une ultime mission afin de réunir l'argent nécessaire à l'opération que doit subir la jeune fille pour recouvrer la vue, et choisit d'éliminer un trafiquant. Mais un flic coriace se met sur ses traces...",
-      "poster_url": "posters/179732.webp",
-      "detail_url": "https://www.cinefil.com/film/the-killer",
-      "seances": [
-        {
-          "date": "2026-10-09",
-          "time": "18:00",
           "version": "VO"
         }
       ]
