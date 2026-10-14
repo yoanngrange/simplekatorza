@@ -1,7 +1,7 @@
 // Service worker minimal pour rendre l'app installable en PWA + cache offline.
 // Le versioning du cache permet d'invalider les vieilles versions à chaque déploiement.
 
-const CACHE = 'simplekatorza-v1';
+const CACHE = 'simplekatorza-v2';
 const CORE = [
   '/',
   '/index.html',
