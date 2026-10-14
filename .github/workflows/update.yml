@@ -26,6 +26,8 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Run scraper
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python scraper.py
 
       - name: Commit changes

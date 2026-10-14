@@ -197,6 +197,23 @@
     color: var(--text-dim);
   }
 
+  .trailer-btn {
+    position: absolute;
+    bottom: 6px;
+    right: 6px;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background: var(--accent);
+    color: var(--bg);
+    display: grid;
+    place-items: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+    transition: transform 0.15s ease;
+  }
+  .trailer-btn:hover, .trailer-btn:active { transform: scale(1.1); }
+  .trailer-btn svg { width: 12px; height: 12px; margin-left: 2px; }
+
   .film-body { display: flex; flex-direction: column; gap: 14px; }
 
   .film-title {
@@ -709,9 +726,14 @@
   }
 
   function renderFilmCard(film) {
+    const trailerBtn = film.trailer_youtube_id
+      ? `<a class="trailer-btn" href="trailer/?v=${encodeURIComponent(film.trailer_youtube_id)}" title="Voir la bande-annonce" aria-label="Voir la bande-annonce de ${escapeHtml(film.title)}">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+        </a>`
+      : '';
     const posterEl = film.poster_url
-      ? `<div class="poster"><img src="${film.poster_url}" alt="Affiche ${escapeHtml(film.title)}" loading="lazy" onerror="this.parentElement.classList.add('no-img'); this.remove();"></div>`
-      : `<div class="poster no-img"></div>`;
+      ? `<div class="poster"><img src="${film.poster_url}" alt="Affiche ${escapeHtml(film.title)}" loading="lazy" onerror="this.parentElement.classList.add('no-img'); this.remove();">${trailerBtn}</div>`
+      : `<div class="poster no-img">${trailerBtn}</div>`;
 
     const meta = [];
     if (film.year) meta.push(`<span>${film.year}</span>`);

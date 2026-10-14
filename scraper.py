@@ -15,6 +15,7 @@ Usage :
 from __future__ import annotations
 
 import json
+import os
 import re
 import sys
 from dataclasses import dataclass, field, asdict
@@ -34,6 +35,12 @@ KATORZA_BILLETTERIE_URL = "https://www.katorza.fr/katorza/alaffiche/katorza"
 ROOT = Path(__file__).parent
 OUTPUT_JSON = ROOT / "programme.json"
 POSTERS_DIR = ROOT / "posters"
+
+# Bande-annonces YouTube : recherche via l'API officielle (clé gratuite,
+# quota très confortable pour une dizaine de films/semaine). Pas de clé en
+# local -> pas de bande-annonce, le site reste fonctionnel sans.
+YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "")
+YOUTUBE_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
 
 HEADERS = {
     "User-Agent": (
@@ -69,6 +76,7 @@ class Film:
     synopsis: str = ""
     poster_url: Optional[str] = None
     detail_url: Optional[str] = None
+    trailer_youtube_id: Optional[str] = None
     seances: list[Seance] = field(default_factory=list)
 
     def to_dict(self) -> dict:
@@ -339,6 +347,40 @@ def fetch_synopsis_from_detail(detail_url: str) -> str:
         return ""
 
 
+def fetch_youtube_trailer(title: str, year: Optional[int]) -> Optional[str]:
+    """
+    Cherche la bande-annonce officielle d'un film via l'API YouTube Data v3
+    et renvoie l'ID de la première vidéo trouvée (embeddable), ou None si
+    pas de clé API, pas de résultat, ou erreur réseau — ne doit jamais faire
+    planter le scrape, une bande-annonce manquante n'est pas bloquante.
+    """
+    if not YOUTUBE_API_KEY:
+        return None
+    query = f"{title} bande annonce officielle"
+    if year:
+        query += f" {year}"
+    params = {
+        "key": YOUTUBE_API_KEY,
+        "q": query,
+        "part": "snippet",
+        "type": "video",
+        "maxResults": 1,
+        "relevanceLanguage": "fr",
+        "regionCode": "FR",
+        "videoEmbeddable": "true",
+        "videoSyndicated": "true",
+        "safeSearch": "none",
+    }
+    try:
+        resp = requests.get(YOUTUBE_SEARCH_URL, params=params, timeout=15)
+        resp.raise_for_status()
+        items = resp.json().get("items", [])
+        return items[0]["id"]["videoId"] if items else None
+    except (requests.RequestException, KeyError, ValueError) as exc:
+        print(f"  ⚠︎ recherche bande-annonce échouée pour « {title} » : {exc}", file=sys.stderr)
+        return None
+
+
 def main() -> int:
     html = fetch_page(SOURCE_URL)
     soup = BeautifulSoup(html, "html.parser")
@@ -363,6 +405,13 @@ def main() -> int:
             f.synopsis = fetch_synopsis_from_detail(f.detail_url)
             if f.synopsis:
                 print(f"  + synopsis récupéré depuis la fiche : {f.title}", file=sys.stderr)
+
+    # Bande-annonce YouTube (optionnelle, nécessite YOUTUBE_API_KEY)
+    if YOUTUBE_API_KEY:
+        for f in films:
+            f.trailer_youtube_id = fetch_youtube_trailer(f.title, f.year)
+    else:
+        print("  ⚠︎ YOUTUBE_API_KEY absente — pas de recherche de bande-annonce", file=sys.stderr)
 
     # Tri alphabétique strict (articles Le/La/Les/L' pris en compte)
     films.sort(key=lambda f: f.title.lower())
@@ -403,8 +452,10 @@ def main() -> int:
 
     total_seances = sum(len(f.seances) for f in films)
     with_posters = sum(1 for f in films if f.poster_url)
+    with_trailers = sum(1 for f in films if f.trailer_youtube_id)
     print(f"✓ {len(films)} film(s), {total_seances} séance(s), "
-          f"{with_posters}/{len(films)} affiche(s) → {OUTPUT_JSON}", file=sys.stderr)
+          f"{with_posters}/{len(films)} affiche(s), "
+          f"{with_trailers}/{len(films)} bande(s)-annonce(s) → {OUTPUT_JSON}", file=sys.stderr)
 
     # Petit résumé par film pour vérif
     for f in films[:3]:
