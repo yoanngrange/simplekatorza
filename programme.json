@@ -6,7 +6,7 @@
     "billetterie_url": "https://www.katorza.fr/katorza/alaffiche/katorza"
   },
   "source": "https://www.cinefil.com/cinema/le-katorza-nantes/programmation",
-  "scraped_at": "2026-10-14T09:00:05+02:00",
+  "scraped_at": "2026-10-14T17:28:00+02:00",
   "films": [
     {
       "title": "Butterfly Jam",
@@ -24,6 +24,7 @@
       "synopsis": "Dans le New Jersey, un adolescent de 16 ans surnommé « Pyteh » partage son temps entre les tapis de lutte et le petit restaurant tcherkesse de sa famille, au bord de la faillite. Mais une décision impulsive de son père, éternel opportuniste, vient bouleverser sa trajectoire — façonnant peu à peu un récit de fierté, d’héritage et de masculinité.",
       "poster_url": "posters/1473130.webp",
       "detail_url": "https://www.cinefil.com/film/butterfly-jam",
+      "trailer_youtube_id": "-VoOLj0cyW0",
       "seances": [
         {
           "date": "2026-10-15",
@@ -68,6 +69,7 @@
       "synopsis": "A comedy of catastrophic proportions. L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.",
       "poster_url": "posters/1452795.webp",
       "detail_url": "https://www.cinefil.com/film/digger-2026",
+      "trailer_youtube_id": "5zp-y7ZO3k4",
       "seances": [
         {
           "date": "2026-10-14",
@@ -162,6 +164,7 @@
       "synopsis": "Doraemon est un robot-chat bleu qui vient du futur. Il vit avec Nobita, un petit garçon maladroit, et ses parents. Grâce à ses gadgets secrets, Doraemon aide souvent Nobita à s'amuser ou à résoudre ses problèmes. Un été d'ennui, Doraemon propose à Nobita et leurs amis d'aller faire du camping sous la mer. En explorant les fonds marins, la bande découvre une épave et fait la rencontre des Thalassiens. C'est alors qu'une annonce très inquiétante survient : « Le Château sous-marin s'est réveillé ! ». Nobita et ses amis doivent se lancer dans une bataille qui décidera du sort de la Terre !",
       "poster_url": "posters/1433832.webp",
       "detail_url": "https://www.cinefil.com/film/doraemon-et-le-chateau-sous-marin",
+      "trailer_youtube_id": "XmXIC329RHk",
       "seances": [
         {
           "date": "2026-10-18",
@@ -196,6 +199,7 @@
       "synopsis": "Garance est une jeune actrice sans être une vedette. Elle gère et assure tout de son mieux, vaillante, joyeuse, soldate, et elle trouve dans l’alcool un carburant, un réconfort, inconditionnel. Garance change de vie et commence alors un parcours de huit ans de déménagements, de travail, de rencontres, de fêtes et d’angoisses, de joies et de coups durs… Une révolution intime, amicale et sexuelle, Mais elle consomme, toujours plus. Jusqu'à la potentialité de la mort..",
       "poster_url": "posters/1436148.webp",
       "detail_url": "https://www.cinefil.com/film/garance",
+      "trailer_youtube_id": "kgG4W6-RZyQ",
       "seances": [
         {
           "date": "2026-10-14",
@@ -325,6 +329,7 @@
       "synopsis": "Dans la campagne du Nord-Est de la France. Les sangliers qui ravagent les cultures provoquent une guerre ouverte entre chasseurs et agriculteurs. Brun, céréalier en faillite, lutte pour maintenir sa ferme à flot. Quand un notable du coin le pousse à bout, il déraille et disparaît. Un an plus tard, Fulda, un gendarme corse muté dans la région pour raisons disciplinaires, mène l’enquête. Entre intuitions fulgurantes et ratés spectaculaires, ses méthodes approximatives le mènent sur la piste des Attilas, des sangliers aux dimensions hors normes. Mais sa récente rupture amoureuse et la vodka dans laquelle flotte son cerveau n’aident pas. Heureusement, il y a Stéphane, la nouvelle psy de la gendarmerie : elle est là pour mettre un peu d’ordre dans son chaos — à moins que ce ne soit l’inverse ?",
       "poster_url": "posters/1411780.webp",
       "detail_url": "https://www.cinefil.com/film/lespece-explosive",
+      "trailer_youtube_id": "9FxsRvgElIM",
       "seances": [
         {
           "date": "2026-10-14",
@@ -414,6 +419,7 @@
       "synopsis": "Dans une ferme au cœur de la Beauce, Christophe, 11 ans, règle ses pas sur ceux de son père. Mais à l’école, à la maison, sur le tracteur, Christophe penche... et tombe. Il est obligé de porter un corset pour filer droit. Tandis que la ferme traverse des moments difficiles, Christophe grandit comme il peut. Il découvre la musique et fait la rencontre de Clara, avec qui tout semble devenir possible.",
       "poster_url": "posters/1524306.webp",
       "detail_url": "https://www.cinefil.com/film/le-corset",
+      "trailer_youtube_id": "hBG2AybVRXg",
       "seances": [
         {
           "date": "2026-10-14",
@@ -553,6 +559,7 @@
       "synopsis": "Dans un village népalais niché au cœur d’une forêt peuplée d’éléphants sauvages vit une communauté kinnar aussi vénérée que crainte pour ses pouvoirs de bénédiction et de malédiction. Pirati, l'une des mères de la communauté, rêve de s’échapper avec l’homme qu’elle aime. Mais lorsqu’une de ses filles disparaît, elle se doit mener l'enquête et choisir entre son désir de liberté et ses responsabilités envers sa communauté.",
       "poster_url": "posters/1443878.webp",
       "detail_url": "https://www.cinefil.com/film/les-elephants-dans-la-brume",
+      "trailer_youtube_id": "AkBgqwMAQII",
       "seances": [
         {
           "date": "2026-10-15",
@@ -602,6 +609,7 @@
       "synopsis": "Russie, 2022. Gleb, chef d’entreprise prospère, vit avec sa femme Galina et leur fils dans une ville de province. Il se retrouve confronté à des problèmes professionnels croissants, dans un monde de plus en plus instable. L’effondrement d’une vie soigneusement construite bascule rapidement dans la violence.",
       "poster_url": "posters/1438120.webp",
       "detail_url": "https://www.cinefil.com/film/minotaure",
+      "trailer_youtube_id": "8sOGWXD4XcI",
       "seances": [
         {
           "date": "2026-10-14",
@@ -731,6 +739,7 @@
       "synopsis": "Corinne Maclou est figurante. Elle enchaîne les tournages, parcourt inlassablement les plateaux dans le seul espoir d’être remarquée et de décrocher enfin un vrai rôle. Lorsqu’elle fait la connaissance de Sandrine Kiberlain, avec qui elle va peu à peu sympathiser, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l'aider à se faire une place au sein de la grande famille du cinéma ?",
       "poster_url": "posters/1443686.webp",
       "detail_url": "https://www.cinefil.com/film/ni-vue-ni-connue",
+      "trailer_youtube_id": "BsqJ077R3H8",
       "seances": [
         {
           "date": "2026-10-14",
@@ -860,6 +869,7 @@
       "synopsis": "Septembre 1940, le régime de Pétain se met en place. Henri Marre, 49 ans, débarque à Vichy sans le sou, sans contact, loin de sa femme et ses enfants. Il voit dans la nouvelle administration l’opportunité de trouver enfin la place qu’il mérite. Dans sa valise, son traité politique édité à compte d’auteur, Notre Salut, où il défend ses convictions patriotiques et ses méthodes d'ingénieur. Son credo: « gagner en efficacité » pour relever la France de la débâcle. Mais peut-être qu’Henri cherche avant tout à fuir sa propre débâcle…",
       "poster_url": "posters/1453924.webp",
       "detail_url": "https://www.cinefil.com/film/notre-salut",
+      "trailer_youtube_id": "B-H8GxNxDtU",
       "seances": [
         {
           "date": "2026-10-14",
@@ -995,6 +1005,7 @@
       "synopsis": "Algérie, juin 1955. Khadidja quitte la Kabylie pour rejoindre son grand frère Malek à Alger. Suite à une altercation au marché, il se fait arrêter par la police et Khadidja se retrouve seule. Heureusement, Lyes, Ahmed et Philippe vont tout mettre en œuvre pour l’aider à retrouver Malek. Depuis les toits de la Casbah, les quatre enfants mènent l’enquête.",
       "poster_url": "posters/1432136.webp",
       "detail_url": "https://www.cinefil.com/film/petite-casbah",
+      "trailer_youtube_id": "h6Lzk3zXO2Q",
       "seances": [
         {
           "date": "2026-10-14",
@@ -1049,6 +1060,7 @@
       "synopsis": "À l'époque coloniale, en Inde, les anglais enlèvent une jeune fille d'une communauté tribale. Mais ce qu'ils ignorent, c'est que cette tribu a un protecteur : Bheem. Peut-être que soleil ne se couche jamais sur l'empire britannique. Mais la force est du coté des justes.",
       "poster_url": "posters/1112251.webp",
       "detail_url": "https://www.cinefil.com/film/rrr",
+      "trailer_youtube_id": "FFHsmYuktiM",
       "seances": [
         {
           "date": "2026-10-17",
