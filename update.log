@@ -571,3 +571,140 @@ To github.com:yoanngrange/simplekatorza.git
 ✓ Poussé sur GitHub
 ✓ Marqueur mis à jour (2026-10-07)
 === Terminé ===
+
+=== 2026-10-14 09:00:00 (dernier succès: 2026-10-07, dernier mercredi: 2026-10-14) ===
+→ Scraping…
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+→ 12 bloc(s) film détecté(s)
+→ 7 jour(s) mappé(s) : {'Mercredi': '2026-10-14', 'Jeudi': '2026-10-15', 'Vendredi': '2026-10-16', 'Samedi': '2026-10-17', 'Dimanche': '2026-10-18', 'Lundi': '2026-10-19', 'Mardi': '2026-10-20'}
+  ↓ 1524306.webp (26 KB)
+  ↓ 1438120.webp (20 KB)
+  ↓ 1432136.webp (22 KB)
+  + synopsis récupéré depuis la fiche : Notre salut
+  + synopsis récupéré depuis la fiche : Le Corset
+  + synopsis récupéré depuis la fiche : Ni vue, ni connue
+  + synopsis récupéré depuis la fiche : Minotaure
+  + synopsis récupéré depuis la fiche : Garance
+  + synopsis récupéré depuis la fiche : Digger
+  + synopsis récupéré depuis la fiche : L'Espèce explosive
+  + synopsis récupéré depuis la fiche : Petite Casbah
+  + synopsis récupéré depuis la fiche : Les Éléphants dans la brume
+  + synopsis récupéré depuis la fiche : Butterfly Jam
+  + synopsis récupéré depuis la fiche : Doraemon et le Château sous-marin
+  + synopsis récupéré depuis la fiche : RRR
+✓ 12 film(s), 166 séance(s), 12/12 affiche(s) → /Users/yoann/Gits/simplekatorza/programme.json
+  · Butterfly Jam (2026, 102min, Drame) — 5 séance(s)
+  · Digger (2026, 106min, Comédie) — 15 séance(s)
+  · Doraemon et le Château sous-marin (2026, 102min, Animation) — 3 séance(s)
+  · … (9 autres)
+→ 12 film(s) dans programme.json
+→ Changements détectés, commit + push
+[main 8714cba] MAJ programme 2026-10-14
+ 4 files changed, 450 insertions(+), 620 deletions(-)
+ create mode 100644 posters/1432136.webp
+ create mode 100644 posters/1438120.webp
+ create mode 100644 posters/1524306.webp
+To github.com:yoanngrange/simplekatorza.git
+   34023d0..8714cba  main -> main
+✓ Poussé sur GitHub
+✓ Marqueur mis à jour (2026-10-14)
+=== Terminé ===
+
+=== 2026-10-21 16:44:34 (dernier succès: 2026-10-14, dernier mercredi: 2026-10-21) ===
+→ Scraping…
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+→ 14 bloc(s) film détecté(s)
+→ 7 jour(s) mappé(s) : {'Mercredi': '2026-10-21', 'Jeudi': '2026-10-22', 'Vendredi': '2026-10-23', 'Samedi': '2026-10-24', 'Dimanche': '2026-10-25', 'Lundi': '2026-10-26', 'Mardi': '2026-10-27'}
+  ↓ 1478475.webp (28 KB)
+  ↓ 1460137.webp (29 KB)
+  ↓ 1274566.webp (19 KB)
+  ↓ 487924.webp (20 KB)
+  + synopsis récupéré depuis la fiche : Le Corset
+  + synopsis récupéré depuis la fiche : Notre salut
+  + synopsis récupéré depuis la fiche : Minotaure
+  + synopsis récupéré depuis la fiche : Shaun le Mouton : La Bêêête d'Halloween
+  + synopsis récupéré depuis la fiche : Ni vue, ni connue
+  + synopsis récupéré depuis la fiche : La Gradiva
+  + synopsis récupéré depuis la fiche : Une femme aujourd’hui
+  + synopsis récupéré depuis la fiche : Garance
+  + synopsis récupéré depuis la fiche : Digger
+  + synopsis récupéré depuis la fiche : L'Espèce explosive
+  + synopsis récupéré depuis la fiche : Petite Casbah
+  + synopsis récupéré depuis la fiche : Les Éléphants dans la brume
+  + synopsis récupéré depuis la fiche : Les Toutes Petites Créatures 2
+  + synopsis récupéré depuis la fiche : Une vie de chat
+  ⚠︎ YOUTUBE_API_KEY absente — pas de recherche de bande-annonce
+✓ 14 film(s), 184 séance(s), 14/14 affiche(s), 0/14 bande(s)-annonce(s) → /Users/yoann/Gits/simplekatorza/programme.json
+  · Digger (2026, 106min, Comédie) — 9 séance(s)
+  · Garance (2026, 120min, Drame) — 14 séance(s)
+  · L'Espèce explosive (2026, 95min, Drame) — 8 séance(s)
+  · … (11 autres)
+→ 14 film(s) dans programme.json
+→ Changements détectés, commit + push
+[main fb2a203] MAJ programme 2026-10-21
+ 5 files changed, 579 insertions(+), 453 deletions(-)
+ create mode 100644 posters/1274566.webp
+ create mode 100644 posters/1460137.webp
+ create mode 100644 posters/1478475.webp
+ create mode 100644 posters/487924.webp
+To github.com:yoanngrange/simplekatorza.git
+   ef9d79a..fb2a203  main -> main
+✓ Poussé sur GitHub
+✓ Marqueur mis à jour (2026-10-21)
+=== Terminé ===
+
+=== 2026-10-28 19:30:01 (dernier succès: 2026-10-21, dernier mercredi: 2026-10-28) ===
+→ Scraping…
+→ Fetch https://www.cinefil.com/cinema/le-katorza-nantes/programmation
+→ 19 bloc(s) film détecté(s)
+→ 7 jour(s) mappé(s) : {'Mercredi': '2026-10-28', 'Jeudi': '2026-10-29', 'Vendredi': '2026-10-30', 'Samedi': '2026-10-31', 'Dimanche': '2026-11-01', 'Lundi': '2026-11-02', 'Mardi': '2026-11-03'}
+  ↓ 1490502.webp (20 KB)
+  ↓ 1538535.webp (12 KB)
+  ↓ 1497924.webp (17 KB)
+  ↓ 1458284.webp (21 KB)
+  ↓ 192443.webp (12 KB)
+  ↓ 1459239.webp (18 KB)
+  ↓ 1055588.webp (28 KB)
+  ↓ 1538550.webp (15 KB)
+  ↓ 169289.webp (25 KB)
+  ↓ 220652.webp (22 KB)
+  + synopsis récupéré depuis la fiche : Quelques mots d'amour
+  + synopsis récupéré depuis la fiche : Moulin
+  + synopsis récupéré depuis la fiche : Le Corset
+  + synopsis récupéré depuis la fiche : Notre salut
+  + synopsis récupéré depuis la fiche : Shaun le Mouton : La Bêêête d'Halloween
+  + synopsis récupéré depuis la fiche : Minotaure
+  + synopsis récupéré depuis la fiche : La Gradiva
+  + synopsis récupéré depuis la fiche : Le Mystère Lucy Lost
+  + synopsis récupéré depuis la fiche : Une femme aujourd’hui
+  + synopsis récupéré depuis la fiche : Garance
+  + synopsis récupéré depuis la fiche : Ni vue, ni connue
+  + synopsis récupéré depuis la fiche : Irish Travellers
+  + synopsis récupéré depuis la fiche : Les Toutes Petites Créatures 2
+  + synopsis récupéré depuis la fiche : 15/18
+  + synopsis récupéré depuis la fiche : Les yeux verts
+  ⚠︎ YOUTUBE_API_KEY absente — pas de recherche de bande-annonce
+✓ 19 film(s), 189 séance(s), 19/19 affiche(s), 0/19 bande(s)-annonce(s) → /Users/yoann/Gits/simplekatorza/programme.json
+  · 15/18 (2026, 104min, Drame) — 1 séance(s)
+  · Garance (2026, 120min, Drame) — 12 séance(s)
+  · Irish Travellers (2026, 96min, Documentaire) — 7 séance(s)
+  · … (16 autres)
+→ 19 film(s) dans programme.json
+→ Changements détectés, commit + push
+[main 95dad4f] MAJ programme 2026-10-28
+ 11 files changed, 630 insertions(+), 500 deletions(-)
+ create mode 100644 posters/1055588.webp
+ create mode 100644 posters/1458284.webp
+ create mode 100644 posters/1459239.webp
+ create mode 100644 posters/1490502.webp
+ create mode 100644 posters/1497924.webp
+ create mode 100644 posters/1538535.webp
+ create mode 100644 posters/1538550.webp
+ create mode 100644 posters/169289.webp
+ create mode 100644 posters/192443.webp
+ create mode 100644 posters/220652.webp
+To github.com:yoanngrange/simplekatorza.git
+   fb2a203..95dad4f  main -> main
+✓ Poussé sur GitHub
+✓ Marqueur mis à jour (2026-10-28)
+=== Terminé ===
