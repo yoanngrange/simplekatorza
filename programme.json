@@ -6,7 +6,7 @@
     "billetterie_url": "https://www.katorza.fr/katorza/alaffiche/katorza"
   },
   "source": "https://www.cinefil.com/cinema/le-katorza-nantes/programmation",
-  "scraped_at": "2026-11-18T09:00:07+01:00",
+  "scraped_at": "2026-11-25T09:00:45+01:00",
   "films": [
     {
       "title": "15/18",
@@ -27,158 +27,28 @@
       "trailer_youtube_id": null,
       "seances": [
         {
-          "date": "2026-11-18",
+          "date": "2026-11-26",
           "time": "14:00",
           "version": "VF"
         },
         {
-          "date": "2026-11-18",
+          "date": "2026-11-28",
           "time": "18:30",
           "version": "VF"
         },
         {
-          "date": "2026-11-19",
-          "time": "14:00",
+          "date": "2026-11-29",
+          "time": "16:00",
           "version": "VF"
         },
         {
-          "date": "2026-11-19",
-          "time": "15:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-19",
-          "time": "20:35",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "14:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "18:25",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "20:25",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "17:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "17:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "20:35",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-24",
-          "time": "13:55",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "Carmen, l'oiseau rebelle",
-      "year": 2026,
-      "duration_min": 86,
-      "genre": "Drame",
-      "directors": [
-        "Sébastien Laudenbach"
-      ],
-      "cast": [
-        "Camélia Jordana",
-        "Milo Machado-Graner",
-        "Soumayé Bocoum"
-      ],
-      "synopsis": "Dans les ruelles de Séville, Salva, Belén et leur bande de gamins des rues vont affronter tous les dangers pour éloigner la menace qui plane sur Carmen, jeune femme libre et flamboyante. Le destin de Carmen, oiseau rebelle, est entre leurs mains.",
-      "poster_url": "posters/1563483.webp",
-      "detail_url": "https://www.cinefil.com/film/carmen-l-oiseau-rebelle",
-      "trailer_youtube_id": null,
-      "seances": [
-        {
-          "date": "2026-11-18",
-          "time": "14:30",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "Ce qui nous mène à toi",
-      "year": 2026,
-      "duration_min": 96,
-      "genre": "Drame",
-      "directors": [
-        "Khalil Cherti"
-      ],
-      "cast": [
-        "Nina Meurisse",
-        "Sofian Khammes",
-        "Maria De Medeiros"
-      ],
-      "synopsis": "Charlie et Hicham, la trentaine, s’aiment follement mais ne parviennent pas à avoir d’enfant : leur couple est infertile. Ils entament alors un parcours d’Aide Médicale à la Procréation. Pendant trois ans, entre espoirs et déceptions, ils vont mettre leur amour et leurs corps à l’épreuve, vivre une odyssée qui va les bouleverser…",
-      "poster_url": "posters/1492992.webp",
-      "detail_url": "https://www.cinefil.com/film/ce-qui-nous-mene-a-toi",
-      "trailer_youtube_id": null,
-      "seances": [
-        {
-          "date": "2026-11-18",
-          "time": "16:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "20:25",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-19",
-          "time": "14:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-19",
-          "time": "20:25",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "14:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "18:50",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "14:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "14:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-23",
+          "date": "2026-11-30",
           "time": "14:05",
           "version": "VF"
         },
         {
-          "date": "2026-11-24",
-          "time": "14:05",
+          "date": "2026-12-01",
+          "time": "16:00",
           "version": "VF"
         }
       ]
@@ -202,58 +72,128 @@
       "trailer_youtube_id": null,
       "seances": [
         {
-          "date": "2026-11-18",
-          "time": "16:20",
-          "version": "VO"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "20:50",
-          "version": "VO"
-        },
-        {
-          "date": "2026-11-19",
-          "time": "16:20",
-          "version": "VO"
-        },
-        {
-          "date": "2026-11-19",
-          "time": "20:50",
-          "version": "VO"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "16:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "20:15",
-          "version": "VO"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "22:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "18:25",
-          "version": "VO"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-11-24",
-          "time": "13:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-11-24",
+          "date": "2026-11-26",
           "time": "18:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "13:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "17:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "22:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "16:15",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "20:25",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "18:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "18:05",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Congo Boy",
+      "year": 2026,
+      "duration_min": 90,
+      "genre": "Drame",
+      "directors": [
+        "Rafiki Fariala"
+      ],
+      "cast": [
+        "Bradley Fiomona Dembeasset",
+        "Christy Djomanda Louba",
+        "Pétruche Mbomba"
+      ],
+      "synopsis": "Bangui, République Centrafricaine. Robert a 17 ans et se verrait bien faire carrière dans la musique, malgré l’opposition de son père qui veut absolument le voir faire de grandes études. Mais Robert n’est pas un centrafricain comme les autres, c’est un réfugié congolais. Quand la République Centrafricaine, fin 2013, plonge dans la crise et les affrontements entre milices, les parents de Robert décident de quitter le pays. Ils se procurent alors de faux passeports, mais se font attraper à la frontière et les deux parents sont condamnés à la prison. Robert se retrouve seul avec la charge de ses quatre frères et soeurs cadets âgés de 3 à 11 ans. Pour les nourrir, il doit travailler sans cesse et n’a pas le temps de préparer son bac. Contre toute attente, la musique pourrait l’aider à sauver sa famille, car les concerts paient bien. Un grand concours se prépare au stade avec un gros chèque à la clef pour le vainqueur… Pour y parvenir Robert va devoir se battre sur tous les fronts.",
+      "poster_url": "posters/1529544.webp",
+      "detail_url": "https://www.cinefil.com/film/congo-boy",
+      "trailer_youtube_id": null,
+      "seances": [
+        {
+          "date": "2026-11-25",
+          "time": "18:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "18:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "18:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "11:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "18:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "16:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "20:35",
+          "version": "VO"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "18:45",
           "version": "VO"
         }
       ]
@@ -277,48 +217,53 @@
       "trailer_youtube_id": null,
       "seances": [
         {
-          "date": "2026-11-18",
-          "time": "18:40",
+          "date": "2026-11-25",
+          "time": "18:00",
           "version": "VF"
         },
         {
-          "date": "2026-11-19",
-          "time": "13:55",
+          "date": "2026-11-26",
+          "time": "16:15",
           "version": "VF"
         },
         {
-          "date": "2026-11-19",
-          "time": "18:25",
+          "date": "2026-11-27",
+          "time": "16:00",
           "version": "VF"
         },
         {
-          "date": "2026-11-20",
-          "time": "13:55",
+          "date": "2026-11-28",
+          "time": "14:00",
           "version": "VF"
         },
         {
-          "date": "2026-11-20",
-          "time": "17:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-21",
+          "date": "2026-11-28",
           "time": "18:15",
           "version": "VF"
         },
         {
-          "date": "2026-11-22",
-          "time": "18:30",
+          "date": "2026-11-29",
+          "time": "18:15",
           "version": "VF"
         },
         {
-          "date": "2026-11-23",
-          "time": "18:30",
+          "date": "2026-11-30",
+          "time": "13:55",
           "version": "VF"
         },
         {
-          "date": "2026-11-24",
-          "time": "18:35",
+          "date": "2026-11-30",
+          "time": "18:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "13:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "18:25",
           "version": "VF"
         }
       ]
@@ -342,173 +287,98 @@
       "trailer_youtube_id": null,
       "seances": [
         {
-          "date": "2026-11-18",
-          "time": "14:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "16:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "18:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "20:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-19",
+          "date": "2026-11-25",
           "time": "14:05",
           "version": "VF"
         },
         {
-          "date": "2026-11-19",
-          "time": "16:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-19",
-          "time": "18:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-19",
-          "time": "20:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "16:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "18:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "20:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "22:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "14:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "16:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "20:20",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "14:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "16:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "20:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "10:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "16:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "20:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-24",
+          "date": "2026-11-25",
           "time": "16:25",
           "version": "VF"
         },
         {
-          "date": "2026-11-24",
-          "time": "20:55",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "L'Âge d'or",
-      "year": 2026,
-      "duration_min": 94,
-      "genre": "Historique",
-      "directors": [
-        "Bérenger Thouin"
-      ],
-      "cast": [
-        "Souheila Yacoub",
-        "Vassili Schneider",
-        "Elvire Popesco"
-      ],
-      "synopsis": "La vie hors-norme de Jeanne Lavaur n’appartient qu’à elle-même. Elle traverse le XXème siècle et défie son destin, depuis son enfance dans la boucherie de ses parents jusqu’à son rêve de devenir comtesse. D’une guerre à l’autre, du Paris des années folles au Brésil, son chemin croise l’Histoire et embrasse le monde, aux côtés de Guillaume de Barante et de l’intrépide Céleste.",
-      "poster_url": "posters/1537462.webp",
-      "detail_url": "https://www.cinefil.com/film/l-age-d-or-2026",
-      "trailer_youtube_id": null,
-      "seances": [
-        {
-          "date": "2026-11-18",
-          "time": "18:15",
+          "date": "2026-11-26",
+          "time": "14:05",
           "version": "VF"
         },
         {
-          "date": "2026-11-19",
+          "date": "2026-11-26",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "16:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "14:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "15:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "20:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "11:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "14:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "16:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "20:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "14:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "16:10",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-30",
           "time": "18:30",
           "version": "VF"
         },
         {
-          "date": "2026-11-20",
-          "time": "13:45",
+          "date": "2026-12-01",
+          "time": "14:10",
           "version": "VF"
         },
         {
-          "date": "2026-11-20",
-          "time": "18:10",
+          "date": "2026-12-01",
+          "time": "16:10",
           "version": "VF"
         },
         {
-          "date": "2026-11-21",
-          "time": "22:25",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "13:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-24",
-          "time": "16:05",
+          "date": "2026-12-01",
+          "time": "20:45",
           "version": "VF"
         }
       ]
@@ -532,59 +402,89 @@
       "trailer_youtube_id": null,
       "seances": [
         {
-          "date": "2026-11-18",
-          "time": "15:45",
+          "date": "2026-11-25",
+          "time": "13:45",
           "version": "VF"
         },
         {
-          "date": "2026-11-18",
-          "time": "20:30",
+          "date": "2026-11-25",
+          "time": "20:15",
           "version": "VF"
         },
         {
-          "date": "2026-11-19",
-          "time": "13:55",
+          "date": "2026-11-26",
+          "time": "15:55",
           "version": "VF"
         },
         {
-          "date": "2026-11-19",
-          "time": "17:45",
+          "date": "2026-11-27",
+          "time": "18:05",
           "version": "VF"
         },
         {
-          "date": "2026-11-20",
+          "date": "2026-11-28",
           "time": "16:05",
           "version": "VF"
         },
         {
-          "date": "2026-11-20",
+          "date": "2026-11-28",
           "time": "20:30",
           "version": "VF"
         },
         {
-          "date": "2026-11-21",
-          "time": "11:00",
+          "date": "2026-11-29",
+          "time": "13:45",
           "version": "VF"
         },
         {
-          "date": "2026-11-21",
-          "time": "20:55",
+          "date": "2026-11-29",
+          "time": "20:15",
           "version": "VF"
         },
         {
-          "date": "2026-11-22",
-          "time": "20:00",
+          "date": "2026-11-30",
+          "time": "20:25",
           "version": "VF"
         },
         {
-          "date": "2026-11-23",
+          "date": "2026-12-01",
+          "time": "20:15",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "La Libertad Doble",
+      "year": 2026,
+      "duration_min": 100,
+      "genre": "Drame",
+      "directors": [
+        "Lisandro Alonso"
+      ],
+      "cast": [
+        "Misael Saavedra",
+        "Catalina Saavedra",
+        "Adrián Fondari"
+      ],
+      "synopsis": "Nous suivrons Misael, le protagoniste du roman original, poursuivant son existence dans les bois en tant que bûcheron indépendant, où il goûte à une « liberté tranquille » ; puis cette liberté relative se trouve perturbée lorsqu'il est contraint de s'occuper de sa sœur aînée, et la logique qui structurait son existence commence à se désagréger.",
+      "poster_url": "posters/1550700.webp",
+      "detail_url": "https://www.cinefil.com/film/la-libertad-doble-2026",
+      "trailer_youtube_id": null,
+      "seances": [
+        {
+          "date": "2026-11-29",
+          "time": "18:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-30",
           "time": "18:15",
-          "version": "VF"
+          "version": "VO"
         },
         {
-          "date": "2026-11-24",
-          "time": "20:35",
-          "version": "VF"
+          "date": "2026-12-01",
+          "time": "18:20",
+          "version": "VO"
         }
       ]
     },
@@ -607,89 +507,69 @@
       "trailer_youtube_id": null,
       "seances": [
         {
-          "date": "2026-11-18",
-          "time": "14:10",
+          "date": "2026-11-29",
+          "time": "11:15",
           "version": "VF"
         },
         {
-          "date": "2026-11-19",
-          "time": "16:35",
+          "date": "2026-11-29",
+          "time": "18:25",
           "version": "VF"
         },
         {
-          "date": "2026-11-20",
+          "date": "2026-11-30",
+          "time": "18:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "18:35",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Le Noël d'Ernest et Célestine",
+      "year": 2026,
+      "duration_min": 71,
+      "genre": null,
+      "directors": [
+        "Aurélie Raphaël"
+      ],
+      "cast": [],
+      "synopsis": "La vie d’Ernest et Célestine est toujours pleine de surprises et de fantaisie : cuisiner de délicieuses charabiettes au miel, chercher le cadeau parfait ou encore préparer un spectacle de patinage… les deux complices ne s’ennuient jamais. Et au moment de préparer Noël, tout devient encore plus palpitant ! Avec Ernest et Célestine, Noël est une célébration pleine de poésie, de douceur et de tendresse !",
+      "poster_url": "posters/1538548.webp",
+      "detail_url": "https://www.cinefil.com/film/le-noel-d-ernest-et-celestine",
+      "trailer_youtube_id": null,
+      "seances": [
+        {
+          "date": "2026-11-25",
+          "time": "16:20",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "14:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-28",
           "time": "16:15",
           "version": "VF"
         },
         {
-          "date": "2026-11-21",
-          "time": "11:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "11:15",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "Le Monde à l'envers",
-      "year": 2026,
-      "duration_min": 45,
-      "genre": "Animation",
-      "directors": [
-        "Noé Garcia",
-        "Erwann Hette",
-        "Pascale Hecquet",
-        "Stéphanie Yang Chun",
-        "Tristan Francia",
-        "Arnaud Demuynck"
-      ],
-      "cast": [],
-      "synopsis": "Un souriceau qui vit la tête à l’envers, un tout petit poisson explorateur et des enfants à l’imagination débordante : ces personnages nous invitent à nous mettre à la place de celles et ceux qui perçoivent le monde différemment pour mieux les comprendre.",
-      "poster_url": "posters/1415947.webp",
-      "detail_url": "https://www.cinefil.com/film/le-monde-a-l-envers-2026",
-      "trailer_youtube_id": null,
-      "seances": [
-        {
-          "date": "2026-11-22",
+          "date": "2026-11-29",
           "time": "10:45",
           "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "Le Mystère Lucy Lost",
-      "year": 2026,
-      "duration_min": 89,
-      "genre": "Aventure",
-      "directors": [
-        "Olivier Clert"
-      ],
-      "cast": [
-        "Charlie Rosenzweig",
-        "Zach Valentin-Dattas",
-        "Jessica Monceau"
-      ],
-      "synopsis": "Malgré l’affection de sa famille, Lucy se sent comme étrangère parmi les siens. Ses dons extraordinaires et son étrange chevelure blanche suscitent la méfiance et l’hostilité des gens de son village. Aidée de Milly - une petite fille qu’elle seule peut voir- Lucy embarque dans une aventure mouvementée pour percer le secret de ses mystérieux pouvoirs et trouver sa place dans le monde.",
-      "poster_url": "posters/1497924.webp",
-      "detail_url": "https://www.cinefil.com/film/le-mystere-lucy-lost",
-      "trailer_youtube_id": null,
-      "seances": [
+        },
         {
-          "date": "2026-11-18",
-          "time": "16:10",
+          "date": "2026-11-29",
+          "time": "14:30",
           "version": "VF"
         },
         {
-          "date": "2026-11-21",
-          "time": "14:10",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "14:10",
+          "date": "2026-11-29",
+          "time": "16:25",
           "version": "VF"
         }
       ]
@@ -713,184 +593,333 @@
       "trailer_youtube_id": null,
       "seances": [
         {
-          "date": "2026-11-18",
-          "time": "16:15",
+          "date": "2026-11-25",
+          "time": "13:55",
           "version": "VF"
         },
         {
-          "date": "2026-11-18",
-          "time": "20:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-19",
-          "time": "16:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-19",
-          "time": "20:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "16:15",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "20:30",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "15:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "19:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "15:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "20:35",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "15:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "20:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-24",
-          "time": "16:00",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-24",
-          "time": "20:40",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "Les yeux verts",
-      "year": 2026,
-      "duration_min": 83,
-      "genre": "Drame",
-      "directors": [
-        "Fanny Liatard",
-        "Jérémy Trouilh"
-      ],
-      "cast": [
-        "Anamaria Vartolomei",
-        "Sayyid El Alami",
-        "Douae Butarbuch Mzaouki"
-      ],
-      "synopsis": "Chaya, 11 ans, vit avec son père, Rafi, et son grand frère, Nour, dans un petit village des Landes. À la nouvelle de leur expulsion, Rafi doit fuir précipitamment, laissant ses enfants livrés à eux-mêmes. Mais peu à peu, Nour sombre dans un sommeil mystérieux. Il est victime du syndrome de résignation. Chaya va alors tout faire pour le réveiller, et plonge dans ses rêves pour le retrouver.",
-      "poster_url": "posters/1538550.webp",
-      "detail_url": "https://www.cinefil.com/film/les-yeux-verts",
-      "trailer_youtube_id": null,
-      "seances": [
-        {
-          "date": "2026-11-18",
-          "time": "18:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-19",
-          "time": "18:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "15:55",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "11:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "14:00",
-          "version": "VF"
-        }
-      ]
-    },
-    {
-      "title": "Moulin",
-      "year": 2026,
-      "duration_min": 134,
-      "genre": "Historique",
-      "directors": [
-        "László Nemes"
-      ],
-      "cast": [
-        "Gilles Lellouche",
-        "Lars Eidinger",
-        "Louise Bourgoin"
-      ],
-      "synopsis": "Jean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre, Moulin est trahi puis livré à la Gestapo à Lyon, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…",
-      "poster_url": "posters/1538535.webp",
-      "detail_url": "https://www.cinefil.com/film/moulin",
-      "trailer_youtube_id": null,
-      "seances": [
-        {
-          "date": "2026-11-18",
+          "date": "2026-11-26",
           "time": "13:45",
           "version": "VF"
         },
         {
-          "date": "2026-11-18",
-          "time": "18:05",
+          "date": "2026-11-27",
+          "time": "17:55",
           "version": "VF"
         },
         {
-          "date": "2026-11-19",
-          "time": "13:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-19",
-          "time": "18:05",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "13:45",
-          "version": "VF"
-        },
-        {
-          "date": "2026-11-20",
+          "date": "2026-11-28",
           "time": "17:45",
           "version": "VF"
         },
         {
-          "date": "2026-11-22",
+          "date": "2026-11-29",
           "time": "10:55",
           "version": "VF"
         },
         {
-          "date": "2026-11-23",
-          "time": "15:55",
+          "date": "2026-11-29",
+          "time": "17:55",
           "version": "VF"
         },
         {
-          "date": "2026-11-24",
+          "date": "2026-11-30",
+          "time": "16:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "20:40",
+          "version": "VF"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "16:20",
+          "version": "VF"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "20:15",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Merci d'être venu",
+      "year": 2026,
+      "duration_min": 82,
+      "genre": "Documentaire",
+      "directors": [
+        "Alain Cavalier"
+      ],
+      "cast": [
+        "Alain Cavalier",
+        "Françoise Widhoff",
+        "Vincent Lindon"
+      ],
+      "synopsis": "Alain vieillit. Cela fait des années qu'il filme son quotidien : Françoise sa compagne, ses rencontres, la nature et les animaux, la vie dans tout ce qu'elle recèle de magnifique ou de cruel. Ayant vécu toute sa vie pour filmer, la caméra comme extension de son bras il a observé le monde avec une poésie de l'authenticité et de la simplicité. L'altérité, l'approche de la mort, la puissance de la vie, l'importance de l'autre s'entremêlent alors qu'il revient sur les 15 dernières années de sa vie de cinéaste comme d'Homme.",
+      "poster_url": "posters/1492998.webp",
+      "detail_url": "https://www.cinefil.com/film/merci-detre-venu",
+      "trailer_youtube_id": null,
+      "seances": [
+        {
+          "date": "2026-11-25",
+          "time": "16:20",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "18:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-27",
           "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "18:45",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "18:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "18:30",
+          "version": "VF"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "18:15",
+          "version": "VF"
+        }
+      ]
+    },
+    {
+      "title": "Paper Tiger",
+      "year": 2026,
+      "duration_min": 115,
+      "genre": "Crime",
+      "directors": [
+        "James Gray"
+      ],
+      "cast": [
+        "Adam Driver",
+        "Miles Teller",
+        "Scarlett Johansson"
+      ],
+      "synopsis": "Deux frères qui poursuivent le rêve américain se retrouvent impliqués dans un plan qui s'avère finalement trop beau pour être vrai.",
+      "poster_url": "posters/1538552.webp",
+      "detail_url": "https://www.cinefil.com/film/paper-tiger",
+      "trailer_youtube_id": null,
+      "seances": [
+        {
+          "date": "2026-11-25",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "15:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "20:45",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "22:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "20:30",
+          "version": "VO"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "13:55",
+          "version": "VO"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "16:05",
+          "version": "VO"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "20:30",
+          "version": "VO"
+        }
+      ]
+    },
+    {
+      "title": "Un bon petit soldat",
+      "year": 2026,
+      "duration_min": 102,
+      "genre": "Drame",
+      "directors": [
+        "Stéphane Brizé"
+      ],
+      "cast": [
+        "Alba Rohrwacher",
+        "Vincent Lindon",
+        "Sharif Andoura"
+      ],
+      "synopsis": "Nouvellement embauchée dans le département des Ressources Humaines d’une grande compagnie d’assurances, Carla Moretti doit travailler à réconcilier le bien-être des salariés avec les objectifs de performance de l’entreprise. Jusqu’à ce qu’elle découvre un cas de management toxique dans un des services dont elle a la responsabilité. Entre compromis et compromissions, la ligne de crête sur laquelle elle évolue devient de plus en plus étroite.",
+      "poster_url": "posters/1463466.webp",
+      "detail_url": "https://www.cinefil.com/film/un-bon-petit-soldat",
+      "trailer_youtube_id": null,
+      "seances": [
+        {
+          "date": "2026-11-25",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "20:35",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "16:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "20:25",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "13:55",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "20:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "20:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "11:05",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "20:20",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "20:20",
+          "version": "VF"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "14:00",
+          "version": "VF"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "16:15",
+          "version": "VF"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "20:35",
           "version": "VF"
         }
       ]
@@ -914,73 +943,58 @@
       "trailer_youtube_id": null,
       "seances": [
         {
-          "date": "2026-11-18",
-          "time": "13:55",
+          "date": "2026-11-25",
+          "time": "18:10",
           "version": "VO"
         },
         {
-          "date": "2026-11-18",
-          "time": "20:45",
-          "version": "VO"
-        },
-        {
-          "date": "2026-11-19",
+          "date": "2026-11-26",
           "time": "16:10",
           "version": "VO"
         },
         {
-          "date": "2026-11-19",
+          "date": "2026-11-27",
+          "time": "14:00",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "22:10",
+          "version": "VO"
+        },
+        {
+          "date": "2026-11-28",
           "time": "20:35",
           "version": "VO"
         },
         {
-          "date": "2026-11-20",
+          "date": "2026-11-29",
           "time": "13:55",
           "version": "VO"
         },
         {
-          "date": "2026-11-20",
-          "time": "20:45",
+          "date": "2026-11-29",
+          "time": "20:35",
           "version": "VO"
         },
         {
-          "date": "2026-11-20",
-          "time": "22:00",
+          "date": "2026-11-30",
+          "time": "16:00",
           "version": "VO"
         },
         {
-          "date": "2026-11-21",
-          "time": "15:55",
+          "date": "2026-11-30",
+          "time": "20:35",
           "version": "VO"
         },
         {
-          "date": "2026-11-21",
-          "time": "18:35",
+          "date": "2026-12-01",
+          "time": "14:00",
           "version": "VO"
         },
         {
-          "date": "2026-11-22",
-          "time": "16:10",
-          "version": "VO"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "16:05",
-          "version": "VO"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "18:25",
-          "version": "VO"
-        },
-        {
-          "date": "2026-11-24",
-          "time": "13:55",
-          "version": "VO"
-        },
-        {
-          "date": "2026-11-24",
-          "time": "18:35",
+          "date": "2026-12-01",
+          "time": "20:35",
           "version": "VO"
         }
       ]
